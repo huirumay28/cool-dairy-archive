@@ -10,4 +10,4 @@ A static shop archive for cool dairy — icons and brands. No pulse, no shop.
 2. Run `python3 generate.py`.
 3. Commit and push. GitHub Pages updates from `main`.
 
-Sources on every page. We don't invent designers or quotes.
+Sources on every page. We do not invent designers or quotes.
