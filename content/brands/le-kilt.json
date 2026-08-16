@@ -1,0 +1,119 @@
+{
+  "name": "Le Kilt",
+  "sort": 130,
+  "founded": "2014, London / Scotland. Hiatus 2019; relaunch about 2023.",
+  "founders": "Samantha McCoach (Leith, Edinburgh; RCA). Grandmother Lena was a kilt-maker for John Morrison on the Royal Mile.",
+  "women_founded": true,
+  "tier": "watch / Cult",
+  "card_image": "images/brands/le-kilt/product-2-the-extra-mini-mini-charcoal-grey.jpg",
+  "card_sub": "Samantha McCoach · Black Watch",
+  "story": [
+    "Lena made her a little Black Watch kilt from tartan her old boss had given her 30 years earlier. Friends asked where to get one. McCoach, then at Fred Perry, ordered 12 tartans to her granny house, made them on the kitchen table over Christmas, shot them with a flatmate. The name is a 1960s–80s Soho nightclub.",
+    "DSM, Matches, Selfridges picked it up; wholesale panic made her pause and go in-house at Cos. She designs for a girl who could be Shirley Manson or Kim Gordon. AW16: oversized safety pins and leather chokers. AW18: unravelled tartans re-woven into patches."
+  ],
+  "style_codes": [
+    "Modern kilts, Black Watch, urban greys, safety-pin hardware, wool",
+    "Attitude: quiet punk, heritage as subversion"
+  ],
+  "signature_pieces": [
+    {
+      "name": "Original Black Watch kilt, 2014",
+      "note": "Kitchen-table start."
+    },
+    {
+      "name": "AW16 safety-pin / choker collection",
+      "note": "Stated muses: Shirley Manson, Kim Gordon."
+    }
+  ],
+  "quotes": [
+    {
+      "text": "The whole thing started because my grandmother, who was a traditional kilt-maker, made me a little black kilt as a gift and it triggered a memory. She used to make me dresses out of old pieces of tartan that her boss had given away.",
+      "said_to": "Dazed",
+      "year": "2017",
+      "url": "https://www.dazeddigital.com/fashion/article/34763/1/ethical-fashion-selfridges-le-kilt-london-fashion-week"
+    },
+    {
+      "text": "Femininity is very much part of Le Kilt and that stems from the femininity found in punk and post punk… women like Debbie Harry and Kim Gordon… championed themselves as females and were feminine but didn’t take any shit whatsoever, and that’s what the SS16 collection, Stupid Girl, and the label is all about.",
+      "said_to": "Dazed, on SS16 Stupid Girl",
+      "year": null,
+      "url": "https://www.dazeddigital.com/fashion/article/26445/1/why-post-punk-girl-power-inspires-this-emerging-designer"
+    },
+    {
+      "text": "I ordered 12 tartans to my granny’s house, we made them over Christmas on the kitchen table, and did a little photoshoot with my flatmate at the time.",
+      "said_to": "British Vogue",
+      "year": null,
+      "url": "https://www.vogue.co.uk/article/le-kilt-interview"
+    }
+  ],
+  "media": [
+    {
+      "type": "image",
+      "src": "images/brands/le-kilt/product-2-the-extra-mini-mini-charcoal-grey.jpg",
+      "caption": "The Extra Mini Mini, charcoal grey. Official product still.",
+      "credit": "lekilt.co.uk",
+      "source_url": "https://lekilt.co.uk/"
+    },
+    {
+      "type": "image",
+      "src": "images/brands/le-kilt/product-3-the-extra-mini-mini.jpg",
+      "caption": "The Extra Mini Mini, black. Official product still.",
+      "credit": "lekilt.co.uk",
+      "source_url": "https://lekilt.co.uk/"
+    },
+    {
+      "type": "image",
+      "src": "images/brands/le-kilt/product-1----.jpg",
+      "caption": "Le Kilt look, official shop still.",
+      "credit": "lekilt.co.uk",
+      "source_url": "https://lekilt.co.uk/"
+    },
+    {
+      "type": "image",
+      "src": "images/brands/le-kilt/product-4-hand-knitted-aran-vest-eske.jpg",
+      "caption": "Hand-knitted Aran vest, Eske. Official product still.",
+      "credit": "lekilt.co.uk",
+      "source_url": "https://lekilt.co.uk/"
+    },
+    {
+      "type": "image",
+      "src": "images/brands/le-kilt/product-5-hand-knitted-aran-vest--walnut.jpg",
+      "caption": "Hand-knitted Aran vest, Walnut. Official product still.",
+      "credit": "lekilt.co.uk",
+      "source_url": "https://lekilt.co.uk/"
+    },
+    {
+      "type": "image",
+      "src": "images/brands/le-kilt/product-6-hand-knitted-aran-vest-light-ecru-neps.jpg",
+      "caption": "Hand-knitted Aran vest, Light Ecru Neps. Official product still.",
+      "credit": "lekilt.co.uk",
+      "source_url": "https://lekilt.co.uk/"
+    }
+  ],
+  "lookbook_links": [
+    {
+      "title": "Le Kilt — about",
+      "url": "https://lekilt.co.uk/pages/about",
+      "note": "House page."
+    },
+    {
+      "title": "British Vogue interview",
+      "url": "https://www.vogue.co.uk/article/le-kilt-interview",
+      "note": "Kitchen table."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Dazed — Selfridges / LFW",
+      "url": "https://www.dazeddigital.com/fashion/article/34763/1/ethical-fashion-selfridges-le-kilt-london-fashion-week"
+    },
+    {
+      "title": "Dazed — Stupid Girl",
+      "url": "https://www.dazeddigital.com/fashion/article/26445/1/why-post-punk-girl-power-inspires-this-emerging-designer"
+    },
+    {
+      "title": "British Vogue",
+      "url": "https://www.vogue.co.uk/article/le-kilt-interview"
+    }
+  ],
+  "slug": "le-kilt"
+}

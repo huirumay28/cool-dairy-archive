@@ -1,0 +1,117 @@
+{
+  "name": "Dilara Findikoglu",
+  "sort": 140,
+  "founded": "Eponymous London label, 2016. CSM BA 2015.",
+  "founders": "Dilara Findikoglu (b. Istanbul, 5 Sept 1990).",
+  "women_founded": true,
+  "tier": "watch",
+  "card_image": "images/brands/dilara-findikoglu/product-3-eternal-love-corset.jpg",
+  "card_sub": "CSM guerrilla, 2015 · not vintage yet",
+  "story": [
+    "Raised in a conservative Muslim household in Istanbul; she has said she built an inner world as a child because “this can’t be the real life, it’s so boring.” She moved to London at 19 for Central Saint Martins after reading that Galliano went there. When CSM left her out of the official graduate show she staged Encore CSM, a guerrilla catwalk outside the school — the same punk move as X-Girl in 1994.",
+    "Interned at Margiela under Galliano. Early collection Dante’s Islamic Inferno jammed Catholic and Islamic imagery as a critique of how religion treats women. She casts musicians and activists; Charli XCX wore her sheer black AW25 dress to the 2025 BRITs. Do not rewrite this as generic feminist rage. Her words are boredom, religion, fantasy, horror, escape."
+  ],
+  "style_codes": [
+    "Corsetry, exposed boning, sharp suiting, Victorian + occult + tartan, maximal layering",
+    "Attitude: medieval rock star — her instruction to models — not mall goth"
+  ],
+  "signature_pieces": [
+    {
+      "name": "Encore CSM guerrilla show, 2015",
+      "note": "Outside the school."
+    },
+    {
+      "name": "Dante’s Islamic Inferno",
+      "note": "Early collection, often cited as the tone-setter."
+    },
+    {
+      "name": "AW25 Venus from Chaos",
+      "note": "Charli XCX, BRITs 1 March 2025."
+    }
+  ],
+  "quotes": [
+    {
+      "text": "I created it when I was a child because I wanted to get away. I didn’t like what Islam was, I didn’t like what religion was, so I thought, ‘This can’t be the real life, it’s so boring.’ I read fantasy books like Harry Potter, The Lord of the Rings and The Chronicles of Narnia when I was in primary school and middle school, and started watching horror movies when I was in high school.",
+      "said_to": "AnOther Man",
+      "year": null,
+      "url": "https://www.anothermanmag.com/style-grooming/10243/meet-dilara-findikoglu-the-sorceress-of-british-design-interview"
+    },
+    {
+      "text": "It’s about me trying to escape the real world a little bit. Escape the things I don’t like, that I don’t want to see and don’t want to live in.",
+      "said_to": "10 Magazine",
+      "year": null,
+      "url": "https://10magazine.com/dilara-findikoglu-ten-meets-london/"
+    }
+  ],
+  "media": [
+    {
+      "type": "image",
+      "src": "images/brands/dilara-findikoglu/product-3-eternal-love-corset.jpg",
+      "caption": "Eternal Love corset. Official product still — current shop, not a vintage object.",
+      "credit": "dilarafindikoglu.com",
+      "source_url": "https://www.dilarafindikoglu.com/"
+    },
+    {
+      "type": "image",
+      "src": "images/brands/dilara-findikoglu/product-1-eternal-love-bra.jpg",
+      "caption": "Eternal Love bra. Official product still.",
+      "credit": "dilarafindikoglu.com",
+      "source_url": "https://www.dilarafindikoglu.com/"
+    },
+    {
+      "type": "image",
+      "src": "images/brands/dilara-findikoglu/product-2-eternal-love-shorts.jpg",
+      "caption": "Eternal Love shorts. Official product still.",
+      "credit": "dilarafindikoglu.com",
+      "source_url": "https://www.dilarafindikoglu.com/"
+    },
+    {
+      "type": "image",
+      "src": "images/brands/dilara-findikoglu/product-4-meet-me-at-the-altar-skirt.jpg",
+      "caption": "Meet Me at the Altar skirt. Official product still.",
+      "credit": "dilarafindikoglu.com",
+      "source_url": "https://www.dilarafindikoglu.com/"
+    },
+    {
+      "type": "image",
+      "src": "images/brands/dilara-findikoglu/product-5-meet-me-at-the-altar-jacket.jpg",
+      "caption": "Meet Me at the Altar jacket. Official product still.",
+      "credit": "dilarafindikoglu.com",
+      "source_url": "https://www.dilarafindikoglu.com/"
+    },
+    {
+      "type": "image",
+      "src": "images/brands/dilara-findikoglu/product-6-promise-me-dress---pink.jpg",
+      "caption": "Promise Me dress, pink. Official product still.",
+      "credit": "dilarafindikoglu.com",
+      "source_url": "https://www.dilarafindikoglu.com/"
+    }
+  ],
+  "lookbook_links": [
+    {
+      "title": "SHOWstudio — A/W 25",
+      "url": "https://www.showstudio.com/collections/autumn-winter-2025/dilara-findikoglu",
+      "note": "Venus from Chaos, 31 looks."
+    },
+    {
+      "title": "WWD — Charli XCX, BRITs",
+      "url": "https://wwd.com/pop-culture/celebrity-news/charli-xcx-dilara-findikoglu-dress-brit-awards-1237010123/",
+      "note": "AW25 dress."
+    }
+  ],
+  "sources": [
+    {
+      "title": "AnOther Man",
+      "url": "https://www.anothermanmag.com/style-grooming/10243/meet-dilara-findikoglu-the-sorceress-of-british-design-interview"
+    },
+    {
+      "title": "BoF",
+      "url": "https://www.businessoffashion.com/people/dilara-findikoglu/"
+    },
+    {
+      "title": "WWD — emerging",
+      "url": "https://wwd.com/fashion-news/fashion-features/feature/dilara-findikoglu-emerging-london-fashion-politics-selfridges-central-st-martins-10479644/"
+    }
+  ],
+  "slug": "dilara-findikoglu"
+}

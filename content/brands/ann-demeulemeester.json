@@ -1,0 +1,90 @@
+{
+  "name": "Ann Demeulemeester",
+  "sort": 70,
+  "founded": "1985, Antwerp, with Patrick Robyn. First Paris show 1991. She left the house in 2013.",
+  "founders": "Ann Demeulemeester (born Ann Verhelst, 1959). Current creative director is Stefano Gallici — say so; the vintage that matters is hers, 1987–2013.",
+  "women_founded": true,
+  "tier": "Halo",
+  "card_image": "images/brands/ann-demeulemeester/va-S253-2021.jpg",
+  "card_sub": "Antwerp Six · Patti’s house",
+  "story": [
+    "She is Antwerp Six. Pregnant and unable to travel to the 1986 London group show, she sent sunglasses; Barneys still ordered. The real origin is a record-shop window: at sixteen she saw Patti Smith’s Horses — white shirt, cuffs cut off, black ribbon. Years later she mailed Smith three white shirts she had made; Smith, then living quietly in Detroit, never forgot.",
+    "Smith has said that since she started performing again she has never gone onstage without wearing Ann. One S/S 1998 jacket became a Patti favorite, worn to death, and is now in the Rock and Roll Hall of Fame. PJ Harvey’s 2011 belt is the other end of that house."
+  ],
+  "style_codes": [
+    "Elongated black tailoring, slashed and falling-off shirts, combat boots",
+    "Poetry printed on sleeves, androgynous déshabillé",
+    "Attitude: gothic without costume, rock without merch"
+  ],
+  "signature_pieces": [
+    {
+      "name": "The three white shirts sent to Patti Smith",
+      "note": "Pre-friendship origin myth."
+    },
+    {
+      "name": "S/S 1997",
+      "note": "Patti on the soundtrack; déshabillé glamour."
+    },
+    {
+      "name": "S/S 1998 Corps Humain",
+      "note": "Ginsberg / Patti Footnote to Howl; the Patti jacket now at RRHOF."
+    }
+  ],
+  "quotes": [
+    {
+      "text": "I saw this record Horses and I didn’t know anything about it, but I went inside and bought it and put it on my turntable and as I listened, I thought, I have to know this person. I will know this person one day.",
+      "said_to": "Vogue, with Patti Smith",
+      "year": "2014",
+      "url": "https://www.vogue.com/article/patti-smith-ann-demeulemeester-fashion-friendship"
+    },
+    {
+      "text": "You can call it a corset, but it’s not, it’s a big belt I made… What I wanted to do with this was exactly the opposite of a corset… I wanted to make a shield or a kind of armor that would protect the fragility of a feminine body inside.",
+      "said_to": "Vogue, Pitti Uomo retrospective, on the PJ Harvey belt",
+      "year": null,
+      "url": "https://www.vogue.com/article/ann-demeulemeester-shares-the-stories-behind-the-looks-in-her-retrospective-at-pitti-uomo"
+    }
+  ],
+  "media": [
+    {
+      "type": "image",
+      "src": "images/brands/ann-demeulemeester/va-S253-2021.jpg",
+      "caption": "Ann Demeulemeester garment, V&A S.253-2021, c. 2010. Performance collection.",
+      "credit": "© Victoria and Albert Museum",
+      "source_url": "https://collections.vam.ac.uk/item/O1613731/"
+    },
+    {
+      "type": "image",
+      "src": "images/brands/ann-demeulemeester/va-S502-2024.jpg",
+      "caption": "Ann Demeulemeester, V&A S.502:1, 2-2024, c. 2015.",
+      "credit": "© Victoria and Albert Museum",
+      "source_url": "https://collections.vam.ac.uk/item/O1775267/"
+    }
+  ],
+  "lookbook_links": [
+    {
+      "title": "Vogue Runway — Spring 1998 RTW",
+      "url": "https://www.vogue.com/fashion-shows/spring-1998-ready-to-wear/ann-demeulemeester",
+      "note": "Corps Humain."
+    },
+    {
+      "title": "AnOther — SS97",
+      "url": "https://www.anothermag.com/fashion-beauty/9242/ann-demeulemeesters-fiercely-independent-ss97-collection",
+      "note": "Patti on the soundtrack."
+    }
+  ],
+  "sources": [
+    {
+      "title": "BoF — Ann Demeulemeester",
+      "url": "https://www.businessoffashion.com/people/ann-demeulemeester/"
+    },
+    {
+      "title": "Vogue — Patti friendship",
+      "url": "https://www.vogue.com/article/patti-smith-ann-demeulemeester-fashion-friendship"
+    },
+    {
+      "title": "Vogue Runway — Spring 1998",
+      "url": "https://www.vogue.com/fashion-shows/spring-1998-ready-to-wear/ann-demeulemeester"
+    }
+  ],
+  "slug": "ann-demeulemeester"
+}

@@ -1,0 +1,141 @@
+{
+  "name": "Vivienne Westwood",
+  "sort": 30,
+  "founded": "Shop at 430 King's Road, 1971 (Let It Rock). SEX 1974. Seditionaries Dec 1976–1980. World's End from 1980/81.",
+  "founders": "Vivienne Westwood (designer) + Malcolm McLaren (partner, later Sex Pistols manager). McLaren was the shop/idea partner; Westwood cut and made the clothes.",
+  "women_founded": true,
+  "tier": "Halo",
+  "card_image": "images/brands/vivienne-westwood/mini-crini.jpg",
+  "card_sub": "King’s Road 1971 · SEX · Seditionaries · World’s End",
+  "story": [
+    "Westwood and McLaren were bored of late-60s hippie London and obsessed with 1950s rebellion. In 1971 McLaren, dressed in a powder-blue teddy-boy suit, ducked into a King’s Road phone box in the rain; a shop owner across the street at 430 invited him in, then vanished and left him the keys. Westwood started knocking up Teddy Boy clothes, then biker leather, then rubber.",
+    "In 1974 they bolted huge pink padded letters spelling SEX onto the facade. December 1976 they reopened as Seditionaries: Clothes for Heroes — bondage straps, tartan, zips. After the Pistols collapsed they refitted the shop as World’s End and in 1981 showed Pirate, Westwood’s first official catwalk collection."
+  ],
+  "style_codes": [
+    "Bondage trousers with hobble straps and towelling bum-flap",
+    "Parachute shirts, tartan, safety-pin and slogan tees",
+    "Later Mini-Crini crinolines and Harris Tweed dandy suiting",
+    "Attitude: confrontational, romantic-primitive, clothes as protest"
+  ],
+  "signature_pieces": [
+    {
+      "name": "Seditionaries bondage suit, S/S 1976",
+      "note": "Black cotton, zips, D-rings, hobble straps. V&A T.252&A-1989; Met 2004.15a–c."
+    },
+    {
+      "name": "Pirate collection, 1981",
+      "note": "Gold/orange romantic pirate, first official Westwood/McLaren catwalk."
+    }
+  ],
+  "quotes": [
+    {
+      "text": "It changed the way people looked. I was messianic about punk, seeing if one could put a spoke in the system in some way. I realised there was no subversion without ideas. It’s not enough to want to destroy everything.",
+      "said_to": "The Independent",
+      "year": "2002",
+      "url": "https://www.independent.co.uk/news/people/profiles/vivienne-westwood-disgracefully-yours-the-queen-mother-of-fashion-178866.html"
+    },
+    {
+      "text": "If you invest in art, if you study yourself, you become a freedom fighter immediately because your life changes, you get off the consumer treadmill, and you start thinking. My thing as a fashion designer [is] I said buy less clothes. Keep wearing things that you’ve really chosen that you really love. That is status. It’s not that you have to keep consuming. A status symbol is a book.",
+      "said_to": "The Guardian (video, 25 April 2011)",
+      "year": "2011",
+      "url": "https://www.theguardian.com/commentisfree/video/2011/apr/25/vivienne-westwood-video"
+    }
+  ],
+  "media": [
+    {
+      "type": "image",
+      "src": "images/brands/vivienne-westwood/va-bondage-suit-T252-1989.jpg",
+      "caption": "Seditionaries bondage suit, V&A T.252&A-1989.",
+      "credit": "© Victoria and Albert Museum",
+      "source_url": "https://collections.vam.ac.uk/item/O72586/"
+    },
+    {
+      "type": "image",
+      "src": "images/brands/vivienne-westwood/1981-pirates-dress.jpg",
+      "caption": "Dress and sash, Pirates collection, Autumn/Winter 1981–82. RISD Museum.",
+      "credit": "RISD Museum / Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:1981_Vivienne_Westwood_and_Malcolm_McLaren_dress_and_sash,_Pirates_collection.jpg"
+    },
+    {
+      "type": "image",
+      "src": "images/brands/vivienne-westwood/mini-crini.jpg",
+      "caption": "Mini-Crini, museum install.",
+      "credit": "Wikimedia Commons",
+      "source_url": null
+    },
+    {
+      "type": "image",
+      "src": "images/brands/vivienne-westwood/nrw-mini-crini-harris.jpg",
+      "caption": "Mini-Crini and Harris Tweed mannequins, NRW-Forum Düsseldorf.",
+      "credit": "Wikimedia Commons",
+      "source_url": null
+    },
+    {
+      "type": "image",
+      "src": "images/brands/vivienne-westwood/1998-harris-tweed-suit.jpg",
+      "caption": "Harris Tweed suit, 1998.",
+      "credit": "Wikimedia Commons",
+      "source_url": null
+    },
+    {
+      "type": "image",
+      "src": "images/brands/vivienne-westwood/1997-elizabeth-evening-dress.jpg",
+      "caption": "Evening dress inspired by Queen Elizabeth I, Westwood, 1997.",
+      "credit": "Wikimedia Commons",
+      "source_url": null
+    },
+    {
+      "type": "image",
+      "src": "images/brands/vivienne-westwood/anglomania-dress.jpg",
+      "caption": "Anglomania dress.",
+      "credit": "Wikimedia Commons",
+      "source_url": null
+    },
+    {
+      "type": "image",
+      "src": "images/brands/vivienne-westwood/mclaren-westwood-top-design-museum.jpg",
+      "caption": "Westwood and McLaren top, Design Museum, London.",
+      "credit": "Wikimedia Commons",
+      "source_url": null
+    },
+    {
+      "type": "image",
+      "src": "images/brands/vivienne-westwood/naomi-campbell-shoes.jpg",
+      "caption": "Westwood shoes associated with Naomi Campbell’s runway fall — object shot.",
+      "credit": "Wikimedia Commons",
+      "source_url": null
+    }
+  ],
+  "lookbook_links": [
+    {
+      "title": "Westwood — The Story So Far",
+      "url": "https://www.viviennewestwood.com/en-us/westwood-world/the-story-so-far/",
+      "note": "House history."
+    },
+    {
+      "title": "V&A — bondage suit T.252&A-1989",
+      "url": "https://collections.vam.ac.uk/item/O72586/",
+      "note": "Object record."
+    },
+    {
+      "title": "Met — bondage ensemble",
+      "url": "https://www.metmuseum.org/art/collection/search/98568",
+      "note": "Object record."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Westwood — The Story So Far",
+      "url": "https://www.viviennewestwood.com/en-us/westwood-world/the-story-so-far/"
+    },
+    {
+      "title": "London Museum — King’s Road",
+      "url": "https://www.londonmuseum.org.uk/collections/london-stories/vivienne-westwood-malcolm-mclaren-kings-road-royalty/"
+    },
+    {
+      "title": "V&A T.252&A-1989",
+      "url": "https://collections.vam.ac.uk/item/O72586/"
+    }
+  ],
+  "slug": "vivienne-westwood"
+}

@@ -1,0 +1,126 @@
+{
+  "name": "Anna Sui",
+  "sort": 50,
+  "founded": "Own line from 1980/81; company 1983; first runway 1991. Still independent.",
+  "founders": "Anna Sui (first-generation Chinese American, Detroit suburbs, Parsons).",
+  "women_founded": true,
+  "tier": "Core",
+  "card_image": "images/brands/anna-sui/anna-sui.jpg",
+  "card_sub": "Women-run since 1981 · SS93 grunge",
+  "story": [
+    "Sui came to burned-out 1970s New York to meet Warhol and go to Max’s; she ended up at CBGB and the Mudd Club every night. She was designing sportswear at Glenora when friends making punk jewelry invited her to share a booth at the Boutique Show. Macy’s and Bloomingdale’s ordered a New Wave capsule; The New York Times ran a full-page ad; her boss fired her; she used the last paycheck to fund the first full collection.",
+    "In 1991 Madonna wore Sui to a Gaultier show in Paris; Meisel, Naomi, Linda and Christy pushed her onto a runway. Spring 1993 she did grunge the same season as Marc Jacobs at Perry Ellis — thrift, army surplus, Docs, stripes — then Spring 1994 babydoll dresses after watching Kurt Cobain wear vintage dresses onstage."
+  ],
+  "style_codes": [
+    "Babydoll dresses, mix-and-mismatch vintage, kilts, union suits",
+    "Psychedelic prints, Victorian-goth-rock magpie",
+    "Attitude: rock’n’roll dressing-up box, never quiet luxury"
+  ],
+  "signature_pieces": [
+    {
+      "name": "First runway, 1991",
+      "note": "The downtown debut."
+    },
+    {
+      "name": "Spring 1993 grunge",
+      "note": "Kilt ensembles, puff-print dresses, Fluevog boots."
+    },
+    {
+      "name": "Spring 1994 grunge babydoll dresses",
+      "note": "Men and women."
+    }
+  ],
+  "quotes": [
+    {
+      "text": "When I started my own business, my main reason for designing clothes was that I wanted to dress rock stars and the people who went to rock concerts. It didn’t go beyond that aspiration at that point.",
+      "said_to": "Lisa Marie Presley, Interview",
+      "year": null,
+      "url": "https://www.interviewmagazine.com/fashion/anna-sui"
+    }
+  ],
+  "media": [
+    {
+      "type": "image",
+      "src": "images/brands/anna-sui/anna-sui.jpg",
+      "caption": "Karmen Pedaru on the Anna Sui runway — Americana / sailor / star-print.",
+      "credit": "Wikimedia Commons",
+      "source_url": null
+    },
+    {
+      "type": "image",
+      "src": "images/brands/anna-sui/fw2010-340.jpg",
+      "caption": "Anna Sui Fall–Winter 2010 runway.",
+      "credit": "Wikimedia Commons",
+      "source_url": null
+    },
+    {
+      "type": "image",
+      "src": "images/brands/anna-sui/fw2010-093.jpg",
+      "caption": "Anna Sui Fall–Winter 2010 runway.",
+      "credit": "Wikimedia Commons",
+      "source_url": null
+    },
+    {
+      "type": "image",
+      "src": "images/brands/anna-sui/lumberjack-fw2009.jpg",
+      "caption": "Anna Sui lumberjack dress, Fall–Winter 2009.",
+      "credit": "Wikimedia Commons",
+      "source_url": null
+    },
+    {
+      "type": "image",
+      "src": "images/brands/anna-sui/va-T57-2004.jpg",
+      "caption": "Anna Sui ensemble, V&A T.57:2-2004.",
+      "credit": "© Victoria and Albert Museum",
+      "source_url": "https://collections.vam.ac.uk/item/O108287/"
+    },
+    {
+      "type": "image",
+      "src": "images/brands/anna-sui/va-T605-1994.jpg",
+      "caption": "Anna Sui bag, V&A T.605-1994.",
+      "credit": "© Victoria and Albert Museum",
+      "source_url": "https://collections.vam.ac.uk/item/O70034/"
+    },
+    {
+      "type": "image",
+      "src": "images/brands/anna-sui/va-T606-1994.jpg",
+      "caption": "Anna Sui pair of shoes, V&A T.606:1, 2-1994.",
+      "credit": "© Victoria and Albert Museum",
+      "source_url": "https://collections.vam.ac.uk/item/O70056/"
+    },
+    {
+      "type": "image",
+      "src": "images/brands/anna-sui/va-T608-1994.jpg",
+      "caption": "Anna Sui belt, V&A T.608-1994.",
+      "credit": "© Victoria and Albert Museum",
+      "source_url": "https://collections.vam.ac.uk/item/O70039/"
+    }
+  ],
+  "lookbook_links": [
+    {
+      "title": "Vogue Runway — Spring 1993 RTW",
+      "url": "https://www.vogue.com/fashion-shows/spring-1993-ready-to-wear/anna-sui",
+      "note": "Grunge season."
+    },
+    {
+      "title": "Anna Sui — about",
+      "url": "https://annasui.com/pages/anna-sui-about-page",
+      "note": "House page."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Anna Sui about",
+      "url": "https://annasui.com/pages/anna-sui-about-page"
+    },
+    {
+      "title": "Interview — Anna Sui",
+      "url": "https://www.interviewmagazine.com/fashion/anna-sui"
+    },
+    {
+      "title": "Vogue Runway — Spring 1993",
+      "url": "https://www.vogue.com/fashion-shows/spring-1993-ready-to-wear/anna-sui"
+    }
+  ],
+  "slug": "anna-sui"
+}
