@@ -9,11 +9,14 @@
   "card_sub": "CSM guerrilla, 2015 · not vintage yet",
   "story": [
     "Raised in a conservative Muslim household in Istanbul; she has said she built an inner world as a child because “this can’t be the real life, it’s so boring.” She moved to London at 19 for Central Saint Martins after reading that Galliano went there. When CSM left her out of the official graduate show she staged Encore CSM, a guerrilla catwalk outside the school — the same punk move as X-Girl in 1994.",
-    "Interned at Margiela under Galliano. Early collection Dante’s Islamic Inferno jammed Catholic and Islamic imagery as a critique of how religion treats women. She casts musicians and activists; Charli XCX wore her sheer black AW25 dress to the 2025 BRITs. Do not rewrite this as generic feminist rage. Her words are boredom, religion, fantasy, horror, escape."
+    "Interned at Margiela under Galliano. Early collection Dante’s Islamic Inferno jammed Catholic and Islamic imagery as a critique of how religion treats women. She casts musicians and activists; Charli XCX wore her sheer black AW25 dress to the 2025 BRITs. Do not rewrite this as generic feminist rage. Her words are boredom, religion, fantasy, horror, escape.",
+    "Added 19 Oct 2026 digest. On being left out of the 2015 CSM graduate show: “I’ll just do my own thing.” Her 2016 debut was in a London strip club: “I want to put my clothes where women’s skin is shown.” That collection was inspired by Çilem Doğan, a Turkish woman jailed for killing her abusive husband in self-defence. To critics: “Leave the woman alone, let her do what she wants.” She has spoken about rape and domestic abuse in Turkey, where girls “are always taught to be silent.”",
+    "SS26 “Cage of Innocence” showed in London in September 2025, moving from white corseted lace to a leather harness-corset with a horsetail: “women have been kept in cages of innocence and purity.” Olivia Rodrigo wore Dilara at her Hartford show."
   ],
   "style_codes": [
     "Corsetry, exposed boning, sharp suiting, Victorian + occult + tartan, maximal layering",
-    "Attitude: medieval rock star — her instruction to models — not mall goth"
+    "Attitude: medieval rock star — her instruction to models — not mall goth",
+    "Boned corsets over jersey or tracksuits, Ottoman embroidery, metal-band patches, latex over lace (added 19 Oct 2026)"
   ],
   "signature_pieces": [
     {
@@ -27,6 +30,14 @@
     {
       "name": "AW25 Venus from Chaos",
       "note": "Charli XCX, BRITs 1 March 2025."
+    },
+    {
+      "name": "2016 strip-club debut",
+      "note": "Inspired by Çilem Doğan."
+    },
+    {
+      "name": "SS26 Cage of Innocence",
+      "note": "London, Sept 2025. Leather harness-corset with horsetail."
     }
   ],
   "quotes": [
@@ -41,6 +52,18 @@
       "said_to": "10 Magazine",
       "year": null,
       "url": "https://10magazine.com/dilara-findikoglu-ten-meets-london/"
+    },
+    {
+      "text": "I want to put my clothes where women’s skin is shown.",
+      "said_to": "The Cut",
+      "year": "2016",
+      "url": "https://www.thecut.com/2016/10/designer-dilara-findikoglu-is-re-inventing-the-corset.html"
+    },
+    {
+      "text": "Leave the woman alone, let her do what she wants.",
+      "said_to": "AnOther",
+      "year": null,
+      "url": "https://www.anothermag.com/fashion-beauty/9087/why-designer-dilara-findikoglus-feminist-vision-matters"
     }
   ],
   "media": [
@@ -97,6 +120,11 @@
       "title": "WWD — Charli XCX, BRITs",
       "url": "https://wwd.com/pop-culture/celebrity-news/charli-xcx-dilara-findikoglu-dress-brit-awards-1237010123/",
       "note": "AW25 dress."
+    },
+    {
+      "title": "Vogue Runway — Spring 2026 RTW",
+      "url": "https://www.vogue.com/fashion-shows/spring-2026-ready-to-wear/dilara-findikoglu",
+      "note": "Cage of Innocence, full gallery."
     }
   ],
   "sources": [
@@ -111,6 +139,26 @@
     {
       "title": "WWD — emerging",
       "url": "https://wwd.com/fashion-news/fashion-features/feature/dilara-findikoglu-emerging-london-fashion-politics-selfridges-central-st-martins-10479644/"
+    },
+    {
+      "title": "The Cut — 2016",
+      "url": "https://www.thecut.com/2016/10/designer-dilara-findikoglu-is-re-inventing-the-corset.html"
+    },
+    {
+      "title": "AnOther — feminist vision",
+      "url": "https://www.anothermag.com/fashion-beauty/9087/why-designer-dilara-findikoglus-feminist-vision-matters"
+    },
+    {
+      "title": "Vogue — 2017",
+      "url": "https://www.vogue.com/article/designer-dilara-findikoglu-red-lipstick-london-fashion-week"
+    },
+    {
+      "title": "10 Magazine — smash the patriarchy",
+      "url": "https://10magazine.com/dilara-findikoglu-is-designing-clothes-to-smash-the-patriarchy/"
+    },
+    {
+      "title": "Vogue Runway — SS26",
+      "url": "https://www.vogue.com/fashion-shows/spring-2026-ready-to-wear/dilara-findikoglu"
     }
   ],
   "slug": "dilara-findikoglu"

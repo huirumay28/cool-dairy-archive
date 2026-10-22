@@ -326,6 +326,67 @@
           "source_url": "https://www.youtube.com/watch?v=pSUgrhmtXIw"
         }
       ]
+    },
+    {
+      "title": "Big Day Out — customised denim battle set (added 19 Oct 2026 digest)",
+      "year": "2003",
+      "garments": "Chocolate-brown denim waistcoat and hotpants with yellow topstitching, covered in studs, charms, earrings, coins, fur, beads and stones, plus Jimi Hendrix and Motörhead badges. A black bra sewn in; a dog-collar medal reads “My name is Polly.” Worn at Big Day Out, Australia, 2003, and again for a Mary McCartney shoot in 2004.",
+      "designer_season": "Made by Clare MacTaggart (V&A maker credit). Not a commercial season.",
+      "where_it_lives": "V&A S.162-2021. Polly Harvey Archive. Local files.",
+      "why_iconic": "The V&A reads it as a biker “battle jacket” — studs and patches that announce your club or band, a code punk and metal took over. Her club is just Polly.",
+      "sources": [
+        "https://collections.vam.ac.uk/item/O1554433/"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "src": "images/icons/pj-harvey/pj-2003-bigdayout-denim-set-vam-S162-2021-2.jpg",
+          "caption": "V&A S.162-2021. Big Day Out 2003 brown denim waistcoat + hotpants, Clare MacTaggart.",
+          "credit": "© Victoria and Albert Museum",
+          "source_url": "https://collections.vam.ac.uk/item/O1554433/"
+        },
+        {
+          "type": "image",
+          "src": "images/icons/pj-harvey/pj-2003-bigdayout-denim-waistcoat-vam-S162-2021-1.jpg",
+          "caption": "Waistcoat: studs, charms, Hendrix + Motörhead badges.",
+          "credit": "© Victoria and Albert Museum",
+          "source_url": "https://collections.vam.ac.uk/item/O1554433/"
+        },
+        {
+          "type": "image",
+          "src": "images/icons/pj-harvey/pj-2003-bigdayout-hotpants-detail-vam-S162-2021-3.jpg",
+          "caption": "Hotpants detail, yellow topstitching.",
+          "credit": "© Victoria and Albert Museum",
+          "source_url": "https://collections.vam.ac.uk/item/O1554433/"
+        }
+      ]
+    },
+    {
+      "title": "Uh Huh Her — Rid of Me merch tube dresses (added 19 Oct 2026 digest)",
+      "year": "2004",
+      "garments": "Tube dresses cut from her own yellow Rid of Me merch T-shirts; the cut-off sleeves became arm warmers. One prints her face. The other prints the leopard-coat photo with “HEY I’M ONE BIG QUEEN” sprayed on the wall behind her.",
+      "designer_season": "Designed by Maria Mochnacz, made by Clare MacTaggart. Upcycled merch, no commercial season.",
+      "where_it_lives": "V&A S.163-2021 (face dress) and S.164-2021 (One Big Queen dress). Local file for S.163-2021.",
+      "why_iconic": "Fan merch remade into stagewear for a record she produced herself, playing every instrument except the final drums.",
+      "sources": [
+        "https://collections.vam.ac.uk/item/O1554437/",
+        "https://collections.vam.ac.uk/item/O1554552/",
+        "https://pjharvey.net/music/uh-huh-her/"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "src": "images/icons/pj-harvey/pj-2004-uhhuhher-ridofme-merch-tube-dress-vam-S163-2021.jpg",
+          "caption": "V&A S.163-2021. Tube dress cut from Rid of Me merch, face print.",
+          "credit": "© Victoria and Albert Museum",
+          "source_url": "https://collections.vam.ac.uk/item/O1554437/"
+        },
+        {
+          "type": "pair",
+          "search": "V&A S.164-2021 PJ Harvey One Big Queen dress",
+          "source_url": "https://collections.vam.ac.uk/item/O1554552/"
+        }
+      ]
     }
   ],
   "sources": [
@@ -352,6 +413,22 @@
     {
       "title": "pjharvey.net — Down by the Water",
       "url": "https://pjharvey.net/videos/down-by-the-water/"
+    },
+    {
+      "title": "V&A — Big Day Out denim set S.162-2021",
+      "url": "https://collections.vam.ac.uk/item/O1554433/"
+    },
+    {
+      "title": "V&A — face tube dress S.163-2021",
+      "url": "https://collections.vam.ac.uk/item/O1554437/"
+    },
+    {
+      "title": "V&A — One Big Queen dress S.164-2021",
+      "url": "https://collections.vam.ac.uk/item/O1554552/"
+    },
+    {
+      "title": "pjharvey.net — Uh Huh Her",
+      "url": "https://pjharvey.net/music/uh-huh-her/"
     }
   ],
   "slug": "pj-harvey"
