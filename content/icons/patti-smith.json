@@ -38,6 +38,18 @@
       "said_to": "Ingrid Sischy, Interview",
       "year": null,
       "url": "https://www.interviewmagazine.com/uncategorized/a-taste-of-paradis-patti-smith-in-conversation-with-ingrid-sischy"
+    },
+    {
+      "text": "My Keith Richards haircut was a real discourse magnet.",
+      "said_to": "Just Kids (memoir, 2010), on Max’s Kansas City",
+      "year": null,
+      "url": "https://kortina.nyc/notes/just-kids/"
+    },
+    {
+      "text": "I was in my Keith Richards stage and I was really flashy, but you know I'm not really a great singer; I'm not really tough; I'm not really a leather man; I'm a girl",
+      "said_to": "Oui interview (oceanstar transcript)",
+      "year": "1976",
+      "url": "http://www.oceanstar.com/patti/intervus/7607oui.htm"
     }
   ],
   "why_the_look": "She wanted to look like a poet, not a girl singer. She did not have money. She had a picture of Baudelaire and a clean shirt.",
@@ -121,6 +133,35 @@
           "source_url": "https://www.vogue.com/fashion-shows/fall-2006-menswear/ann-demeulemeester"
         }
       ]
+    },
+    {
+      "title": "The Keith Richards haircut at Max’s Kansas City (added 26 Oct 2026 digest)",
+      "year": "c. 1969–70 (Just Kids era)",
+      "garments": "Hair chopped herself into a shag copied from magazine photos of Keith Richards. The look around it: men’s jackets, white shirts, skinny ties, a thin frame. The 1976 Zürich photo shows where it led: a black men’s blazer over a dark tee, wristwatch, the same shag.",
+      "designer_season": "none. Self-cut hair, menswear basics.",
+      "where_it_lives": "The haircut story is in her memoir Just Kids. The Zürich photo (Eric Bachmann, October 1976) is on Wikimedia Commons under CC BY-SA 4.0. Local file.",
+      "why_iconic": "In Just Kids she writes that the cut “caused quite a stir” at Max’s and that her social status went up overnight though she was “still the same person.” The book describes it as cutting her way out of the folk era. A haircut, not a garment, turned a bookshop clerk into the androgynous figure the Horses cover later fixed in place.",
+      "sources": [
+        "https://kortina.nyc/notes/just-kids/",
+        "https://gretchenrubin.com/podcast/a-little-happier-patti-smith-and-the-haircut-that-changed-her-life/",
+        "http://www.oceanstar.com/patti/intervus/7607oui.htm",
+        "https://commons.wikimedia.org/wiki/File:Patti_smith,_Hotel_Engematthof_Z%C3%BCrich,_Oktober_1976_%C2%A9_Eric_Bachmann.jpg"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "src": "images/icons/patti-smith/1976-zurich-bachmann.jpg",
+          "caption": "Patti Smith interviewed for Swiss TV, Hotel Engematthof, Zürich, October 1976.",
+          "credit": "Eric Bachmann / Nachlass Eric Bachmann Fotoarchiv, CC BY-SA 4.0, via Wikimedia Commons",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Patti_smith,_Hotel_Engematthof_Z%C3%BCrich,_Oktober_1976_%C2%A9_Eric_Bachmann.jpg"
+        },
+        {
+          "type": "pair",
+          "search": "Keith Richards 1969 shag haircut",
+          "source_url": "https://kortina.nyc/notes/just-kids/",
+          "caption": "Pair with a 1969 Keith Richards photo: the reference she cut from."
+        }
+      ]
     }
   ],
   "sources": [
@@ -139,6 +180,22 @@
     {
       "title": "The Guardian, June 1996 (oceanstar transcript)",
       "url": "http://www.oceanstar.com/patti/intervus/960622g.htm"
+    },
+    {
+      "title": "Just Kids notes (Andrew Kortina)",
+      "url": "https://kortina.nyc/notes/just-kids/"
+    },
+    {
+      "title": "Gretchen Rubin — Patti Smith and the haircut",
+      "url": "https://gretchenrubin.com/podcast/a-little-happier-patti-smith-and-the-haircut-that-changed-her-life/"
+    },
+    {
+      "title": "Oui, 1976 (oceanstar transcript)",
+      "url": "http://www.oceanstar.com/patti/intervus/7607oui.htm"
+    },
+    {
+      "title": "Wikimedia Commons — Zürich, October 1976 (Eric Bachmann)",
+      "url": "https://commons.wikimedia.org/wiki/File:Patti_smith,_Hotel_Engematthof_Z%C3%BCrich,_Oktober_1976_%C2%A9_Eric_Bachmann.jpg"
     }
   ],
   "slug": "patti-smith"

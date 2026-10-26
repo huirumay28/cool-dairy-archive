@@ -387,6 +387,62 @@
           "source_url": "https://collections.vam.ac.uk/item/O1554552/"
         }
       ]
+    },
+    {
+      "title": "Rid of Me — Vivienne Westwood mohair two-piece + yellow boa, supporting U2 (added 26 Oct 2026 digest)",
+      "year": "1993",
+      "garments": "Black mohair shot through with silver lurex: a short spaghetti-strap vest and a high-waisted mini skirt. Worn with a canary-yellow feather boa.",
+      "designer_season": "Designed by Vivienne Westwood (per V&A). Season not given by the V&A, so not stated here.",
+      "where_it_lives": "V&A S.167:1 to 3-2021, Polly Harvey Archive, given by the artist. The V&A says she wore it supporting U2 at Wembley, September 1993. Local file.",
+      "why_iconic": "The Rid of Me year, usually remembered as black dresses and the leopard coat, also had British punk couture in it: Westwood knit plus a cheap-glam feather boa, on the biggest stage she had played so far. She supported U2 again on the North American Elevation tour in 2001 (V&A).",
+      "sources": [
+        "https://collections.vam.ac.uk/item/O1554563/"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "src": "images/icons/pj-harvey/pj-1993-u2-wembley-westwood-mohair-vam-S167-2021.jpg",
+          "caption": "V&A S.167:1 to 3-2021. Vivienne Westwood mohair vest and mini, with the yellow feather boa.",
+          "credit": "© Victoria and Albert Museum, London",
+          "source_url": "https://collections.vam.ac.uk/item/O1554563/"
+        },
+        {
+          "type": "pair",
+          "search": "PJ Harvey U2 Zoo TV support 1993 feather boa",
+          "source_url": "https://collections.vam.ac.uk/item/O1554563/",
+          "caption": "Find a live photo to pair with the museum object."
+        }
+      ]
+    },
+    {
+      "title": "Dry — the dress from the “Dress” video (added 26 Oct 2026 digest)",
+      "year": "1991",
+      "garments": "A 1960s lime-green and gold lurex brocade dress: high ruffled neckline in lime chiffon, full skirt with chiffon ruffle hem, long sheer chiffon sleeves with brocade cuffs.",
+      "designer_season": "none. A 1960s vintage dress, no maker recorded.",
+      "where_it_lives": "V&A S.161-2021, Polly Harvey Archive, given by the artist. Local files.",
+      "why_iconic": "Her first single is about a woman trying to “dress to please him” and the dress turning into a trap (“It’s hard to walk in the dress, it’s not easy”). The video, Maria Mochnacz’s first ever, was shot in black and white on a 16mm Bolex at the Fooltime circus school in Bristol, so nobody saw the colour of this dress until the V&A photographed it.",
+      "sources": [
+        "https://collections.vam.ac.uk/item/O1554379/",
+        "https://www.mariamochnacz.com/video/v/wjrfng9x9ft3ammpk58f8d8aj8j6mp",
+        "https://en.wikipedia.org/wiki/Dress_(PJ_Harvey_song)",
+        "https://pitchfork.com/reviews/albums/22131-dry/"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "src": "images/icons/pj-harvey/pj-1991-dress-video-lime-brocade-vam-S161-2021-1.jpg",
+          "caption": "V&A S.161-2021. 1960s lime and gold lurex brocade dress from the Dress video.",
+          "credit": "© Victoria and Albert Museum, London",
+          "source_url": "https://collections.vam.ac.uk/item/O1554379/"
+        },
+        {
+          "type": "image",
+          "src": "images/icons/pj-harvey/pj-1991-dress-video-lime-brocade-vam-S161-2021-2.jpg",
+          "caption": "V&A S.161-2021, second view.",
+          "credit": "© Victoria and Albert Museum, London",
+          "source_url": "https://collections.vam.ac.uk/item/O1554379/"
+        }
+      ]
     }
   ],
   "sources": [
@@ -429,6 +485,26 @@
     {
       "title": "pjharvey.net — Uh Huh Her",
       "url": "https://pjharvey.net/music/uh-huh-her/"
+    },
+    {
+      "title": "V&A — Westwood mohair two-piece S.167-2021",
+      "url": "https://collections.vam.ac.uk/item/O1554563/"
+    },
+    {
+      "title": "V&A — Dress video brocade dress S.161-2021",
+      "url": "https://collections.vam.ac.uk/item/O1554379/"
+    },
+    {
+      "title": "Maria Mochnacz — Dress video",
+      "url": "https://www.mariamochnacz.com/video/v/wjrfng9x9ft3ammpk58f8d8aj8j6mp"
+    },
+    {
+      "title": "Wikipedia — Dress (song)",
+      "url": "https://en.wikipedia.org/wiki/Dress_(PJ_Harvey_song)"
+    },
+    {
+      "title": "Pitchfork — Dry review",
+      "url": "https://pitchfork.com/reviews/albums/22131-dry/"
     }
   ],
   "slug": "pj-harvey"
