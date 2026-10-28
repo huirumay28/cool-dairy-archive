@@ -1,0 +1,70 @@
+{
+  "name": "Charli XCX",
+  "sort": 115,
+  "born": "1992, Cambridge, England",
+  "years_active": "2008–",
+  "who_line": "A pop star who dresses like she would in real life, and buys a lot of it second-hand.",
+  "card_image": "images/icons/charli-xcx/2024-birmingham-junefreund.jpg",
+  "card_sub": "Second-hand on stage · Vinted, Oct 2026",
+  "who": [
+    "English singer and songwriter. Added in the 28 Oct 2026 pulse because of her Vinted announcement: a tour wardrobe built partly from second-hand finds, and a resale of her own closet for charity."
+  ],
+  "work": [
+    "Her Music, Fashion, Film tour was a 12-date North American arena run that ended in Las Vegas on 23 October 2026, with guests including Chappell Roan, Tinashe and Underscores (ELLE UK)."
+  ],
+  "quotes": [
+    {
+      "text": "Vintage and second-hand are a huge part of my style. Chris and I love mixing older, iconic pieces with newer things. I think it makes a look feel more personal to me and always takes us to a more unexpected place.",
+      "said_to": "Vinted newsroom announcement",
+      "year": "2026",
+      "url": "https://company.vinted.com/newsroom/vinted-charli-xcx"
+    },
+    {
+      "text": "Some were found on Vinted in the first place, worn on stage, and are now going back out into the world. Which feels like a full circle.",
+      "said_to": "Vinted newsroom announcement",
+      "year": "2026",
+      "url": "https://company.vinted.com/newsroom/vinted-charli-xcx"
+    }
+  ],
+  "why_the_look": "On this tour she and her longtime stylist Chris Horan aimed for clothes she would wear in real life rather than dressing like a pop star (ELLE UK), and sourced pre-loved pieces on Vinted with search terms like “distressed”, “gothic” and “flounce”.",
+  "beliefs": "",
+  "moments": [
+    {
+      "title": "Music, Fashion, Film tour — second-hand on stage, then back out to resale (added 28 Oct 2026 pulse)",
+      "year": "2026",
+      "garments": "Tour pieces sourced on Vinted: an early-2000s Christian Audigier piece reworked into a dress for Austin City Limits, a sheer grey blouse worn in San Diego, and a black Roberto Cavalli dress worn to the Academy Gala after-party in Los Angeles and at the Las Vegas finale. Announced for her Vinted resale: ripped-up Ann Demeulemeester tees, Balmain lace-up leather trousers and a brocade corset bodysuit worn on tour, sheer Betsey Johnson tops worn on stage, Zana Bayne lace-and-leather pieces from the “Rock Music” video, an R&M Leathers leather jacket, a pink Acne Studios dress, a custom silver Zadig & Voltaire blazer and vintage tees.",
+      "designer_season": "Labels as named by Vinted, ELLE UK and NYLON. No season is given for any piece, and the Audigier is dated only “early-2000s”.",
+      "where_it_lives": "Selected pieces go on sale on Vinted in the UK, US and Australia from Monday 16 November 2026. All proceeds go to Rainbow Railroad, which helps LGBTQI+ people facing persecution reach safety.",
+      "why_iconic": "A headline pop tour dressed partly from second-hand listings, with the clothes sent back into circulation afterwards. It is the thrift loop cool dairy runs on, at arena scale.",
+      "sources": [
+        "https://company.vinted.com/newsroom/vinted-charli-xcx",
+        "https://www.elle.com/uk/fashion/celebrity-style/a74251800/charli-xcx-interview-2026/",
+        "https://www.nylon.com/fashion/charli-xcx-vinted-sale-music-fashion-film-tour-wardrobe",
+        "https://www.dailymail.com/tvshowbiz/article-16242277/Charli-XCX-opens-wardrobe-fans-sells-tour-looks-clothes-personal-archive-Vinted-raise-money-charity.html"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "src": "images/icons/charli-xcx/2024-birmingham-junefreund.jpg",
+          "caption": "Charli XCX on stage in Birmingham, 29 November 2024 (an earlier tour, shown for reference, not a Vinted look).",
+          "credit": "Junefreund, CC BY-SA 4.0, via Wikimedia Commons",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Charli_XCX_-_Birmingham,_UK_(November_29,_2024).jpg"
+        },
+        {
+          "type": "pair",
+          "search": "Charli XCX Las Vegas Roberto Cavalli Vinted dress October 2026",
+          "source_url": "https://company.vinted.com/newsroom/vinted-charli-xcx",
+          "caption": "Pair the original Vinted listing or archive Cavalli runway look (left) with Charli wearing it on stage (right). Press photos are not freely licensed."
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {"title": "Vinted newsroom — Charli xcx partners with Vinted", "url": "https://company.vinted.com/newsroom/vinted-charli-xcx"},
+    {"title": "ELLE UK — Charli XCX is selling her tour wardrobe on Vinted", "url": "https://www.elle.com/uk/fashion/celebrity-style/a74251800/charli-xcx-interview-2026/"},
+    {"title": "NYLON — Charli xcx's Music, Fashion, Film tour wardrobe on Vinted", "url": "https://www.nylon.com/fashion/charli-xcx-vinted-sale-music-fashion-film-tour-wardrobe"},
+    {"title": "Daily Mail — Charli XCX opens up her wardrobe (27 Oct 2026)", "url": "https://www.dailymail.com/tvshowbiz/article-16242277/Charli-XCX-opens-wardrobe-fans-sells-tour-looks-clothes-personal-archive-Vinted-raise-money-charity.html"},
+    {"title": "Wikimedia Commons — Charli XCX, Birmingham 2024", "url": "https://commons.wikimedia.org/wiki/File:Charli_XCX_-_Birmingham,_UK_(November_29,_2024).jpg"}
+  ],
+  "slug": "charli-xcx"
+}
