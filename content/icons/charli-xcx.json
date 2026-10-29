@@ -57,14 +57,63 @@
           "caption": "Pair the original Vinted listing or archive Cavalli runway look (left) with Charli wearing it on stage (right). Press photos are not freely licensed."
         }
       ]
+    },
+    {
+      "title": "Airbnb.org gala — archive Roberto Cavalli on the red carpet (added 29 Oct 2026 pulse)",
+      "year": "2026",
+      "garments": "A strapless bronze-gold lamé gown, ruched through the bodice and hips, with black floral appliqué down the front, a high front slit edged in black feathers and a black feather hem. Worn with black satin pumps at Airbnb.org's first gala, Milk Studios, Los Angeles, 28 October 2026.",
+      "designer_season": "Roberto Cavalli, per Just Jared's red-carpet gallery. The Fall/Winter 2005 season is a fan identification (X user @ship_gq), not confirmed by press; it lines up visually with a Cavalli runway look and with Vogue's Fall 2005 review, which describes lamé and feathered eveningwear.",
+      "where_it_lives": "Worn on the red carpet; no resale or Vinted link announced for this piece.",
+      "why_iconic": "Days after the Vinted announcement, she wears a twenty-year-old Cavalli runway gown to a charity gala instead of a new-season loan. Archive dressing on a red carpet is the cool dairy argument in one picture.",
+      "sources": [
+        "https://www.justjared.com/2026/10/29/airbnb-gala-2026-star-studded-guest-list-all-red-carpet-photos-revealed/",
+        "https://pagesix.com/2026/10/28/photos/2026-airbnb-gala-red-carpet-jessica-alba-matthew-mcconaughey-charli-xcx-and-more/",
+        "https://x.com/ship_gq/status/2115655840476889567",
+        "https://www.vogue.com/fashion-shows/fall-2005-ready-to-wear/roberto-cavalli"
+      ],
+      "media": [
+        {
+          "type": "pair",
+          "search": "Charli XCX Airbnb.org gala Roberto Cavalli Fall 2005 runway",
+          "source_url": "https://x.com/ship_gq/status/2115655840476889567",
+          "caption": "Pair the Roberto Cavalli Fall 2005 runway look (left) with Charli on the Airbnb.org gala carpet (right). Press and runway photos are not freely licensed."
+        }
+      ]
     }
   ],
   "sources": [
-    {"title": "Vinted newsroom — Charli xcx partners with Vinted", "url": "https://company.vinted.com/newsroom/vinted-charli-xcx"},
-    {"title": "ELLE UK — Charli XCX is selling her tour wardrobe on Vinted", "url": "https://www.elle.com/uk/fashion/celebrity-style/a74251800/charli-xcx-interview-2026/"},
-    {"title": "NYLON — Charli xcx's Music, Fashion, Film tour wardrobe on Vinted", "url": "https://www.nylon.com/fashion/charli-xcx-vinted-sale-music-fashion-film-tour-wardrobe"},
-    {"title": "Daily Mail — Charli XCX opens up her wardrobe (27 Oct 2026)", "url": "https://www.dailymail.com/tvshowbiz/article-16242277/Charli-XCX-opens-wardrobe-fans-sells-tour-looks-clothes-personal-archive-Vinted-raise-money-charity.html"},
-    {"title": "Wikimedia Commons — Charli XCX, Birmingham 2024", "url": "https://commons.wikimedia.org/wiki/File:Charli_XCX_-_Birmingham,_UK_(November_29,_2024).jpg"}
+    {
+      "title": "Vinted newsroom — Charli xcx partners with Vinted",
+      "url": "https://company.vinted.com/newsroom/vinted-charli-xcx"
+    },
+    {
+      "title": "ELLE UK — Charli XCX is selling her tour wardrobe on Vinted",
+      "url": "https://www.elle.com/uk/fashion/celebrity-style/a74251800/charli-xcx-interview-2026/"
+    },
+    {
+      "title": "NYLON — Charli xcx's Music, Fashion, Film tour wardrobe on Vinted",
+      "url": "https://www.nylon.com/fashion/charli-xcx-vinted-sale-music-fashion-film-tour-wardrobe"
+    },
+    {
+      "title": "Daily Mail — Charli XCX opens up her wardrobe (27 Oct 2026)",
+      "url": "https://www.dailymail.com/tvshowbiz/article-16242277/Charli-XCX-opens-wardrobe-fans-sells-tour-looks-clothes-personal-archive-Vinted-raise-money-charity.html"
+    },
+    {
+      "title": "Wikimedia Commons — Charli XCX, Birmingham 2024",
+      "url": "https://commons.wikimedia.org/wiki/File:Charli_XCX_-_Birmingham,_UK_(November_29,_2024).jpg"
+    },
+    {
+      "title": "Just Jared — Airbnb Gala 2026 red carpet (29 Oct 2026)",
+      "url": "https://www.justjared.com/2026/10/29/airbnb-gala-2026-star-studded-guest-list-all-red-carpet-photos-revealed/"
+    },
+    {
+      "title": "Page Six — 2026 Airbnb Gala red carpet (28 Oct 2026)",
+      "url": "https://pagesix.com/2026/10/28/photos/2026-airbnb-gala-red-carpet-jessica-alba-matthew-mcconaughey-charli-xcx-and-more/"
+    },
+    {
+      "title": "Vogue — Roberto Cavalli Fall 2005 Ready-to-Wear",
+      "url": "https://www.vogue.com/fashion-shows/fall-2005-ready-to-wear/roberto-cavalli"
+    }
   ],
   "slug": "charli-xcx"
 }
