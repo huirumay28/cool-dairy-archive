@@ -1,0 +1,116 @@
+{
+  "name": "Vivienne Tam",
+  "sort": 170,
+  "founded": "First company East Wind Code, New York, after Hong Kong Polytechnic; the Met dates the Vivienne Tam house to 1982. Added 2 Nov 2026 digest.",
+  "founders": "Vivienne Tam (born Guangzhou 1957, raised in Hong Kong, in New York from the early 1980s).",
+  "women_founded": true,
+  "tier": "Core",
+  "card_image": "images/brands/vivienne-tam/va-FE44-1998.jpg",
+  "card_sub": "Hong Kong → New York · Mao collection SS95",
+  "story": [
+    "Added 2 Nov 2026 digest. Born in Guangzhou; her family left for Hong Kong when she was three (FIT Fashion History Timeline). Short of money, she made her own Chinese New Year clothes: “when I made them, they were one-of-a-kind. It gave me a sense of individuality.” She studied at Hong Kong Polytechnic, saw that Hong Kong manufactured fashion rather than designed it, and moved to New York — her first trade-show booth was decorated with hotel bed sheets she took from her room.",
+    "On identity: “Perhaps because Hong Kong was a colonial city with a mixed culture, there was a lack of identity. Growing up, you didn’t know where to belong… Fashion design is a part of me, but it was also a tool for me to learn more about the Chinese culture.”",
+    "Spring/Summer 1995, shown in New York in November 1994: the Mao collection, made with the New York-based Chinese artist Zhang Hongtu, who had painted Mao since 1987 and after Tiananmen 1989 treated it as “a kind of mental therapy.” Mao in pigtails and gingham, with a bee on his nose, in a clerical collar, in sunglasses, with lipstick. Dozens of factories refused the order; the finished garments arrived wrapped in layers of brown paper (FIT, citing Tam’s book China Chic). In her Hong Kong store, “people from China were throwing stones at the display” (Tam to NBC News, 2016). FIT also reports, citing China Chic, that shops in Taiwan would not carry the line and some US stores would not display it, while Japan embraced it. Vogue named her designer of the month in February 1995.",
+    "Zhang on the Warhol comparison: Warhol took Mao as a mass icon like Marilyn, “But for Chinese artists, Mao is a political figure… I believe that any use of Mao’s image which makes him less godlike is a form of criticism and it’s necessary.” Tam: she wanted to “represent a new China, one that had warmth, humor, and growing freedom.” Not everyone agreed — a Vogue reader wrote in 1998 that her family had been forced to burn its photographs during the Cultural Revolution. Opening Ceremony reissued the collection in 2016."
+  ],
+  "style_codes": [
+    "Printed and knitted nylon mesh, close-fitting, short sleeves, ankle length",
+    "Pop-art portrait grids and checkerboards",
+    "Sequined T-shirts and T-dresses",
+    "Mao-collar skirt suits printed with the Tiananmen portrait (the ‘serious’ half of the collection)",
+    "East–West mixing as the whole point, not decoration"
+  ],
+  "signature_pieces": [
+    {
+      "name": "Mao collection checkerboard mesh dress, SS1995",
+      "note": "V&A FE.44:1, 2-1998 (made 1998, given by the designer); The Museum at FIT 95.82.6."
+    },
+    {
+      "name": "Sequined Mao T-shirt dress, SS1995",
+      "note": "The Museum at FIT 95.82.1 — white cotton, clear sequins, yellow polyester crepe."
+    },
+    {
+      "name": "Mao portrait skirt suit, SS1995",
+      "note": "The Museum at FIT 95.82.5 — polyester ribbon."
+    },
+    {
+      "name": "Met Costume Institute dress, SS1995",
+      "note": "2004.521.1, synthetic. Shown in China: Through the Looking Glass, 2015."
+    }
+  ],
+  "quotes": [
+    {
+      "text": "His art was political, but I thought I could loosen it up a bit with fashion, to represent the openness of China.",
+      "said_to": "Vivienne Tam, China Chic (via FIT Fashion History Timeline)",
+      "year": "2006",
+      "url": "https://fashionhistory.fitnyc.edu/1995-tam-mao-collection-dress/"
+    },
+    {
+      "text": "People from China were throwing stones at the display. There was so much press, both good and bad.",
+      "said_to": "NBC News",
+      "year": "2016",
+      "url": "https://www.nbcnews.com/news/asian-america/inspired-china-designer-vivienne-tam-has-always-thought-differently-n643431"
+    },
+    {
+      "text": "When I was growing up in Hong Kong, everyone was only looking to the West. But I asked, why?",
+      "said_to": "NBC News",
+      "year": "2016",
+      "url": "https://www.nbcnews.com/news/asian-america/inspired-china-designer-vivienne-tam-has-always-thought-differently-n643431"
+    }
+  ],
+  "media": [
+    {
+      "type": "image",
+      "src": "images/brands/vivienne-tam/va-FE44-1998.jpg",
+      "caption": "V&A FE.44:1, 2-1998. Mao collection dress and underslip, printed knitted nylon mesh, SS1995 design, made 1998. Zhang Hongtu portraits: pigtails, bee, clerical collar, sunglasses.",
+      "credit": "© V&A",
+      "source_url": "https://collections.vam.ac.uk/item/O107721/mao-collection-dress-tam-vivienne/"
+    },
+    {
+      "type": "pair",
+      "search": "Vivienne Tam 1995 Mao dress Museum at FIT 95.82.6",
+      "source_url": "https://fashionhistory.fitnyc.edu/1995-tam-mao-collection-dress/",
+      "caption": "MFIT object photos (checkerboard dress, sequin T-dress, portrait suit). Reference only."
+    },
+    {
+      "type": "pair",
+      "search": "Vivienne Tam Met 2004.521.1",
+      "source_url": "https://www.metmuseum.org/art/collection/search/94090",
+      "caption": "Met record has no public-domain image."
+    }
+  ],
+  "lookbook_links": [
+    {
+      "title": "FIT Fashion History Timeline — 1995 Mao Collection dress",
+      "url": "https://fashionhistory.fitnyc.edu/1995-tam-mao-collection-dress/",
+      "note": "Object analysis, MFIT accession numbers."
+    },
+    {
+      "title": "V&A — Mao collection dress FE.44:1, 2-1998",
+      "url": "https://collections.vam.ac.uk/item/O107721/mao-collection-dress-tam-vivienne/"
+    },
+    {
+      "title": "The Met — Vivienne Tam dress 2004.521.1",
+      "url": "https://www.metmuseum.org/art/collection/search/94090"
+    }
+  ],
+  "sources": [
+    {
+      "title": "FIT Fashion History Timeline — Mao Collection",
+      "url": "https://fashionhistory.fitnyc.edu/1995-tam-mao-collection-dress/"
+    },
+    {
+      "title": "NBC News — Vivienne Tam has always ‘thought differently’ (2016)",
+      "url": "https://www.nbcnews.com/news/asian-america/inspired-china-designer-vivienne-tam-has-always-thought-differently-n643431"
+    },
+    {
+      "title": "V&A — FE.44:1, 2-1998",
+      "url": "https://collections.vam.ac.uk/item/O107721/mao-collection-dress-tam-vivienne/"
+    },
+    {
+      "title": "The Met — 2004.521.1",
+      "url": "https://www.metmuseum.org/art/collection/search/94090"
+    }
+  ],
+  "slug": "vivienne-tam"
+}

@@ -1,0 +1,97 @@
+{
+  "name": "Milk Fed",
+  "sort": 180,
+  "founded": "1994 per W (September 1994 launch story); the current Japanese owner dates it to 1995. Added 2 Nov 2026 digest.",
+  "founders": "Sofia Coppola, with Linda Meltzer of Tease Tee’s (per W, 1994); the brand’s own history names her childhood friend Stephanie Hayman as partner (milkfed.jp). Run in Japan since 2002.",
+  "women_founded": true,
+  "tier": "Traffic",
+  "card_image": null,
+  "card_sub": "Sofia Coppola · baby tees · Daikanyama",
+  "story": [
+    "Added 2 Nov 2026 digest. Coppola was 22. She had spent teenage summers around the Chanel atelier and was friends with Anna Sui and Marc Jacobs. The push came from X-Girl: “When I helped Kim Gordon and Daisy von Furth put on the X-Girl show in SoHo, I discovered they didn’t know how to sew, either. I realized I admire people who just jump into things and do it.” She designed; Linda Meltzer, whose Tease Tee’s had made the first shrunken ‘baby Ts’, was “the grown-up.”",
+    "The first line was about 20 pieces: baby tees printed ‘Wasted’ and ‘I Love Booze’, nylon T-dresses stencilled with Che Guevara or Steve McQueen, hip-hugger pinstripe trousers and skirts, nylon necktie dresses, and ‘The Lady Skirt’, a silk charmeuse slip with a little lace at the hem. Inspiration: men she saw in Central America wearing faded T-shirts with suit trousers. She refused the ‘little girl line’ label — “I’m more into the ‘Mom sensibility’” — and wanted it to fit every body even though the samples were cut on her. Anna Sui gave her a list of stores. Stockists in 1994: Bloomingdale’s (with the Lexington Avenue windows), X-Girl, Stussy Union, Fred Segal Melrose and Supreme on Lafayette.",
+    "Per the Japanese owner: a Shibuya PARCO pop-up in 1997, then the first shop in Daikanyama, Tokyo, in 1999 — before Los Angeles — named Heaven 27 after Coppola and Hayman’s band. It was dressed like a girl’s bedroom: nail polish, candy, souvenir keyrings, photo books and CDs next to the clothes, which the company links to her later films. Jeff McFetridge was art director. In 2002 Coppola stepped away to concentrate on film and the Japanese company took the brand over."
+  ],
+  "style_codes": [
+    "Shrunken baby tees with deadpan slogans",
+    "Nylon T-dresses with stencilled portraits",
+    "Low-rise pinstripe trousers and skirts — menswear suiting worn with faded tees",
+    "Bias slip skirts with a small lace hem",
+    "1990s LA/NY/Tokyo girl-brand graphics; Jeff McFetridge art direction"
+  ],
+  "signature_pieces": [
+    {
+      "name": "‘Wasted’ / ‘I Love Booze’ baby tees, 1994",
+      "note": "Debut line, per W."
+    },
+    {
+      "name": "Stencil-portrait nylon T-dresses, 1994",
+      "note": "Che Guevara, Steve McQueen."
+    },
+    {
+      "name": "The Lady Skirt, 1994",
+      "note": "Silk charmeuse slip, tiny lace hem."
+    }
+  ],
+  "quotes": [
+    {
+      "text": "I realized I admire people who just jump into things and do it.",
+      "said_to": "W, Sept 1994",
+      "year": "1994",
+      "url": "https://www.wmagazine.com/story/sofia-coppola-milk-fed"
+    },
+    {
+      "text": "I want the clothes to be able to be worn on every kind of figure, even though I’m flatchested.",
+      "said_to": "W, Sept 1994",
+      "year": "1994",
+      "url": "https://www.wmagazine.com/story/sofia-coppola-milk-fed"
+    },
+    {
+      "text": "You know, most clothes in this price range are pretty generic. The Gap all looks the same. My clothes are definitely different.",
+      "said_to": "W, Sept 1994",
+      "year": "1994",
+      "url": "https://www.wmagazine.com/story/sofia-coppola-milk-fed"
+    }
+  ],
+  "media": [
+    {
+      "type": "pair",
+      "search": "Milk Fed Sofia Coppola 1994 W magazine Paul Jasmin Chateau Marmont",
+      "source_url": "https://www.wmagazine.com/story/sofia-coppola-milk-fed",
+      "caption": "Paul Jasmin for W: Coppola, Zoe Cassavetes, Lisa Ann, Amanda de Cadenet in the first line. Rights-locked."
+    },
+    {
+      "type": "pair",
+      "search": "Milkfed vintage 90s baby tee Sofia Coppola era tag",
+      "source_url": "https://milkfed.jp/concept/",
+      "caption": "For dating vintage stock, compare pre-2002 tags against today’s Japanese MILKFED. tags."
+    }
+  ],
+  "lookbook_links": [
+    {
+      "title": "W — Launching Sofia (1 Sept 1994)",
+      "url": "https://www.wmagazine.com/story/sofia-coppola-milk-fed",
+      "note": "Debut line, Paul Jasmin photos."
+    },
+    {
+      "title": "MILKFED. — concept / history",
+      "url": "https://milkfed.jp/concept/",
+      "note": "Japanese; Heaven 27, Daikanyama 1999."
+    }
+  ],
+  "sources": [
+    {
+      "title": "W — Launching Sofia (1994)",
+      "url": "https://www.wmagazine.com/story/sofia-coppola-milk-fed"
+    },
+    {
+      "title": "MILKFED. official — history",
+      "url": "https://milkfed.jp/concept/"
+    },
+    {
+      "title": "X-girl official — concept",
+      "url": "https://x-girl.jp/en/concept/"
+    }
+  ],
+  "slug": "milk-fed"
+}
