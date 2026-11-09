@@ -497,6 +497,49 @@
           "caption": "Album artwork is rights-locked; no V&A photo of the jacket or jumper yet."
         }
       ]
+    },
+    {
+      "title": "To Bring You My Love — the crimson satin slip itself, now V&A S.157-2021 (added 9 Nov 2026 digest)",
+      "year": "1995",
+      "garments": "Full-length crimson satin slip dress (V&A S.157-2021): bias cut, gathered under the bust, a deep V neckline that turns into two wide straps crossing to the back; machine-sewn; 136 cm long, 32 cm across the under-bust. Worn for the To Bring You My Love album artwork and in the “Down by the Water” video, with a long dark wig, false lashes and red lipstick — then night after night on the 1995 tour.",
+      "designer_season": "none — no maker on the V&A record. Director Maria Mochnacz told Uncut she bought it as a nightgown at TK Maxx in Bristol after Harvey asked for “something red and strappy”. Not a runway piece; do not invent a label.",
+      "where_it_lives": "V&A Theatre and Performance Collection, Polly Harvey Archive, given by the artist: S.157-2021. Two V&A study photographs online (local files).",
+      "why_iconic": "Her first record after breaking up the trio, written in near-isolation in a house she bought in rural England near her parents’ home in Yeovil (“I have no neighbours. When I look out the window, all I see are fields”). Harvey called the look “Joan Crawford on acid”, and said later, “There was confusion with myself at that time as to who or what I was, and it was a way of looking for answers” (The Guardian, via Songfacts). On religion running through the songs, though she was never baptised: “I look towards religion as possibly one means to finding an answer, to making sense why we’re here” (Atlanta Journal-Constitution, 1995, via Wikipedia). The video nearly drowned her: “the wig was so heavy that when I went under the water, it really was hard to get to the surface again” (MTV, via Songfacts). Mochnacz: “It was an image she liked and felt comfortable with, and that became what she wore every night on stage.” A TK Maxx nightgown, now accessioned by the V&A.",
+      "sources": [
+        "https://collections.vam.ac.uk/item/O1553251/",
+        "https://www.songfacts.com/facts/pj-harvey/down-by-the-water",
+        "https://pjharvey.net/videos/down-by-the-water/",
+        "https://en.wikipedia.org/wiki/To_Bring_You_My_Love"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "src": "images/icons/pj-harvey/1995-to-bring-you-my-love-crimson-satin-dress-vam-S157-2021-1.jpg",
+          "caption": "V&A S.157-2021. Crimson satin bias-cut slip, full length: the To Bring You My Love cover and “Down by the Water” dress.",
+          "credit": "© V&A / Polly Harvey Archive",
+          "source_url": "https://collections.vam.ac.uk/item/O1553251/"
+        },
+        {
+          "type": "image",
+          "src": "images/icons/pj-harvey/1995-to-bring-you-my-love-crimson-satin-dress-vam-S157-2021-2.jpg",
+          "caption": "Detail: under-bust gathering and the deep V that becomes two wide back straps.",
+          "credit": "© V&A",
+          "source_url": "https://collections.vam.ac.uk/item/O1553251/"
+        },
+        {
+          "type": "youtube",
+          "src": "lbq4G1TjKYg",
+          "caption": "PJ Harvey — Down by the Water, official video, dir. Maria Mochnacz. The same dress, underwater.",
+          "credit": "PJ Harvey / Island",
+          "source_url": "https://www.youtube.com/watch?v=lbq4G1TjKYg"
+        },
+        {
+          "type": "pair",
+          "search": "PJ Harvey To Bring You My Love album cover red dress water",
+          "source_url": "https://en.wikipedia.org/wiki/To_Bring_You_My_Love",
+          "caption": "Album artwork is rights-locked (photography credited to Valerie Phillips and Kate Garner; art direction Martin Callomon). Pair it with the V&A flat."
+        }
+      ]
     }
   ],
   "sources": [
@@ -587,6 +630,18 @@
     {
       "title": "Wikipedia — Stories from the City, Stories from the Sea",
       "url": "https://en.wikipedia.org/wiki/Stories_from_the_City,_Stories_from_the_Sea"
+    },
+    {
+      "title": "V&A — To Bring You My Love crimson satin dress S.157-2021",
+      "url": "https://collections.vam.ac.uk/item/O1553251/"
+    },
+    {
+      "title": "Songfacts — Down by the Water (Mochnacz to Uncut; Harvey to MTV and The Guardian)",
+      "url": "https://www.songfacts.com/facts/pj-harvey/down-by-the-water"
+    },
+    {
+      "title": "Wikipedia — To Bring You My Love",
+      "url": "https://en.wikipedia.org/wiki/To_Bring_You_My_Love"
     }
   ],
   "slug": "pj-harvey"
