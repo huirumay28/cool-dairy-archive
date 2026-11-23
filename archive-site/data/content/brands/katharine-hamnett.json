@@ -1,0 +1,103 @@
+{
+  "name": "Katharine Hamnett",
+  "sort": 40,
+  "founded": "Tuttabankem with Anne Buck, 1969. Katharine E. Hamnett label, 1979.",
+  "founders": "Katharine Eleanor Hamnett (b. 16 Aug 1947).",
+  "women_founded": true,
+  "tier": "Core / Traffic",
+  "card_image": "images/brands/katharine-hamnett/va-T239-1992.jpg",
+  "card_sub": "CHOOSE LIFE, 1983",
+  "story": [
+    "Saint Martins, then a freelance decade, then her own label in 1979. In 1983 she printed giant block slogans on oversized tees — CHOOSE LIFE, EDUCATION NOT MISSILES, WORLDWIDE NUCLEAR BAN NOW — designed to be copied. Wham! wore CHOOSE LIFE in “Wake Me Up Before You Go-Go”; Roger Taylor wore WORLDWIDE NUCLEAR BAN NOW at Rock in Rio.",
+    "The anecdote that still works: 1984, Downing Street, she met Margaret Thatcher wearing 58% DON’T WANT PERSHING and made the front pages. She has spent decades clawing CHOOSE LIFE back from the US anti-abortion lobby."
+  ],
+  "style_codes": [
+    "Oversized slogan tees",
+    "Stonewashed / distressed / stretched denim (she claims early use)",
+    "Utility, later organic cotton",
+    "Attitude: protest as graphic"
+  ],
+  "signature_pieces": [
+    {
+      "name": "CHOOSE LIFE and the first slogan tees, 1983",
+      "note": "Designed to be copied."
+    },
+    {
+      "name": "58% DON’T WANT PERSHING, 1984",
+      "note": "Worn to meet Thatcher."
+    }
+  ],
+  "quotes": [
+    {
+      "text": "I was having an argument with Lynne Franks… I said, ‘this is going to have absolutely no effect, you’d be better off printing the central Buddhist tenet, which is “Choose Life”, in giant letters on a white t-shirt’. So I went and did it - I just thought, why not?",
+      "said_to": "The Telegraph",
+      "year": "2018",
+      "url": "https://www.telegraph.co.uk/fashion/people/katherine-hamnett-protest-fashion-relevant-ever-2018/"
+    },
+    {
+      "text": "The US anti-abortion lobby attempted to appropriate CHOOSE LIFE. We are taking it back and promoting its real meaning. Ours is authentic and I believe in a woman’s right to choose.",
+      "said_to": "Quoted via Wikipedia from an older site biography (live page did not show the paragraph on 16 Aug 2026)",
+      "year": null,
+      "url": "https://en.wikipedia.org/wiki/Katharine_Hamnett"
+    }
+  ],
+  "media": [
+    {
+      "type": "image",
+      "src": "images/brands/katharine-hamnett/va-T239-1992.jpg",
+      "caption": "Slogan T-shirt, V&A T.239-1992.",
+      "credit": "© Victoria and Albert Museum",
+      "source_url": "https://collections.vam.ac.uk/item/O138518/"
+    },
+    {
+      "type": "image",
+      "src": "images/brands/katharine-hamnett/va-slogan-T596-1996.jpg",
+      "caption": "Jacket and trousers, V&A T.596&598-1996.",
+      "credit": "© Victoria and Albert Museum",
+      "source_url": "https://collections.vam.ac.uk/item/O83770/"
+    },
+    {
+      "type": "image",
+      "src": "images/brands/katharine-hamnett/va-clean-up-or-die.jpg",
+      "caption": "Clean Up or Die jacket, V&A T.208-1990.",
+      "credit": "© Victoria and Albert Museum",
+      "source_url": "https://collections.vam.ac.uk/item/O15641/"
+    },
+    {
+      "type": "image",
+      "src": "images/brands/katharine-hamnett/1988-after-dark.jpg",
+      "caption": "Hamnett on After Dark, 11 March 1988 — wearing the clothes, not a lookbook. Included because freely licensed.",
+      "credit": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Katharine_Hamnett_appearing_on_%22After_Dark%22,_11_March_1988_(cropped).jpg"
+    },
+    {
+      "type": "youtube",
+      "src": "ELflyACZXQQ",
+      "caption": "Wham! — Wake Me Up Before You Go-Go, official HD video (WhamVEVO). CHOOSE LIFE tees on George Michael and Andrew Ridgeley.",
+      "credit": "Wham! / Sony",
+      "source_url": "https://www.youtube.com/watch?v=ELflyACZXQQ"
+    }
+  ],
+  "lookbook_links": [
+    {
+      "title": "Hamnett — biography",
+      "url": "https://katharinehamnett.com/usd/biography",
+      "note": "House page."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Hamnett biography",
+      "url": "https://katharinehamnett.com/usd/biography"
+    },
+    {
+      "title": "Wikipedia — Katharine Hamnett",
+      "url": "https://en.wikipedia.org/wiki/Katharine_Hamnett"
+    },
+    {
+      "title": "The Telegraph, 2018",
+      "url": "https://www.telegraph.co.uk/fashion/people/katherine-hamnett-protest-fashion-relevant-ever-2018/"
+    }
+  ],
+  "slug": "katharine-hamnett"
+}

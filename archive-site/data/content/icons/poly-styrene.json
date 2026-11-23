@@ -1,0 +1,106 @@
+{
+  "name": "Poly Styrene",
+  "sort": 100,
+  "born": null,
+  "years_active": "X-Ray Spex 1976–78 (era file)",
+  "who_line": "Day-glo plastic against consumerism: proof you could be stylish without money.",
+  "card_image": null,
+  "card_sub": "X-Ray Spex · punk 1976–78",
+  "who": [
+    "Poly Styrene fronted X-Ray Spex. Before the band she ran a stall in Beaufort Market off the King’s Road, near SEX, “selling plastic trash, mainly kitsch jewellery and bags, old army cast-offs and day-glo accessories – all the stuff I later wore on stage.”",
+    "Her daughter Celeste Bell says Poly wanted to prove you could be stylish without money — by making your own clothes and buying second-hand."
+  ],
+  "work": [
+    "Her lyrics, in her words, were “painting a picture of consumerism with words.” While punk wore black leather, she wore granny cardigans, shift dresses, ankle socks, an army helmet and braces on her teeth."
+  ],
+  "quotes": [
+    {
+      "text": "Some of the things were vile but they were so vile they were cute.",
+      "said_to": "Punk 77 — Beaufort Market",
+      "year": null,
+      "url": "https://punk77.co.uk/beaufort-market/"
+    },
+    {
+      "text": "Clothes are never really you, that’s why people wear them… They take you away from reality.",
+      "said_to": "Dazed",
+      "year": null,
+      "url": "https://www.dazeddigital.com/fashion/article/43847/1/poly-styrene-dayglo-xray-spex-celeste-bell-style-riot-grrrl-punk"
+    },
+    {
+      "text": "I was just painting a picture of consumerism with words.",
+      "said_to": "Dazed — plastic fantastic",
+      "year": null,
+      "url": "https://www.dazeddigital.com/music/article/24454/1/poly-styrene-plastic-fantastic"
+    }
+  ],
+  "why_the_look": "Anti-glamour. Plastic, army surplus and thrift as a joke on what shopping promises.",
+  "beliefs": "",
+  "moments": [
+    {
+      "title": "Beaufort Market stall to stage (added 19 Oct 2026 digest)",
+      "year": "1976–78",
+      "garments": "Day-glo plastic accessories, kitsch jewellery, army cast-offs, thrifted granny prints and cardigans, shift dresses, ankle socks, army helmet and goggles, braces.",
+      "designer_season": "none / self-sourced. Her own stall stock.",
+      "where_it_lives": "V&A holds her green performance dress (PROV.1779-2024) and army-style helmet (PROV.1780-2024). Shown in The Music is Black: A British Story, V&A East, 18 Apr 2026 – 10 Jan 2027.",
+      "why_iconic": "The first woman of punk dressed against both glamour and black leather.",
+      "sources": [
+        "https://collections.vam.ac.uk/item/O1785666/",
+        "https://collections.vam.ac.uk/item/O1785667/",
+        "https://www.vam.ac.uk/exhibitions/the-music-is-black-a-british-story",
+        "https://punk77.co.uk/beaufort-market/"
+      ],
+      "media": [
+        {
+          "type": "pair",
+          "search": "Poly Styrene X-Ray Spex 1977 day-glo helmet",
+          "source_url": "https://www.dazeddigital.com/fashion/article/43847/1/poly-styrene-dayglo-xray-spex-celeste-bell-style-riot-grrrl-punk",
+          "caption": "Press stills: Dazed. Reference only."
+        },
+        {
+          "type": "pair",
+          "search": "V&A Poly Styrene green dress",
+          "source_url": "https://collections.vam.ac.uk/item/O1785666/"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "Dazed — day-glo style, Celeste Bell",
+      "url": "https://www.dazeddigital.com/fashion/article/43847/1/poly-styrene-dayglo-xray-spex-celeste-bell-style-riot-grrrl-punk"
+    },
+    {
+      "title": "Dazed — plastic fantastic",
+      "url": "https://www.dazeddigital.com/music/article/24454/1/poly-styrene-plastic-fantastic"
+    },
+    {
+      "title": "Punk 77 — Beaufort Market",
+      "url": "https://punk77.co.uk/beaufort-market/"
+    },
+    {
+      "title": "Independent — obituary",
+      "url": "https://www.the-independent.com/news/obituaries/poly-styrene-singer-who-blazed-a-trail-for-punk-rsquo-s-feminist-revolutionaries-2275032.html"
+    },
+    {
+      "title": "AnOther — first woman of punk",
+      "url": "https://www.anothermag.com/fashion-beauty/9857/the-unforgettable-poly-styrene-first-woman-of-punk"
+    },
+    {
+      "title": "V&A — green dress",
+      "url": "https://collections.vam.ac.uk/item/O1785666/"
+    },
+    {
+      "title": "V&A — helmet",
+      "url": "https://collections.vam.ac.uk/item/O1785667/"
+    },
+    {
+      "title": "V&A — The Music is Black",
+      "url": "https://www.vam.ac.uk/exhibitions/the-music-is-black-a-british-story"
+    },
+    {
+      "title": "V&A event — Poly Styrene: punk, DIY and Somali identity",
+      "url": "https://www.vam.ac.uk/event/bmQ3AQyaVr/p26053-poly-styrene-punk-diy-and-somali-identity"
+    }
+  ],
+  "slug": "poly-styrene"
+}

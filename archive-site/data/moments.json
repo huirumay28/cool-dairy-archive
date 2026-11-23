@@ -1,0 +1,1785 @@
+{
+  "generated": "2026-11-23",
+  "note": "Research only. rights: 'public-domain/CC' = Commons/LoC/museum open licence; 'copyrighted' = link, embed or license only. Includes Tavi Gevinson moments added 23 Nov 2026.",
+  "new_moments": [
+    {
+      "id": "joan-didion-celine-2015",
+      "who": "Joan Didion",
+      "category": "writer",
+      "region": "North America",
+      "country": "USA",
+      "asian": false,
+      "date": "Campaign revealed 6 Jan 2015",
+      "place": "Her Upper East Side apartment, New York (where Teller shot it, per NYT)",
+      "outfit": "Black ribbed knit top (NYT: 'black shirt'; Glamour UK: 'navy jumper'), oversized gold pendant on a long chain, dark oversized C\u00e9line sunglasses (Dazed: 'sunglasses from the collection').",
+      "label": "C\u00e9line Spring/Summer 2015 campaign, creative director Phoebe Philo; photographed by Juergen Teller (stated by Vogue, Dazed, NYT).",
+      "why": "At 80, a writer rather than a model or actress became the face of the brand most associated with women who think for a living. Didion's packing list from The White Album ('2 skirts, 2 jerseys or leotards, 1 pullover sweater') had long been passed around as a uniform, and Philo was known for her own uniform. The ad's argument is that age, intellect and a flat stare are glamour enough. When the NYT asked whose idea it was, she said: 'They got in touch with me.'",
+      "sources": [
+        "https://www.nytimes.com/2015/01/07/fashion/joan-didion-on-the-celine-ad.html",
+        "https://www.vogue.com/article/joan-didion-celine-ad-campaign",
+        "https://www.dazeddigital.com/fashion/article/23086/1/legend-joan-didion-is-the-new-face-of-celine",
+        "https://www.glamourmagazine.co.uk/article/joan-dideon-celine-spring-2015-campaign-by-juergen-teller"
+      ],
+      "where": null,
+      "media": [
+        {
+          "kind": "press photo",
+          "url": "https://www.vogue.com/article/joan-didion-celine-ad-campaign",
+          "credit": "Juergen Teller, courtesy of C\u00e9line",
+          "rights": "copyrighted (credit+link/embed only)",
+          "note": "Campaign image is shown clearly in Vogue/Dazed. Pair it with Julian Wasser's 1968 Corvette portrait (Julian Wasser/The LIFE Images Collection/Getty), which Vogue runs beside it.",
+          "link_status": "ok"
+        }
+      ],
+      "embeds": [],
+      "strength": 5,
+      "source_status": {
+        "https://www.nytimes.com/2015/01/07/fashion/joan-didion-on-the-celine-ad.html": "bot-blocked (403); page surfaced in search, open in a browser",
+        "https://www.vogue.com/article/joan-didion-celine-ad-campaign": "ok",
+        "https://www.dazeddigital.com/fashion/article/23086/1/legend-joan-didion-is-the-new-face-of-celine": "ok",
+        "https://www.glamourmagazine.co.uk/article/joan-dideon-celine-spring-2015-campaign-by-juergen-teller": "ok"
+      }
+    },
+    {
+      "id": "virginia-woolf-dreadnought-1910",
+      "who": "Virginia Woolf (then Virginia Stephen)",
+      "category": "writer",
+      "region": "Europe",
+      "country": "UK",
+      "asian": false,
+      "date": "7 Feb 1910",
+      "place": "Lafayette studio, London, then HMS Dreadnought at Weymouth",
+      "outfit": "Costumes supplied by the theatrical costumier Willy Clarkson: turban, flowing 'eastern' robes, a false beard, long pointed patent-leather boots, and dark stage make-up (blackface). Woolf, the only woman, was disguised as a man.",
+      "label": "Willy Clarkson (costumier), per Wikipedia and Downer's biography of Cole; no fashion label.",
+      "why": "A future feminist novelist cross-dressed as a man and talked her way onto the Royal Navy's most advanced warship. It is a sharp prank on male institutional power. It was also staged in blackface and racist 'Abyssinian' costume, and the National Portrait Gallery's own label calls the image offensive. FLAG: include only with that context, or leave it out. It may not fit the brand.",
+      "sources": [
+        "https://www.npg.org.uk/collections/search/portrait/mw136268/The-Dreadnought-Hoax",
+        "https://www.newyorker.com/books/page-turner/the-time-virginia-woolf-wore-blackface",
+        "https://en.wikipedia.org/wiki/Dreadnought_hoax"
+      ],
+      "where": "National Portrait Gallery, London: NPG P1293 (Lafayette matte bromide print, 7 Feb 1910).",
+      "media": [
+        {
+          "kind": "PD image",
+          "url": "https://commons.wikimedia.org/wiki/File:Virginia_Woolf_in_Dreadnought_Hoax.jpg",
+          "credit": "Lafayette Ltd, 1910",
+          "rights": "public-domain/CC",
+          "link_status": "ok"
+        },
+        {
+          "kind": "museum",
+          "url": "https://www.npg.org.uk/collections/search/portrait/mw136268/The-Dreadnought-Hoax",
+          "credit": "Lafayette / National Portrait Gallery",
+          "rights": "museum page",
+          "link_status": "bot-blocked (403); page surfaced in search, open in a browser"
+        }
+      ],
+      "embeds": [],
+      "strength": 2,
+      "flags": [
+        "blackface: sensitive"
+      ],
+      "source_status": {
+        "https://www.npg.org.uk/collections/search/portrait/mw136268/The-Dreadnought-Hoax": "bot-blocked (403); page surfaced in search, open in a browser",
+        "https://www.newyorker.com/books/page-turner/the-time-virginia-woolf-wore-blackface": "ok",
+        "https://en.wikipedia.org/wiki/Dreadnought_hoax": "ok"
+      }
+    },
+    {
+      "id": "eileen-chang-qing-jacket-1944-and-hk-1954",
+      "who": "Eileen Chang \u5f35\u611b\u73b2",
+      "category": "writer",
+      "region": "East Asia",
+      "country": "China / Hong Kong (published in Taiwan)",
+      "asian": true,
+      "date": "1944 (Shanghai) and 1954 (Hong Kong)",
+      "place": "Shanghai; Lanxin (\u862d\u5fc3) photo studio, King's Road (\u82f1\u7687\u9053), Hong Kong",
+      "outfit": "1944, in her own words: her 'only Qing-style outfit', a big jacket (\u5927\u8956) over a thin wool qipao. Wanting a clean line, she had changed the qipao's low collar into a continuous round collar, and between shots she added a bathrobe over the qipao. 1954: a fitted qipao and a bangle at the wrist. The wide piping (\u95ca\u6efe\u908a) is described by a secondary source.",
+      "label": "Her own designs. Chang collected unusual fabrics, had clothes made to her designs, and briefly ran a design firm (U. Alberta / TC journal; The Millions). No commercial label.",
+      "why": "Chang wrote fashion as history. Her 1943 essay 'Chinese Life and Fashions' / \u66f4\u8863\u8a18 traces three centuries of dress and reads the 1920s turn to the men's-style long gown as women claiming equality, and she drew the twelve illustrations herself. Her self-made, deliberately old-fashioned clothes were an author's statement in wartime Shanghai. In the 1954 portrait, taken after the revolution, she is still in a qipao: a woman refusing to dress for the new regime. She captioned it 30 years later in \u5c0d\u7167\u8a18 (Taipei: Crown, 1995).",
+      "sources": [
+        "https://calisphere.org/item/93a4fcc4ffdbee6015e44230a372ce69/",
+        "https://scalar.usc.edu/works/eileen-chang-exhibit/chinese-life-and-fashions",
+        "https://journals.library.ualberta.ca/tc/index.php/TC/en/article/download/29529/21714",
+        "https://themillions.com/2015/05/high-style-and-desperate-love-on-the-life-and-work-of-eileen-chang.html",
+        "https://historicalpiggy.com/2017/09/13/eileen-chang-pictures/"
+      ],
+      "where": "Original photographs: USC Libraries, Ailing Zhang (Eileen Chang) Papers (e.g. chang-m107, 1954).",
+      "media": [
+        {
+          "kind": "PD image (Commons tag)",
+          "url": "https://commons.wikimedia.org/wiki/File:1944%E5%B9%B4%E7%9A%84%E5%BC%A0%E7%88%B1%E7%8E%B2.jpg",
+          "credit": "1944 portrait",
+          "rights": "public-domain/CC",
+          "note": "Commons tags it PD. Confirm it is the Qing-jacket frame.",
+          "link_status": "ok"
+        },
+        {
+          "kind": "archive",
+          "url": "https://calisphere.org/item/93a4fcc4ffdbee6015e44230a372ce69/",
+          "credit": "USC Digital Library, Ailing Zhang Papers",
+          "rights": "archive; rights per USC (estate)",
+          "link_status": "ok"
+        }
+      ],
+      "embeds": [],
+      "strength": 5,
+      "source_status": {
+        "https://calisphere.org/item/93a4fcc4ffdbee6015e44230a372ce69/": "ok",
+        "https://scalar.usc.edu/works/eileen-chang-exhibit/chinese-life-and-fashions": "ok",
+        "https://journals.library.ualberta.ca/tc/index.php/TC/en/article/download/29529/21714": "ok",
+        "https://themillions.com/2015/05/high-style-and-desperate-love-on-the-life-and-work-of-eileen-chang.html": "ok",
+        "https://historicalpiggy.com/2017/09/13/eileen-chang-pictures/": "check (000)"
+      }
+    },
+    {
+      "id": "sanmao-sahara-wedding-1974",
+      "who": "Sanmao \u4e09\u6bdb",
+      "category": "writer",
+      "region": "East Asia",
+      "country": "Taiwan",
+      "asian": true,
+      "date": "1974 (year per standard biographies; the story gives no date)",
+      "place": "El Aai\u00fan (\u963f\u96cd), Spanish Sahara",
+      "outfit": "In her own words in \u3008\u7d50\u5a5a\u8a18\u3009: a pale-blue fine-linen long dress ('not new, but it has its own plain elegance'), sandals, hair down, and a wide-brimmed straw hat. Having no flowers, she pinned a bunch of coriander (\u9999\u83dc) from the kitchen to the hat and carried no handbag. Jos\u00e9 called it 'very good, a country look; so simple it's prettier.'",
+      "label": "None. Her own clothes.",
+      "why": "Sanmao's Sahara stories (\u6492\u54c8\u62c9\u7684\u6545\u4e8b, 1976) made a generation of Taiwanese and Chinese women imagine walking out of the life laid out for them. Her wedding outfit is an anti-bridal manifesto: no white gown, no ring ceremony to speak of, an old dress, and a kitchen herb for a corsage. It is the Taiwanese original of the free, travelling, self-authored woman, and it is exactly the DIY spirit cool dairy sells.",
+      "sources": [
+        "http://www.millionbook.net/gt/s/sanmao/shldgs/003.htm",
+        "https://nowvoyagermag.com/zh-hant/reporting/storyteller-of-the-sahara"
+      ],
+      "where": null,
+      "media": [
+        {
+          "kind": "note",
+          "url": "https://nowvoyagermag.com/zh-hant/reporting/storyteller-of-the-sahara",
+          "credit": "Sanmao estate / Crown (\u7687\u51a0)",
+          "rights": "copyrighted (credit+link/embed only)",
+          "note": "I found no verified wedding-day photo. Her Sahara photos are copyrighted (estate/Crown Publishing). Ask Crown, or use the text as the hero with a desert photo.",
+          "link_status": "ok"
+        }
+      ],
+      "embeds": [],
+      "strength": 4,
+      "source_status": {
+        "http://www.millionbook.net/gt/s/sanmao/shldgs/003.htm": "ok",
+        "https://nowvoyagermag.com/zh-hant/reporting/storyteller-of-the-sahara": "ok"
+      }
+    },
+    {
+      "id": "kathy-acker-westwood-1988",
+      "who": "Kathy Acker",
+      "category": "writer",
+      "region": "North America / Europe",
+      "country": "USA / UK",
+      "asian": false,
+      "date": "1988 reading of Empire of the Senseless; wardrobe shown 2006",
+      "place": "Toronto (reading); New Langton Arts, San Francisco, then White Columns, NY ('Kathy Forest')",
+      "outfit": "At the 1988 Toronto reading: a Vivienne Westwood men's coat from the Fall/Winter 1988 'Time Machine' collection, grey pinstripe broken by black blocks, with detachable padded sleeves inspired by Roman armour, worn over bondage trousers (Derek McCormack, The Fanzine). Her wardrobe also included a late-1980s Gaultier gown slashed with the slogan 'Too Young to Die, Too Fast to Live', plus Westwood, Comme des Gar\u00e7ons, Norma Kamali bodysuits, Betsey Johnson babydolls and Yohji Yamamoto.",
+      "label": "Vivienne Westwood AW1988 'Time Machine' (as stated by McCormack); Jean Paul Gaultier.",
+      "why": "Acker was punk literature's body-builder priestess: tattooed, muscled, and dressed in the most extreme designer clothes of the decade. Her line 'Street fashion is where the art is for poor people. I can't afford to buy a painting so if I get some money I go buy a dress' (quoted from The Face, 1984) is practically a cool dairy mission statement. After her death in 1997, Dodie Bellamy hung about 25 of her garments from the ceiling as 'Kathy Forest', a wardrobe as ghost. It ties straight into the existing Westwood, Comme and Betsey Johnson brand pages.",
+      "sources": [
+        "http://thefanzine.com/gods-gaultier-2/",
+        "https://whitecolumns.org/exhibitions/dodie-bellamy-kathy-forest/",
+        "https://collectingseminar.wordpress.com/2008/11/03/kathy-ackers-clothes/"
+      ],
+      "where": "Clothes held by her executor Matias Viegener (White Columns); papers at Duke University. Photographer Kaucyila Brooke documented more than 100 of her outfits.",
+      "media": [
+        {
+          "kind": "CC image",
+          "url": "https://commons.wikimedia.org/wiki/File:1996_Kathy_Acker_004.jpg",
+          "credit": "see Commons file page",
+          "rights": "public-domain/CC (CC BY-SA 4.0)",
+          "note": "1996 portrait. Check that the outfit is visible.",
+          "link_status": "ok"
+        },
+        {
+          "kind": "press photo",
+          "url": "http://thefanzine.com/gods-gaultier-2/",
+          "credit": "Robert Mapplethorpe portrait referenced (The Face 1984)",
+          "rights": "copyrighted (credit+link/embed only)",
+          "link_status": "ok"
+        }
+      ],
+      "embeds": [],
+      "strength": 5,
+      "source_status": {
+        "http://thefanzine.com/gods-gaultier-2/": "ok",
+        "https://whitecolumns.org/exhibitions/dodie-bellamy-kathy-forest/": "ok",
+        "https://collectingseminar.wordpress.com/2008/11/03/kathy-ackers-clothes/": "ok"
+      }
+    },
+    {
+      "id": "gloria-steinem-bunny-1963",
+      "who": "Gloria Steinem",
+      "category": "writer",
+      "region": "North America",
+      "country": "USA",
+      "asian": false,
+      "date": "1963 (published in Show, May and June 1963)",
+      "place": "New York Playboy Club, 5 East 59th Street",
+      "outfit": "A bright blue satin Playboy Bunny costume, so tight the zipper caught her skin, boned at the waist, cut high enough to bare her hip bone, with the bust stuffed with plastic dry-cleaning bags by the wardrobe mistress. Ears, tail and high heels. All of this is in her own words in 'A Bunny's Tale', as quoted by Biography.com.",
+      "label": "Playboy Club uniform; no designer credited.",
+      "why": "Before Ms. magazine, Steinem put on the most sexualised work uniform in America and documented, from inside it, the low pay, the bodily scrutiny and the ageism ('awfully old' at a fake 24). The costume became the evidence. It is a perfect cool dairy paradox: the outfit is iconic precisely because a feminist wore it to take it apart.",
+      "sources": [
+        "https://undercover.hosting.nyu.edu/s/undercover-reporting/item/13088",
+        "https://www.theguardian.com/commentisfree/2013/may/26/gloria-steinem-bunny-tale-still-relevant-today",
+        "https://www.biography.com/authors-writers/a70820016/gloria-steinem-playboy-bunny-undercover",
+        "https://findingaids.smith.edu/repositories/2/archival_objects/552773"
+      ],
+      "where": "The photo of Steinem in the Bunny uniform is in the Sophia Smith Collection of Women's History, Smith College (Box 214, Folder 2).",
+      "media": [
+        {
+          "kind": "archive photo",
+          "url": "https://findingaids.smith.edu/repositories/2/archival_objects/552773",
+          "credit": "Gloria Steinem Papers, Sophia Smith Collection, Smith College",
+          "rights": "copyrighted (credit+link/embed only)",
+          "link_status": "bot-blocked (202); page surfaced in search, open in a browser"
+        },
+        {
+          "kind": "press photo",
+          "url": "https://www.theguardian.com/commentisfree/2013/may/26/gloria-steinem-bunny-tale-still-relevant-today",
+          "credit": "Getty (per Guardian)",
+          "rights": "copyrighted (credit+link/embed only)",
+          "link_status": "ok"
+        }
+      ],
+      "embeds": [],
+      "strength": 5,
+      "source_status": {
+        "https://undercover.hosting.nyu.edu/s/undercover-reporting/item/13088": "check (500)",
+        "https://www.theguardian.com/commentisfree/2013/may/26/gloria-steinem-bunny-tale-still-relevant-today": "ok",
+        "https://www.biography.com/authors-writers/a70820016/gloria-steinem-playboy-bunny-undercover": "ok",
+        "https://findingaids.smith.edu/repositories/2/archival_objects/552773": "bot-blocked (202); page surfaced in search, open in a browser"
+      }
+    },
+    {
+      "id": "simone-de-beauvoir-turban",
+      "who": "Simone de Beauvoir",
+      "category": "writer",
+      "region": "Europe",
+      "country": "France",
+      "asian": false,
+      "date": "Occupation years, 1940 to 1944, recounted in The Observer on 20 Mar 1960",
+      "place": "Paris",
+      "outfit": "A turban 'practically all the time \u2013 partly as a hat and partly instead of doing my hair', because there was no hot water to wash it. Bare legs and wooden-soled shoes. After the war came a made-to-order printed skirt, and later a black Persian lamb coat she brought back from Russia (photographed by Jack Nisberg for The Observer).",
+      "label": "None stated.",
+      "why": "The author of The Second Sex explains her signature look as a matter of material conditions, not vanity: scarcity, no hot water, and refusing the black market 'against my principles'. The turban, later fixed in Elliott Erwitt's and Gis\u00e8le Freund's portraits, is a wartime make-do that became a feminist icon. Her own essay is the source, which makes this the best-documented 'why' on the list.",
+      "sources": [
+        "https://www.theguardian.com/theobserver/2019/mar/17/observer-archive-my-clothes-and-i-by-simone-de-beauvoir-20-march-1960",
+        "https://archive.nytimes.com/tmagazine.blogs.nytimes.com/2010/04/21/being-and-frumpiness/"
+      ],
+      "where": null,
+      "media": [
+        {
+          "kind": "PD image",
+          "url": "https://commons.wikimedia.org/wiki/File:Simone_de_Beauvoir_1955.jpg",
+          "credit": "see Commons file page",
+          "rights": "public-domain/CC",
+          "note": "Check that the turban is visible.",
+          "link_status": "ok"
+        },
+        {
+          "kind": "press photo",
+          "url": "https://www.theguardian.com/theobserver/2019/mar/17/observer-archive-my-clothes-and-i-by-simone-de-beauvoir-20-march-1960",
+          "credit": "Jack Nisberg/The Observer",
+          "rights": "copyrighted (credit+link/embed only)",
+          "link_status": "ok"
+        }
+      ],
+      "embeds": [],
+      "strength": 4,
+      "source_status": {
+        "https://www.theguardian.com/theobserver/2019/mar/17/observer-archive-my-clothes-and-i-by-simone-de-beauvoir-20-march-1960": "ok",
+        "https://archive.nytimes.com/tmagazine.blogs.nytimes.com/2010/04/21/being-and-frumpiness/": "ok"
+      }
+    },
+    {
+      "id": "suffragettes-womens-sunday-1908",
+      "who": "WSPU suffragettes (colour scheme by Emmeline Pethick-Lawrence)",
+      "category": "activist",
+      "region": "Europe",
+      "country": "UK",
+      "asian": false,
+      "date": "21 Jun 1908",
+      "place": "Hyde Park, London ('Women's Sunday')",
+      "outfit": "Purple, white and green: sashes, rosettes, white dresses and hats trimmed in the colours. Purple stood for dignity, white for purity and green for hope. They were first worn publicly at this rally, of seven processions, more than 700 banners and a crowd of up to 300,000.",
+      "label": "Colour scheme devised by Emmeline Pethick-Lawrence (London Museum).",
+      "why": "It is the first great piece of political fashion branding. The WSPU turned a colour code into a uniform that any woman could buy, wear and be counted by. Every protest uniform since, from suffragette white in Congress to Pussy Riot's balaclavas, descends from this day.",
+      "sources": [
+        "https://www.londonmuseum.org.uk/collections/london-stories/purple-white-green-suffragettes-built-brand/",
+        "https://www.londonmuseum.org.uk/collections/v/object-454776/suffragettes-preparing-for-womens-sunday-21-june-1908/"
+      ],
+      "where": "London Museum holds WSPU sashes and regalia (e.g. object 87737) and photographs of Women's Sunday.",
+      "media": [
+        {
+          "kind": "PD image",
+          "url": "https://commons.wikimedia.org/wiki/File:Women%27s_Sunday,_head_of_procession,_Hyde_Park,_21_June_1908.jpeg",
+          "credit": "1908",
+          "rights": "public-domain/CC",
+          "link_status": "ok"
+        },
+        {
+          "kind": "museum object",
+          "url": "https://www.londonmuseum.org.uk/collections/v/object-87737/sash-regalia/",
+          "credit": "London Museum",
+          "rights": "museum page",
+          "link_status": "ok"
+        }
+      ],
+      "embeds": [],
+      "strength": 4,
+      "source_status": {
+        "https://www.londonmuseum.org.uk/collections/london-stories/purple-white-green-suffragettes-built-brand/": "ok",
+        "https://www.londonmuseum.org.uk/collections/v/object-454776/suffragettes-preparing-for-womens-sunday-21-june-1908/": "ok"
+      }
+    },
+    {
+      "id": "sojourner-truth-1864",
+      "who": "Sojourner Truth",
+      "category": "activist",
+      "region": "North America",
+      "country": "USA",
+      "asian": false,
+      "date": "1864",
+      "place": "USA (carte de visite sold at her lectures)",
+      "outfit": "A dark dress, white shawl and white cap, seated with knitting and a book. The card is captioned 'I sell the shadow to support the substance.'",
+      "label": "None.",
+      "why": "A formerly enslaved abolitionist and women's-rights speaker chose how she would be seen. She dressed as a respectable, self-possessed Quaker-plain matron, then copyrighted and sold her own image to fund her work. The caption is one of the first statements of a woman owning her image as income, and the outfit is her argument.",
+      "sources": [
+        "https://www.loc.gov/item/98501244/",
+        "https://nmaahc.si.edu/object/nmaahc_2013.207.1"
+      ],
+      "where": "Library of Congress (Gladstone collection, LCCN 98501244); NMAAHC; The Met.",
+      "media": [
+        {
+          "kind": "PD image",
+          "url": "https://commons.wikimedia.org/wiki/File:Sojourner_Truth_LCCN98501244.jpg",
+          "credit": "Library of Congress",
+          "rights": "public-domain/CC",
+          "link_status": "ok"
+        },
+        {
+          "kind": "CC0 image",
+          "url": "https://commons.wikimedia.org/wiki/File:Sojourner_Truth,_%22I_Sell_the_Shadow_to_Support_the_Substance%22_MET_DP265040.jpg",
+          "credit": "The Met",
+          "rights": "public-domain/CC (CC0)",
+          "link_status": "ok"
+        }
+      ],
+      "embeds": [],
+      "strength": 4,
+      "source_status": {
+        "https://www.loc.gov/item/98501244/": "bot-blocked (403); page surfaced in search, open in a browser",
+        "https://nmaahc.si.edu/object/nmaahc_2013.207.1": "bot-blocked (403); page surfaced in search, open in a browser"
+      }
+    },
+    {
+      "id": "pussy-riot-2012",
+      "who": "Pussy Riot (incl. Nadezhda Tolokonnikova, Maria Alyokhina, Yekaterina Samutsevich)",
+      "category": "activist",
+      "region": "Europe",
+      "country": "Russia",
+      "asian": false,
+      "date": "20 Jan 2012 (Red Square) and 21 Feb 2012 ('Punk Prayer')",
+      "place": "Lobnoye Mesto, Red Square; Cathedral of Christ the Saviour, Moscow",
+      "outfit": "Brightly coloured knitted balaclavas, short dresses and neon or coloured tights, worn as an anonymous group uniform.",
+      "label": "None. Deliberately anonymous.",
+      "why": "The balaclava turned a feminist punk collective into an idea anyone could join, and the neon colour turned a balaclava from menace into carnival. After the 'Punk Prayer', three members were convicted in August 2012, and the knitted mask became a worldwide symbol of feminist dissent. Their motto is 'Anyone can be Pussy Riot'. It is the clearest single image of punk as feminist protest.",
+      "sources": [
+        "https://www.theatlantic.com/photo/2012/08/pussy-riot-dissent-on-trial-in-russia/100355/",
+        "https://www.rferl.org/a/pussy-riot-what-really-happened-russia-trial/24660925.html",
+        "https://louisiana.dk/en/exhibition/pussy-riot/"
+      ],
+      "where": "Documented in Louisiana Museum of Modern Art, 'Velvet Terrorism', 13 Sep 2023 to 14 Jan 2024, the group's first museum show (photos and video, not garments as such).",
+      "media": [
+        {
+          "kind": "CC image",
+          "url": "https://commons.wikimedia.org/wiki/File:Pussy_Riot_at_Lobnoye_Mesto_on_Red_Square_in_Moscow_-_Denis_Bochkarev.jpg",
+          "credit": "Denis Bochkarev, CC BY-SA 3.0",
+          "rights": "public-domain/CC (CC BY-SA 3.0)",
+          "link_status": "ok"
+        },
+        {
+          "kind": "press photo",
+          "url": "https://www.theatlantic.com/photo/2012/08/pussy-riot-dissent-on-trial-in-russia/100355/",
+          "credit": "Punk Prayer image: photo Mitya Aleshkovsky (credited on the Louisiana Museum page)",
+          "rights": "copyrighted (credit+link/embed only)",
+          "link_status": "bot-blocked (403); page surfaced in search, open in a browser"
+        }
+      ],
+      "embeds": [],
+      "strength": 5,
+      "source_status": {
+        "https://www.theatlantic.com/photo/2012/08/pussy-riot-dissent-on-trial-in-russia/100355/": "bot-blocked (403); page surfaced in search, open in a browser",
+        "https://www.rferl.org/a/pussy-riot-what-really-happened-russia-trial/24660925.html": "ok",
+        "https://louisiana.dk/en/exhibition/pussy-riot/": "ok"
+      }
+    },
+    {
+      "id": "marsha-p-johnson-flower-crowns",
+      "who": "Marsha P. Johnson",
+      "category": "activist",
+      "region": "North America",
+      "country": "USA",
+      "asian": false,
+      "date": "1970s to 1980s (a dated photo of a tinsel-and-flowers headpiece, Dec 1989)",
+      "place": "New York (Christopher Street, Stonewall, STAR)",
+      "outfit": "Improvised crowns of artificial flowers, plastic fruit, tinsel and sometimes Christmas lights, often found or thrifted. Photographs show baby's-breath flowers in her platinum hair and a headpiece of tinsel and flowers.",
+      "label": "Self-made.",
+      "why": "A Black trans activist central to the Stonewall era and co-founder of STAR made a crown out of nothing and wore it daily. That is the purest DIY-as-defiance statement on the list. The crown said that a woman the city treated as disposable was royalty.",
+      "sources": [
+        "https://www.digitaltransgenderarchive.net/files/8p58pd316",
+        "https://dp.la/item/90f9678b124a3bfb3b08b74571521070",
+        "https://www.pbs.org/newshour/show/marsha-p-johnsons-historic-role-in-the-lgbtq-rights-movement"
+      ],
+      "where": "Photographs are held in the Digital Transgender Archive and partner collections (via DPLA).",
+      "media": [
+        {
+          "kind": "archive photo",
+          "url": "https://www.digitaltransgenderarchive.net/files/8p58pd316",
+          "credit": "Digital Transgender Archive (see rights on record)",
+          "rights": "check record",
+          "link_status": "bot-blocked (403); page surfaced in search, open in a browser"
+        },
+        {
+          "kind": "archive photo",
+          "url": "https://dp.la/item/90f9678b124a3bfb3b08b74571521070",
+          "credit": "via DPLA",
+          "rights": "check record",
+          "link_status": "bot-blocked (202); page surfaced in search, open in a browser"
+        }
+      ],
+      "embeds": [],
+      "strength": 4,
+      "source_status": {
+        "https://www.digitaltransgenderarchive.net/files/8p58pd316": "bot-blocked (403); page surfaced in search, open in a browser",
+        "https://dp.la/item/90f9678b124a3bfb3b08b74571521070": "bot-blocked (202); page surfaced in search, open in a browser",
+        "https://www.pbs.org/newshour/show/marsha-p-johnsons-historic-role-in-the-lgbtq-rights-movement": "ok"
+      }
+    },
+    {
+      "id": "angela-davis-refusing-the-leather-jacket-1974",
+      "who": "Angela Davis",
+      "category": "activist",
+      "region": "North America",
+      "country": "USA",
+      "asian": false,
+      "date": "1972 (the look), 1974 (the cover shoot), 1994 (her essay)",
+      "place": "Philippe Halsman's studio, New York, for the cover of Angela Davis: An Autobiography",
+      "outfit": "The 1972 icon: Afro, turtleneck and black leather jacket, 'the uniform of the Black Panther Party' in her words. For the 1974 cover, Halsman's first question was whether they had brought the black leather jacket. Davis and her editor Toni Morrison persuaded him to shoot her 'in a less predictable posture'.",
+      "label": "None.",
+      "why": "This is the anti-fashion moment: the icon refusing to play her own costume. Twenty years later, in 'Afro Images: Politics, Fashion, and Nostalgia' (Critical Inquiry, 1994), she wrote that it was 'humiliating' to be 'remembered as a hairdo' because it 'reduces a politics of liberation to a politics of fashion'. Any brand that sells rebel style should hear that, which is why it belongs here.",
+      "sources": [
+        "https://criticalinquiry.uchicago.edu/past_issues/issue/autumn_1994_v21_n1/",
+        "https://some.claims/assets/ADavis_Afro_images.pdf"
+      ],
+      "where": null,
+      "media": [
+        {
+          "kind": "PD image",
+          "url": "https://commons.wikimedia.org/wiki/File:Angela_Davis_Rally_at_Madison_Square_Garden,_New_York,_New_York._Photos_by_Bill_Andrews._Jun_29,_1972_Slide_20.png",
+          "credit": "Bill Andrews, 29 Jun 1972",
+          "rights": "public-domain/CC",
+          "link_status": "ok"
+        },
+        {
+          "kind": "CC image",
+          "url": "https://commons.wikimedia.org/wiki/File:Angela_Davis_Moscow_1972_cropped.jpg",
+          "credit": "see Commons",
+          "rights": "public-domain/CC (CC BY-SA 3.0)",
+          "link_status": "ok"
+        }
+      ],
+      "embeds": [],
+      "strength": 5,
+      "source_status": {
+        "https://criticalinquiry.uchicago.edu/past_issues/issue/autumn_1994_v21_n1/": "ok",
+        "https://some.claims/assets/ADavis_Afro_images.pdf": "ok"
+      }
+    },
+    {
+      "id": "malala-benazir-shawl-un-2013",
+      "who": "Malala Yousafzai",
+      "category": "activist",
+      "region": "South Asia",
+      "country": "Pakistan",
+      "asian": true,
+      "date": "12 Jul 2013 (her 16th birthday)",
+      "place": "UN Youth Takeover / Youth Assembly, New York",
+      "outfit": "A pink shawl, worn over her head, that had belonged to Benazir Bhutto and was sent to her by Bhutto's children. She said it was an honour to wear it.",
+      "label": "Benazir Bhutto's own shawl.",
+      "why": "Nine months after the Taliban shot her for going to school, Malala gave her first major speech ('one child, one teacher, one pen and one book can change the world') wrapped in the shawl of the first woman to lead a Muslim-majority country, who was herself assassinated in 2007. One garment links two generations of Pakistani women in politics. Pair it with the Benazir 1988 moment below.",
+      "sources": [
+        "https://press.un.org/en/2013/dev3009.doc.htm",
+        "https://www.theguardian.com/commentisfree/2013/jul/12/malala-yousafzai-united-nations-education-speech-text",
+        "https://apnews.com/general-news-9689f1def46148fdbea2accad4191ae2"
+      ],
+      "where": null,
+      "media": [
+        {
+          "kind": "PD image (not the speech)",
+          "url": "https://commons.wikimedia.org/wiki/File:Malala_Yousafzai_at_UNGA,_25_Sep_2013-crop.jpg",
+          "credit": "US government",
+          "rights": "public-domain/CC",
+          "link_status": "ok"
+        }
+      ],
+      "embeds": [
+        {
+          "platform": "YouTube",
+          "url": "https://www.youtube.com/watch?v=3rNhZu3ttIU",
+          "official": true,
+          "channel": "United Nations",
+          "link_status": "ok"
+        }
+      ],
+      "strength": 5,
+      "source_status": {
+        "https://press.un.org/en/2013/dev3009.doc.htm": "ok",
+        "https://www.theguardian.com/commentisfree/2013/jul/12/malala-yousafzai-united-nations-education-speech-text": "ok",
+        "https://apnews.com/general-news-9689f1def46148fdbea2accad4191ae2": "bot-blocked (403); page surfaced in search, open in a browser"
+      }
+    },
+    {
+      "id": "qiu-jin-kimono-and-sword",
+      "who": "Qiu Jin \u79cb\u747e",
+      "category": "activist",
+      "region": "East Asia",
+      "country": "China",
+      "asian": true,
+      "date": "c. 1904 to 1905 (Tokyo); executed 15 Jul 1907",
+      "place": "Tokyo; Shaoxing",
+      "outfit": "Studying in Tokyo, she often dressed in a kimono and carried a Japanese sword (Encyclopedia.com / Women in World History). Surviving portraits also show her in Western-style men's dress.",
+      "label": "None.",
+      "why": "A poet and revolutionary who left an arranged marriage, unbound her feet, ran a women's newspaper and was executed at about 31 for plotting against the Qing. Her portraits with a blade, or in men's clothes, were a deliberate refusal of the cloistered Chinese wife. She is the badass founding mother of Chinese feminism, and the photos are public domain.",
+      "sources": [
+        "https://www.encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/qiu-jin-c-1875-1907",
+        "https://en.wikipedia.org/wiki/Qiu_Jin"
+      ],
+      "where": null,
+      "media": [
+        {
+          "kind": "PD image",
+          "url": "https://commons.wikimedia.org/wiki/File:Qiu_jin.jpg",
+          "credit": "c. 1900 to 1907",
+          "rights": "public-domain/CC",
+          "link_status": "ok"
+        },
+        {
+          "kind": "PD image",
+          "url": "https://commons.wikimedia.org/wiki/File:Qiu_Jin2.jpg",
+          "credit": "before 1908",
+          "rights": "public-domain/CC",
+          "link_status": "ok"
+        },
+        {
+          "kind": "category",
+          "url": "https://commons.wikimedia.org/wiki/Category:Qiu_Jin",
+          "credit": "Commons",
+          "rights": "public-domain/CC",
+          "note": "Match the kimono or men's-suit frames to captions before publishing.",
+          "link_status": "ok"
+        }
+      ],
+      "embeds": [],
+      "strength": 5,
+      "source_status": {
+        "https://www.encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/qiu-jin-c-1875-1907": "ok",
+        "https://en.wikipedia.org/wiki/Qiu_Jin": "ok"
+      }
+    },
+    {
+      "id": "kartini-kebaya",
+      "who": "Raden Ajeng Kartini",
+      "category": "activist",
+      "region": "Southeast Asia",
+      "country": "Indonesia",
+      "asian": true,
+      "date": "Portrait c. 1890 to 1904; letters published 1911",
+      "place": "Jepara, Java",
+      "outfit": "Kebaya with batik kain, in the studio portraits now held by the Wereldmuseum (formerly Tropenmuseum).",
+      "label": "None.",
+      "why": "Kartini's letters, published in 1911 as Door Duisternis tot Licht, argued for girls' education and against polygamy and seclusion, and she opened a school for girls. Her portrait in kebaya made that garment the uniform of Indonesian women's emancipation: every 21 April, Hari Kartini, schoolgirls wear kebaya in her honour. This is a case of a garment adopted by a nation because of one feminist.",
+      "sources": [
+        "https://commons.wikimedia.org/wiki/Category:Kartini",
+        "https://www.cnnindonesia.com/gaya-hidup/20260421114318-277-1350303/kebaya-kartini-dari-busana-priyayi-jadi-identitas-perempuan-indonesia"
+      ],
+      "where": "Portrait print: Wereldmuseum (ex-Tropenmuseum), TM 10018776.",
+      "media": [
+        {
+          "kind": "CC image",
+          "url": "https://commons.wikimedia.org/wiki/File:COLLECTIE_TROPENMUSEUM_Portret_van_Raden_Ajeng_Kartini_TMnr_10018776.jpg",
+          "credit": "Collectie Wereldmuseum (Tropenmuseum), CC BY-SA 3.0",
+          "rights": "public-domain/CC (CC BY-SA 3.0)",
+          "link_status": "ok"
+        }
+      ],
+      "embeds": [],
+      "strength": 4,
+      "source_status": {
+        "https://commons.wikimedia.org/wiki/Category:Kartini": "ok",
+        "https://www.cnnindonesia.com/gaya-hidup/20260421114318-277-1350303/kebaya-kartini-dari-busana-priyayi-jadi-identitas-perempuan-indonesia": "ok"
+      }
+    },
+    {
+      "id": "gulabi-gang-pink-saris",
+      "who": "Sampat Pal Devi and the Gulabi Gang",
+      "category": "activist",
+      "region": "South Asia",
+      "country": "India",
+      "asian": true,
+      "date": "Founded 2006",
+      "place": "Banda district, Uttar Pradesh",
+      "outfit": "Bright pink saris as a uniform, with lathis (bamboo sticks).",
+      "label": "None. A collective uniform.",
+      "why": "Rural women facing domestic violence, child marriage, dowry abuse and police indifference made themselves visible and unignorable in pink. It is a working-class South Asian counterpart to the suffragette colour code, and it was enforced with a stick. The BBC covered Sampat Pal contesting the 2012 Uttar Pradesh elections.",
+      "sources": [
+        "https://gulabigang.in/",
+        "https://www.bbc.com/news/world-asia-india-16754697",
+        "https://www.theguardian.com/world/2011/mar/08/sampat-pal-devi-100-women",
+        "https://www.theguardian.com/lifeandstyle/2008/feb/15/women.india"
+      ],
+      "where": null,
+      "media": [
+        {
+          "kind": "CC image",
+          "url": "https://commons.wikimedia.org/wiki/File:Gulabi_Gang.png",
+          "credit": "CC BY 3.0, see Commons",
+          "rights": "public-domain/CC (CC BY 3.0)",
+          "note": "Check what the file shows.",
+          "link_status": "ok"
+        }
+      ],
+      "embeds": [
+        {
+          "platform": "YouTube",
+          "url": "https://www.youtube.com/watch?v=fivf8i7XZSw",
+          "official": true,
+          "channel": "Al Arabiya English",
+          "link_status": "ok"
+        },
+        {
+          "platform": "YouTube",
+          "url": "https://www.youtube.com/watch?v=YMnpnd0T4gE",
+          "official": true,
+          "channel": "VICE",
+          "link_status": "ok"
+        }
+      ],
+      "strength": 4,
+      "source_status": {
+        "https://gulabigang.in/": "ok",
+        "https://www.bbc.com/news/world-asia-india-16754697": "ok",
+        "https://www.theguardian.com/world/2011/mar/08/sampat-pal-devi-100-women": "ok",
+        "https://www.theguardian.com/lifeandstyle/2008/feb/15/women.india": "ok"
+      }
+    },
+    {
+      "id": "yoko-ono-cut-piece",
+      "who": "Yoko Ono",
+      "category": "activist",
+      "region": "East Asia",
+      "country": "Japan",
+      "asian": true,
+      "date": "1964 (Kyoto debut; Tokyo, 11 Aug 1964), 21 Mar 1965 (New York), 2003 (Paris)",
+      "place": "Yamaichi Hall, Kyoto; Sogetsu Art Center, Tokyo; Carnegie Recital Hall, New York",
+      "outfit": "Her best suit, which she wore deliberately. She sat silently while the audience cut pieces of it away (Tate).",
+      "label": "None stated.",
+      "why": "One of the founding works of feminist performance: a Japanese woman offering her body and her best clothes to a crowd and letting them show what they would take. In 2003, in Paris, she said the performance was 'against ageism, against racism, against sexism, and against violence'. The garment's destruction is the work.",
+      "sources": [
+        "https://www.tate.org.uk/documents/1911/TM_EXH_0091_Yoko_Ono_LPG_Web_v6.pdf",
+        "https://www.moma.org/audio/playlist/15/373"
+      ],
+      "where": "Photographs: Minoru Hirata (Tokyo, 1964) and Minoru Niizuma (Carnegie, 1965), courtesy the artist (Tate, Yoko Ono: Music of the Mind, 2024).",
+      "media": [
+        {
+          "kind": "press photo",
+          "url": "https://www.tate.org.uk/documents/1911/TM_EXH_0091_Yoko_Ono_LPG_Web_v6.pdf",
+          "credit": "Minoru Niizuma / Minoru Hirata, courtesy Yoko Ono",
+          "rights": "copyrighted (credit+link/embed only)",
+          "link_status": "ok"
+        },
+        {
+          "kind": "CC0 image (other moment)",
+          "url": "https://commons.wikimedia.org/wiki/File:John_Lennon_en_Yoko_Ono_op_huwelijksreis_in_Amsterdam_John_Lennon_bij_Hilton_Hot,_Bestanddeelnr_922-2262.jpg",
+          "credit": "Nationaal Archief, 1969 Bed-In",
+          "rights": "public-domain/CC (CC0)",
+          "note": "1969 Amsterdam Bed-In, all white. A bonus for a later Yoko moment.",
+          "link_status": "ok"
+        }
+      ],
+      "embeds": [],
+      "strength": 5,
+      "source_status": {
+        "https://www.tate.org.uk/documents/1911/TM_EXH_0091_Yoko_Ono_LPG_Web_v6.pdf": "ok",
+        "https://www.moma.org/audio/playlist/15/373": "bot-blocked (403); page surfaced in search, open in a browser"
+      }
+    },
+    {
+      "id": "jane-fonda-red-coat-2019",
+      "who": "Jane Fonda",
+      "category": "actress",
+      "region": "North America",
+      "country": "USA",
+      "asian": false,
+      "date": "Oct 2019 onward (arrested 11 Oct 2019); carried it at the Oscars on 9 Feb 2020",
+      "place": "US Capitol, Washington DC (Fire Drill Fridays); Dolby Theatre, Los Angeles",
+      "outfit": "A red coat she wore to every Fire Drill Friday and many arrests: 'That red coat I bought on sale. I've said it's the last piece of clothing I'll ever buy. Sorry, Saks.' At the 2020 Oscars she presented Best Picture with the coat over her arm and wore a re-worn gown.",
+      "label": "Not stated.",
+      "why": "An actress-activist turned a single coat into a climate pledge against consumption and wore it into handcuffs. Carrying it onto the Oscars stage brought the protest uniform to the most-watched red carpet. For a vintage shop, 'the last piece of clothing I'll ever buy' is an on-brand line.",
+      "sources": [
+        "https://www.harpersbazaar.com/celebrity/latest/a29741997/jane-fonda-red-coat/",
+        "https://www.huffpost.com/entry/jane-fonda-2020-oscars-recycled-dress_n_5e415bacc5b6b7088704959e",
+        "https://www.looktothestars.org/news/19574-jane-fonda-brings-iconic-fire-drill-fridays-coat-to-close-the-2020-oscars"
+      ],
+      "where": null,
+      "media": [
+        {
+          "kind": "press photo",
+          "url": "https://www.harpersbazaar.com/celebrity/latest/a29741997/jane-fonda-red-coat/",
+          "credit": "Tom Williams // Getty Images",
+          "rights": "copyrighted (credit+link/embed only)",
+          "link_status": "ok"
+        }
+      ],
+      "embeds": [
+        {
+          "platform": "YouTube",
+          "url": "https://www.youtube.com/watch?v=NQ0L7yjUKfM",
+          "official": true,
+          "channel": "Bloomberg News",
+          "link_status": "ok"
+        }
+      ],
+      "strength": 4,
+      "source_status": {
+        "https://www.harpersbazaar.com/celebrity/latest/a29741997/jane-fonda-red-coat/": "ok",
+        "https://www.huffpost.com/entry/jane-fonda-2020-oscars-recycled-dress_n_5e415bacc5b6b7088704959e": "ok",
+        "https://www.looktothestars.org/news/19574-jane-fonda-brings-iconic-fire-drill-fridays-coat-to-close-the-2020-oscars": "ok"
+      }
+    },
+    {
+      "id": "shirley-chisholm-1972",
+      "who": "Shirley Chisholm",
+      "category": "politician",
+      "region": "North America",
+      "country": "USA",
+      "asian": false,
+      "date": "25 Jan 1972",
+      "place": "Brooklyn, NY (announcing her presidential run)",
+      "outfit": "Visible in the Library of Congress frame: a coat or dress in a bold geometric brick-pattern print with a wide pointed collar, layered chain necklaces, browline glasses and small hoop earrings.",
+      "label": "Not known.",
+      "why": "She was the first Black woman elected to Congress and the first Black candidate and first woman to seek the Democratic presidential nomination, 'Unbought and Unbossed'. In the photo of her announcement she is bold-printed, bespectacled and unapologetic: not the dark suit of a man's campaign.",
+      "sources": [
+        "https://www.loc.gov/item/2018650320/",
+        "https://www.loc.gov/pictures/item/2003688123/"
+      ],
+      "where": "Library of Congress, U.S. News & World Report collection (photo by Thomas J. O'Halloran).",
+      "media": [
+        {
+          "kind": "PD image",
+          "url": "https://commons.wikimedia.org/wiki/File:Shirley_Chisholm.jpg",
+          "credit": "Thomas J. O'Halloran, U.S. News & World Report / LoC, no known restrictions",
+          "rights": "public-domain/CC",
+          "link_status": "ok"
+        },
+        {
+          "kind": "archive",
+          "url": "https://www.loc.gov/pictures/item/2003688123/",
+          "credit": "LoC",
+          "rights": "public-domain/CC",
+          "link_status": "bot-blocked (403); page surfaced in search, open in a browser"
+        }
+      ],
+      "embeds": [
+        {
+          "platform": "YouTube",
+          "url": "https://www.youtube.com/watch?v=y3JCX3WxBik",
+          "official": true,
+          "channel": "NYC Department of Records and Information Services",
+          "link_status": "ok"
+        }
+      ],
+      "strength": 5,
+      "source_status": {
+        "https://www.loc.gov/item/2018650320/": "bot-blocked (403); page surfaced in search, open in a browser",
+        "https://www.loc.gov/pictures/item/2003688123/": "bot-blocked (403); page surfaced in search, open in a browser"
+      }
+    },
+    {
+      "id": "aoc-tax-the-rich-2021",
+      "who": "Alexandria Ocasio-Cortez",
+      "category": "politician",
+      "region": "North America",
+      "country": "USA",
+      "asian": false,
+      "date": "13 Sep 2021",
+      "place": "Met Gala ('In America: A Lexicon of Fashion'), New York",
+      "outfit": "A white off-the-shoulder gown with 'Tax the Rich' in red across the back, a matching satin 'Tax the Rich' bag and red shoes.",
+      "label": "Brother Vellies by Aurora James (designed and loaned; NYT and Vogue).",
+      "why": "A socialist congresswoman wrote her platform on her body inside fashion's most expensive room. The dress was mocked and praised in equal measure, which was the point. Aurora James said it was meant to bring the economic-justice conversation to the people who most needed to hear it. It is the clearest slogan garment of the 2020s.",
+      "sources": [
+        "https://www.vogue.com/article/alexandria-ocasio-cortez-met-gala-2021",
+        "https://www.nytimes.com/2021/09/16/style/aoc-designer-tax-the-rich-dress.html",
+        "https://www.cnn.com/style/article/aoc-met-gala-alexandria-ocasio-cortez-dress"
+      ],
+      "where": null,
+      "media": [
+        {
+          "kind": "press photo",
+          "url": "https://www.vogue.com/article/alexandria-ocasio-cortez-met-gala-2021",
+          "credit": "see Vogue (Getty)",
+          "rights": "copyrighted (credit+link/embed only)",
+          "link_status": "ok"
+        }
+      ],
+      "embeds": [
+        {
+          "platform": "Instagram",
+          "url": "search @aoc and @aurorajames posts from 13 to 14 Sep 2021",
+          "official": true,
+          "note": "Not verified: IG blocks fetch",
+          "link_status": "n/a"
+        },
+        {
+          "platform": "YouTube",
+          "url": "https://www.youtube.com/watch?v=gDat9gA3NG8",
+          "official": false,
+          "channel": "The Recount (news)",
+          "link_status": "ok"
+        }
+      ],
+      "strength": 5,
+      "source_status": {
+        "https://www.vogue.com/article/alexandria-ocasio-cortez-met-gala-2021": "ok",
+        "https://www.nytimes.com/2021/09/16/style/aoc-designer-tax-the-rich-dress.html": "bot-blocked (403); page surfaced in search, open in a browser",
+        "https://www.cnn.com/style/article/aoc-met-gala-alexandria-ocasio-cortez-dress": "ok"
+      }
+    },
+    {
+      "id": "congress-suffragette-white-sotu-2019",
+      "who": "House Democratic women (Democratic Women's Working Group, chair Rep. Lois Frankel)",
+      "category": "politician",
+      "region": "North America",
+      "country": "USA",
+      "asian": false,
+      "date": "5 Feb 2019",
+      "place": "State of the Union, US Capitol",
+      "outfit": "Coordinated 'suffragette white': white suits and dresses, worn by dozens of women lawmakers.",
+      "label": "None. A collective dress code.",
+      "why": "The most visible use of the 1908 suffragette code in modern politics. A record class of women in the House turned a sea of white into a single image during a hostile president's speech. It shows that a colour can be a caucus.",
+      "sources": [
+        "https://www.usatoday.com/story/news/politics/onpolitics/2019/02/05/democratic-women-wear-white-state-of-the-union-2019/2775444002/",
+        "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=859",
+        "https://time.com/5520372/2019-state-of-the-union-fashion/",
+        "https://rollcall.com/2019/02/04/wearing-white-to-the-state-of-the-union-isnt-what-it-used-to-be/"
+      ],
+      "where": null,
+      "media": [
+        {
+          "kind": "press photo",
+          "url": "https://time.com/5520372/2019-state-of-the-union-fashion/",
+          "credit": "see TIME",
+          "rights": "copyrighted (credit+link/embed only)",
+          "note": "Official House or Speaker Flickr may have PD frames. Not checked.",
+          "link_status": "bot-blocked (406); page surfaced in search, open in a browser"
+        }
+      ],
+      "embeds": [],
+      "strength": 3,
+      "source_status": {
+        "https://www.usatoday.com/story/news/politics/onpolitics/2019/02/05/democratic-women-wear-white-state-of-the-union-2019/2775444002/": "bot-blocked (402); page surfaced in search, open in a browser",
+        "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=859": "ok",
+        "https://time.com/5520372/2019-state-of-the-union-fashion/": "bot-blocked (406); page surfaced in search, open in a browser",
+        "https://rollcall.com/2019/02/04/wearing-white-to-the-state-of-the-union-isnt-what-it-used-to-be/": "ok"
+      }
+    },
+    {
+      "id": "jacinda-ardern-kahu-huruhuru-2018",
+      "who": "Jacinda Ardern",
+      "category": "politician",
+      "region": "Oceania",
+      "country": "New Zealand",
+      "asian": false,
+      "date": "19 Apr 2018",
+      "place": "CHOGM state dinner, Buckingham Palace, London",
+      "outfit": "A feathered M\u0101ori cloak, a kahu huruhuru (widely reported as a korowai), loaned by Ng\u0101ti R\u0101nana, the London M\u0101ori club, worn over a black gown while she was pregnant.",
+      "label": "Traditional k\u0101kahu, on loan from Ng\u0101ti R\u0101nana.",
+      "why": "A pregnant prime minister wore an Indigenous taonga to dine with the Queen, at the head of the empire that colonised Aotearoa. She was only the second elected leader to give birth in office. Te Papa's M\u0101ori collection manager wrote a blog post on exactly what she wore, which is rare museum-level sourcing for a red-carpet moment.",
+      "sources": [
+        "https://blog.tepapa.govt.nz/2018/04/30/maori-kakahu-cloaks-when-is-a-korowai-not-a-korowai/",
+        "https://www.theguardian.com/world/2018/apr/20/jacinda-ardern-maori-cloak-buckingham-palace-new-zealand",
+        "https://www.bbc.com/news/world-asia-43833481",
+        "https://www.cnn.com/2018/04/20/asia/jacinda-ardern-korowai-london-queen-intl"
+      ],
+      "where": "Returned to Ng\u0101ti R\u0101nana (loan).",
+      "media": [
+        {
+          "kind": "press photo",
+          "url": "https://www.theguardian.com/world/2018/apr/20/jacinda-ardern-maori-cloak-buckingham-palace-new-zealand",
+          "credit": "see Guardian (pool/Getty)",
+          "rights": "copyrighted (credit+link/embed only)",
+          "link_status": "ok"
+        }
+      ],
+      "embeds": [
+        {
+          "platform": "YouTube",
+          "url": "https://www.youtube.com/watch?v=OHekwkDVeGc",
+          "official": true,
+          "channel": "Guardian News",
+          "note": "Shows her toast at the same dinner. Confirm the cloak is visible.",
+          "link_status": "ok"
+        }
+      ],
+      "strength": 4,
+      "source_status": {
+        "https://blog.tepapa.govt.nz/2018/04/30/maori-kakahu-cloaks-when-is-a-korowai-not-a-korowai/": "ok",
+        "https://www.theguardian.com/world/2018/apr/20/jacinda-ardern-maori-cloak-buckingham-palace-new-zealand": "ok",
+        "https://www.bbc.com/news/world-asia-43833481": "ok",
+        "https://www.cnn.com/2018/04/20/asia/jacinda-ardern-korowai-london-queen-intl": "ok"
+      }
+    },
+    {
+      "id": "benazir-bhutto-oath-1988",
+      "who": "Benazir Bhutto",
+      "category": "politician",
+      "region": "South Asia",
+      "country": "Pakistan",
+      "asian": true,
+      "date": "2 Dec 1988",
+      "place": "Swearing-in as Prime Minister, Islamabad",
+      "outfit": "A bright green shalwar kameez with a white muslin dupatta, worn draped over her head and across her torso: the green and white of Pakistan's flag. Maheen Khan chose muslin over chiffon because it would hold that drape.",
+      "label": "Maheen Khan (designer; Express Tribune interview).",
+      "why": "The first woman elected to lead a Muslim-majority country took her oath at 35 dressed as the flag. The loose white dupatta became her signature for the rest of her life. It was a woman claiming national symbolism that had never been worn by a woman at the top.",
+      "sources": [
+        "https://tribune.com.pk/story/2429244/maheen-khan-recalls-dressing-benazir-bhutto-in-her-iconic-green-and-white-oath-ceremony-outfit",
+        "https://www.upi.com/Archives/1988/12/02/Benazir-Bhutto-took-office-Friday-as-prime-minister-of/9925597042000/"
+      ],
+      "where": null,
+      "media": [
+        {
+          "kind": "PD image (1989, not the oath)",
+          "url": "https://commons.wikimedia.org/wiki/File:Benazir_bhutto_1989.jpg",
+          "credit": "US government, 5 Jun 1989",
+          "rights": "public-domain/CC",
+          "note": "Shows the signature white dupatta.",
+          "link_status": "ok"
+        }
+      ],
+      "embeds": [
+        {
+          "platform": "YouTube",
+          "url": "https://www.youtube.com/watch?v=E2ihZ7LsspE",
+          "official": true,
+          "channel": "Pakistan People's Party (first speech as PM)",
+          "link_status": "ok"
+        }
+      ],
+      "strength": 5,
+      "source_status": {
+        "https://tribune.com.pk/story/2429244/maheen-khan-recalls-dressing-benazir-bhutto-in-her-iconic-green-and-white-oath-ceremony-outfit": "ok",
+        "https://www.upi.com/Archives/1988/12/02/Benazir-Bhutto-took-office-Friday-as-prime-minister-of/9925597042000/": "bot-blocked (403); page surfaced in search, open in a browser"
+      }
+    },
+    {
+      "id": "ryu-ho-jeong-dress-2020",
+      "who": "Ryu Ho-jeong \ub958\ud638\uc815",
+      "category": "politician",
+      "region": "East Asia",
+      "country": "South Korea",
+      "asian": true,
+      "date": "4 Aug 2020 (reported 5 to 6 Aug)",
+      "place": "National Assembly plenary session, Seoul",
+      "outfit": "A short wrap minidress. English outlets (Korea Herald, Guardian) call it red; Korean outlets (Yonhap, MBN) call it pink (\ubd84\ud64d \uc6d0\ud53c\uc2a4).",
+      "label": "Not stated.",
+      "why": "The Assembly's youngest member, a Justice Party lawmaker born in 1992, wore a summer dress into a chamber of dark suits and got a wave of misogynist abuse online. Her reply, 'Is the authority of the National Assembly built on suits?' (Yonhap), turned one dress into a national debate about who gets to look like power in Korea.",
+      "sources": [
+        "https://www.koreaherald.com/article/2387616",
+        "https://en.yna.co.kr/view/AEN20200806004200315",
+        "https://www.yna.co.kr/view/AKR20200805121351001",
+        "https://www.theguardian.com/world/2020/aug/06/criticism-mp-red-dress-stirs-south-korea-sexism-debate"
+      ],
+      "where": null,
+      "media": [
+        {
+          "kind": "press photo",
+          "url": "https://www.theguardian.com/world/2020/aug/06/criticism-mp-red-dress-stirs-south-korea-sexism-debate",
+          "credit": "Yonhap News",
+          "rights": "copyrighted (credit+link/embed only)",
+          "link_status": "ok"
+        },
+        {
+          "kind": "CC image (portrait only)",
+          "url": "https://commons.wikimedia.org/wiki/File:%EB%A5%98%ED%98%B8%EC%A0%95_%EC%9D%98%EC%9B%90.jpg",
+          "credit": "CC BY 3.0",
+          "rights": "public-domain/CC",
+          "link_status": "ok"
+        }
+      ],
+      "embeds": [
+        {
+          "platform": "YouTube",
+          "url": "https://www.youtube.com/watch?v=x9tB-wwp3zI",
+          "official": true,
+          "channel": "\uc5f0\ud569\ub274\uc2a4TV (YonhapnewsTV)",
+          "link_status": "ok"
+        }
+      ],
+      "strength": 5,
+      "source_status": {
+        "https://www.koreaherald.com/article/2387616": "ok",
+        "https://en.yna.co.kr/view/AEN20200806004200315": "ok",
+        "https://www.yna.co.kr/view/AKR20200805121351001": "ok",
+        "https://www.theguardian.com/world/2020/aug/06/criticism-mp-red-dress-stirs-south-korea-sexism-debate": "ok"
+      }
+    },
+    {
+      "id": "phoolan-devi-surrender-1983",
+      "who": "Phoolan Devi",
+      "category": "politician",
+      "region": "South Asia",
+      "country": "India",
+      "asian": true,
+      "date": "Feb 1983 (surrender); elected MP for Mirzapur in 1996",
+      "place": "Bhind, Madhya Pradesh",
+      "outfit": "In Sondeep Shankar's frame (b&w): a headband tied across her forehead and a shawl wrapped over her shoulders, rifle in hand, as she gives up her gun before Chief Minister Arjun Singh. A red headband is often described, but I could not confirm the colour in a primary source.",
+      "label": "None.",
+      "why": "A lower-caste woman who survived sexual violence, led a bandit gang in the Chambal ravines, surrendered on her own terms and later sat in Parliament. The headband-and-rifle image is one of the most famous pictures of a woman in Indian history. FLAG: she is a contested figure (accused in the 1981 Behmai killings). Present with care.",
+      "sources": [
+        "https://www.gettyimages.in/detail/news-photo/at-a-ceremony-in-bhind-madhya-pradesh-in-february-1983-the-news-photo/1713273815",
+        "https://www.theatlantic.com/magazine/archive/1996/11/indias-bandit-queen/304890/"
+      ],
+      "where": null,
+      "media": [
+        {
+          "kind": "press photo",
+          "url": "https://www.gettyimages.in/detail/news-photo/at-a-ceremony-in-bhind-madhya-pradesh-in-february-1983-the-news-photo/1713273815",
+          "credit": "Sondeep Shankar/Getty Images",
+          "rights": "copyrighted (credit+link/embed only): rights-managed, would need a license",
+          "link_status": "ok"
+        }
+      ],
+      "embeds": [],
+      "strength": 3,
+      "flags": [
+        "contested figure"
+      ],
+      "source_status": {
+        "https://www.gettyimages.in/detail/news-photo/at-a-ceremony-in-bhind-madhya-pradesh-in-february-1983-the-news-photo/1713273815": "ok",
+        "https://www.theatlantic.com/magazine/archive/1996/11/indias-bandit-queen/304890/": "bot-blocked (403); page surfaced in search, open in a browser"
+      }
+    },
+    {
+      "id": "michelle-yeoh-oscars-2023",
+      "who": "Michelle Yeoh \u694a\u7d2b\u74ca",
+      "category": "actress",
+      "region": "Southeast Asia",
+      "country": "Malaysia",
+      "asian": true,
+      "date": "12 Mar 2023",
+      "place": "95th Academy Awards, Dolby Theatre, Los Angeles",
+      "outfit": "A custom white gown of layered ivory silk-organza feathers, handmade in the Dior Haute Couture atelier over more than 200 hours.",
+      "label": "Dior Haute Couture, Maria Grazia Chiuri (Harper's Bazaar UK, WWD).",
+      "why": "She was the first Asian woman to win Best Actress, at 60. On stage she said: 'Ladies, don't let anybody tell you you are ever past your prime.' A Malaysian-Chinese action star dressed as a swan, saying that on that stage, is the definitive anti-ageism moment of the decade.",
+      "sources": [
+        "https://www.harpersbazaar.com/uk/fashion/a43293859/michelle-yeoh-oscars-dress/",
+        "https://wwd.com/pop-culture/celebrity-news/michelle-yeoh-oscars-dress-best-actress-award-1235580729/",
+        "https://www.elle.com/culture/movies-tv/a43262840/michelle-yeoh-best-lead-actress-speech-oscars-2023/"
+      ],
+      "where": null,
+      "media": [
+        {
+          "kind": "press photo",
+          "url": "https://www.harpersbazaar.com/uk/fashion/a43293859/michelle-yeoh-oscars-dress/",
+          "credit": "Rodin Eckenroth / Getty Images",
+          "rights": "copyrighted (credit+link/embed only)",
+          "link_status": "ok"
+        }
+      ],
+      "embeds": [
+        {
+          "platform": "YouTube",
+          "url": "https://www.youtube.com/watch?v=DZldmL7zeSY",
+          "official": true,
+          "channel": "Oscars",
+          "link_status": "ok"
+        }
+      ],
+      "strength": 5,
+      "source_status": {
+        "https://www.harpersbazaar.com/uk/fashion/a43293859/michelle-yeoh-oscars-dress/": "ok",
+        "https://wwd.com/pop-culture/celebrity-news/michelle-yeoh-oscars-dress-best-actress-award-1235580729/": "ok",
+        "https://www.elle.com/culture/movies-tv/a43262840/michelle-yeoh-best-lead-actress-speech-oscars-2023/": "ok"
+      }
+    },
+    {
+      "id": "anita-mui-bad-girl-1986",
+      "who": "Anita Mui \u6885\u8277\u82b3",
+      "category": "actress",
+      "region": "East Asia",
+      "country": "Hong Kong",
+      "asian": true,
+      "date": "1986 (\u58de\u5973\u5b69 / Bad Girl era)",
+      "place": "Hong Kong",
+      "outfit": "Two looks styled by Eddie Lau (\u5289\u57f9\u57fa): a dramatic black strapless gown with violet accents and a diamond choker, and a tougher look of dark sunglasses, leather jacket and jeans. The double-layer album sleeve shows a male-tailored silhouette from behind (Tatler Asia, Vogue HK).",
+      "label": "Eddie Lau \u5289\u57f9\u57fa (image designer).",
+      "why": "Anita Mui was Cantopop's gender-bending 'ever-changing' (\u767e\u8b8a) queen, and Bad Girl was the moment she took on a scandalous, sexually frank persona in 1980s Hong Kong. Her collaboration with Eddie Lau, from men's suits to couture, made her Asia's first true fashion chameleon. She is the HK precursor to everyone from Faye Wong to Karen Mok on the archive.",
+      "sources": [
+        "https://www.tatlerasia.com/style/fashion/anita-mui-most-iconic-looks-style-file",
+        "https://www.voguehk.com/zh/article/fashion/anita-mui-fashion-icon-style/",
+        "https://slscdn.hkmemory.hk/collections/eddie_lau/anita_mui/index.html",
+        "https://www.lofficielhk.com/people/anita-mui-eddie-lau-interview"
+      ],
+      "where": "Eddie Lau's archive of Anita Mui images is presented on Hong Kong Memory (HKU / HK Memory project).",
+      "media": [
+        {
+          "kind": "archive",
+          "url": "https://slscdn.hkmemory.hk/collections/eddie_lau/anita_mui/index.html",
+          "credit": "Eddie Lau collection, Hong Kong Memory",
+          "rights": "copyrighted (credit+link/embed only)",
+          "link_status": "check (000)"
+        }
+      ],
+      "embeds": [
+        {
+          "platform": "YouTube",
+          "url": "https://www.youtube.com/watch?v=y8Gjj8gEoZI",
+          "official": false,
+          "channel": "fan upload (no official found)",
+          "link_status": "ok"
+        }
+      ],
+      "strength": 4,
+      "source_status": {
+        "https://www.tatlerasia.com/style/fashion/anita-mui-most-iconic-looks-style-file": "ok",
+        "https://www.voguehk.com/zh/article/fashion/anita-mui-fashion-icon-style/": "ok",
+        "https://slscdn.hkmemory.hk/collections/eddie_lau/anita_mui/index.html": "check (000)",
+        "https://www.lofficielhk.com/people/anita-mui-eddie-lau-interview": "ok"
+      }
+    },
+    {
+      "id": "brigitte-lin-dongfang-bubai-1992",
+      "who": "Brigitte Lin \u6797\u9752\u971e",
+      "category": "actress",
+      "region": "East Asia",
+      "country": "Taiwan",
+      "asian": true,
+      "date": "1992",
+      "place": "Swordsman II (\u7b11\u50b2\u6c5f\u6e56\u4e4b\u6771\u65b9\u4e0d\u6557), Hong Kong",
+      "outfit": "Asia the Invincible's flowing red-and-white costumes. White gave the male persona aloof elegance and true red gave the female persona confident allure, in thin silk and streaming ribbons. It was inspired by a portrait of the Sengoku warlord Imagawa Yoshimoto.",
+      "label": "Costume by William Chang Suk-ping \u5f35\u53d4\u5e73 (HK Heritage Museum). He and Yu Ka-on won Best Costume & Make Up Design at the 12th Hong Kong Film Awards.",
+      "why": "A Taiwanese star played a martial-arts master who castrates himself for power and becomes a woman, the most famous gender-fluid role in Chinese cinema. The red robe became Lin's defining image and a lasting queer and feminist touchstone in the Sinosphere. It is one of the most iconic outfits in Taiwanese film history.",
+      "sources": [
+        "https://hk.heritage.museum/documents/doc/en/resourceandservice/history/Architect-of-Dreams/Phase-2/26_William_Chang_29052023.pdf",
+        "https://news.qq.com/rain/a/20250910A05IDQ00"
+      ],
+      "where": null,
+      "media": [
+        {
+          "kind": "film still",
+          "url": "https://hk.heritage.museum/documents/doc/en/resourceandservice/history/Architect-of-Dreams/Phase-2/26_William_Chang_29052023.pdf",
+          "credit": "Film Workshop / distributor",
+          "rights": "copyrighted (credit+link/embed only)",
+          "link_status": "ok"
+        },
+        {
+          "kind": "CC image (portrait only)",
+          "url": "https://commons.wikimedia.org/wiki/File:Brigitte_Lin_(cropped).jpg",
+          "credit": "CC BY-SA 4.0",
+          "rights": "public-domain/CC",
+          "link_status": "ok"
+        }
+      ],
+      "embeds": [],
+      "strength": 4,
+      "source_status": {
+        "https://hk.heritage.museum/documents/doc/en/resourceandservice/history/Architect-of-Dreams/Phase-2/26_William_Chang_29052023.pdf": "ok",
+        "https://news.qq.com/rain/a/20250910A05IDQ00": "ok"
+      }
+    },
+    {
+      "id": "meiko-kaji-scorpion-1972",
+      "who": "Meiko Kaji \u68b6\u82bd\u8863\u5b50",
+      "category": "actress",
+      "region": "East Asia",
+      "country": "Japan",
+      "asian": true,
+      "date": "1972",
+      "place": "Female Prisoner #701: Scorpion (\u5973\u56da701\u53f7\uff0f\u3055\u305d\u308a), Toei",
+      "outfit": "A wide-brimmed black hat, long black coat (often called a raincoat) and black dress, with very long straight hair.",
+      "label": "Her own design. Kaji says she has never had a stylist and decided her costumes herself (Wax Poetics interview). A second source says the black hat and coat look was 'entirely her idea'.",
+      "why": "A woman avenger in a near-silent revenge cycle, dressed by herself. Sasori's all-black silhouette became the template for the badass female avenger, and Tarantino used Kaji's songs in Kill Bill. It is punk-rock cinema from Japan, and the 'I designed it myself' story makes it a real cool dairy fit.",
+      "sources": [
+        "https://magazine.waxpoetics.com/article/actress-singer-meiko-kaji/",
+        "https://rewindmoviecast.com/2022/12/08/femaleprisonerscorpion/"
+      ],
+      "where": null,
+      "media": [
+        {
+          "kind": "film still",
+          "url": "https://magazine.waxpoetics.com/article/actress-singer-meiko-kaji/",
+          "credit": "Toei",
+          "rights": "copyrighted (credit+link/embed only)",
+          "link_status": "ok"
+        }
+      ],
+      "embeds": [],
+      "strength": 4,
+      "source_status": {
+        "https://magazine.waxpoetics.com/article/actress-singer-meiko-kaji/": "ok",
+        "https://rewindmoviecast.com/2022/12/08/femaleprisonerscorpion/": "ok"
+      }
+    },
+    {
+      "id": "marlene-dietrich-morocco-1930",
+      "who": "Marlene Dietrich",
+      "category": "actress",
+      "region": "Europe / North America",
+      "country": "Germany / USA",
+      "asian": false,
+      "date": "1930",
+      "place": "Morocco (Paramount, dir. Josef von Sternberg)",
+      "outfit": "As Amy Jolly: a black top hat, white shirt and tie, and black tailcoat. After singing, she takes a flower from a woman in the audience and kisses her on the lips.",
+      "label": "Costume by Travis Banton (LoC National Film Registry essay; Christie's sketch).",
+      "why": "Probably the first great image of a woman in a tuxedo on screen, with a same-sex kiss in 1930. Rookie Mag's 'Secret Style Icon: Marlene Dietrich' (Feb 2015) reads it as a gender-expression lifeline, which gives the archive its Rookie link. The tuxedo line runs straight through to Patti Smith, Kim Gordon and Charli's Le Smoking moment already on the site.",
+      "sources": [
+        "https://www.loc.gov/static/programs/national-film-preservation-board/documents/morocco.pdf",
+        "https://www.rookiemag.com/2015/02/secret-style-icon-marlene-dietrich/",
+        "https://www.christies.com/en/lot/lot-5697245"
+      ],
+      "where": "A Travis Banton costume sketch for Amy Jolly (Costume #3) was sold at Christie's (lot 5697245).",
+      "media": [
+        {
+          "kind": "PD image",
+          "url": "https://commons.wikimedia.org/wiki/File:Marlene_Dietrich_in_Morocco_trailer.jpg",
+          "credit": "Paramount trailer, 1930",
+          "rights": "public-domain/CC",
+          "link_status": "ok"
+        },
+        {
+          "kind": "PD image",
+          "url": "https://commons.wikimedia.org/wiki/File:Marlene_Dietrich_in_Morocco_2.jpg",
+          "credit": "1930",
+          "rights": "public-domain/CC",
+          "link_status": "ok"
+        }
+      ],
+      "embeds": [],
+      "strength": 5,
+      "source_status": {
+        "https://www.loc.gov/static/programs/national-film-preservation-board/documents/morocco.pdf": "ok",
+        "https://www.rookiemag.com/2015/02/secret-style-icon-marlene-dietrich/": "ok",
+        "https://www.christies.com/en/lot/lot-5697245": "ok"
+      }
+    },
+    {
+      "id": "tavi-style-rookie-backyard-portraits",
+      "date": "2008 to 2010 (Style Rookie, started at 11); Rodarte for Target video Dec 2009",
+      "place": "Her back garden in Oak Park, Illinois (tripod self-portraits)",
+      "outfit": "The New Yorker describes one Christmas Eve outfit post: a lacy American Apparel jumpsuit, a black Rodarte top silk-screened with a skeleton, and joke-shop glasses with hologram eyeballs floating in neon liquid, worn with a deadpan face. More generally: 'frumpy, Grey Gardens-inspired clothes', too-big jackets, towering platforms, clusters of brooches, clear-frame 'Tootsie' glasses, a turban, clashing prints, and ice-blue hair that faded to silver.",
+      "label": "American Apparel; Rodarte (as stated by The New Yorker). Starred in Rodarte's Target video (NYT).",
+      "why": "An 11-year-old in the Chicago suburbs taught the fashion industry to read a girl's bedroom-and-backyard style as criticism. The look mixed innocence with creepiness on purpose, Edward Gorey with granny brooches, and she took from Rei Kawakubo and the Mulleavys 'the idea that clothing can be art'. It is the DIY self-portrait as a fashion publication, the bridge from zines to blogs.",
+      "sources": [
+        "https://www.newyorker.com/magazine/2010/09/20/tavi-says",
+        "https://www.nytimes.com/2012/07/29/fashion/tavi-gevinson-the-oracle-of-girl-world.html",
+        "https://www.thecut.com/2008/07/tween_blogger_makes_it_big_wit.html"
+      ],
+      "where": null,
+      "media": [
+        {
+          "kind": "note",
+          "url": "https://www.newyorker.com/magazine/2010/09/20/tavi-says",
+          "credit": "Self-portraits by Tavi Gevinson (Style Rookie)",
+          "rights": "copyrighted (credit+link/embed only)",
+          "note": "The original blog photos are hers. Ask Tavi or link to the archived blog. I did not find the exact Christmas Eve post URL.",
+          "link_status": "ok"
+        },
+        {
+          "kind": "CC image (not this moment)",
+          "url": "https://commons.wikimedia.org/wiki/File:Tavi_Gevinson_by_Erica_Parrott.jpg",
+          "credit": "Erica Parrott, CC BY-SA 3.0 (2012)",
+          "rights": "public-domain/CC (CC BY-SA 3.0)",
+          "link_status": "ok"
+        },
+        {
+          "kind": "CC image (not this moment)",
+          "url": "https://commons.wikimedia.org/wiki/File:Gevinson_at_the_New_York_premiere_of_Cadavar.jpg",
+          "credit": "CC BY-SA 2.0 (Feb 2012, Cadaver premiere, NY)",
+          "rights": "public-domain/CC (CC BY-SA 2.0)",
+          "link_status": "ok"
+        }
+      ],
+      "embeds": [
+        {
+          "platform": "YouTube",
+          "url": "https://www.youtube.com/watch?v=2aYsF-HXxmE",
+          "official": true,
+          "channel": "TargetGO",
+          "note": "'Tavi and Rodarte for Target', uploaded 10 Dec 2009",
+          "link_status": "ok"
+        }
+      ],
+      "rookie_tie_in": [
+        {
+          "title": "Editor's Letter, January 2017: Possibility",
+          "url": "https://www.rookiemag.com/2017/01/editors-letter-63/",
+          "why": "She revisits her childhood bedroom of vintage '60s dresses ('Many of those dresses, I now realize, were actually really oversized, a couple even maternity\u2014I only ever wore the fact of a dress'). It is her own retrospective on the Style Rookie wardrobe."
+        }
+      ],
+      "strength": 5,
+      "who": "Tavi Gevinson",
+      "icon": "Tavi Gevinson",
+      "category": "writer",
+      "region": "North America",
+      "country": "USA",
+      "asian": false,
+      "source_status": {
+        "https://www.newyorker.com/magazine/2010/09/20/tavi-says": "ok",
+        "https://www.nytimes.com/2012/07/29/fashion/tavi-gevinson-the-oracle-of-girl-world.html": "bot-blocked (403); page surfaced in search, open in a browser",
+        "https://www.thecut.com/2008/07/tween_blogger_makes_it_big_wit.html": "ok"
+      }
+    },
+    {
+      "id": "tavi-nyfw-sept-2009-baggu-hat",
+      "date": "Sep 2009",
+      "place": "Her first New York Fashion Week",
+      "outfit": "A black Christian Siriano cocktail skirt with a metallic purple Miu Miu shirt, a thrifted belt and vintage pearls. On her head was a Baggu reusable shopping tote fastened with a guitar strap (Vanity Fair).",
+      "label": "Christian Siriano (skirt), Miu Miu (shirt), Baggu (tote as hat), per Vanity Fair.",
+      "why": "At 13, at her first NYFW, she turned a reusable grocery bag into a hat and wore it next to runway pieces. The high-low mix is pure cool dairy: designer and thrift at the same level, with humour as the point. It is the moment the industry saw she was not dressing to please it.",
+      "sources": [
+        "https://www.vanityfair.com/style/photos/2014/08/tavi-gevinson-style-evolution"
+      ],
+      "where": null,
+      "media": [
+        {
+          "kind": "press photo",
+          "url": "https://www.vanityfair.com/style/photos/2014/08/tavi-gevinson-style-evolution",
+          "credit": "see Vanity Fair gallery (agency credit on slide)",
+          "rights": "copyrighted (credit+link/embed only)",
+          "link_status": "ok"
+        }
+      ],
+      "embeds": [],
+      "rookie_tie_in": [],
+      "strength": 4,
+      "who": "Tavi Gevinson",
+      "icon": "Tavi Gevinson",
+      "category": "writer",
+      "region": "North America",
+      "country": "USA",
+      "asian": false,
+      "source_status": {
+        "https://www.vanityfair.com/style/photos/2014/08/tavi-gevinson-style-evolution": "ok"
+      }
+    },
+    {
+      "id": "tavi-dior-couture-hat-2010",
+      "date": "25 Jan 2010 (Teen Vogue report that day; Daily Beast: the Monday that opened Paris couture). The season name varies by source, so it is not stated.",
+      "place": "Christian Dior haute couture show, Paris, front row",
+      "outfit": "An oversized pastel-pink cartoon bow headpiece by Stephen Jones; an organza Comme des Gar\u00e7ons coat; wallpaper-floral tights; icy-blue hair faded to grey (Vanity Fair, Daily Beast, Teen Vogue, ELLE UK). In Paris, Karl Lagerfeld told her: 'Normally, children\u2014young people\u2014don't have this hair color. It's great to have it.'",
+      "label": "Stephen Jones (bow hat); Comme des Gar\u00e7ons (coat), as stated by the sources.",
+      "why": "'Hatgate': Grazia's style director Paula Reed tweeted a photo of the couture show seen through the bow ('Not best pleased to be watching couture through 13 year old Tavi's hat'). The tweet became the flashpoint of the 2010 editors-versus-bloggers backlash. Tavi's reply on her blog was the iconic part: 'I'm SHORT\u2026 adult heads do not have holes in them\u2026 I am really curious as to when news websites will write about something interesting, i.e. not what someone wore to a fashion show.' A girl blocked the old guard's view, literally and figuratively.",
+      "sources": [
+        "https://www.independent.co.uk/life-style/fashion/news/fluff-flies-as-fashion-writers-pick-a-cat-fight-with-bloggers-1884539.html",
+        "https://www.thedailybeast.com/paris-couture-kicks-off",
+        "https://www.teenvogue.com/story/tavi-obstructs-views-dior-does-equestrianism-and-couture-has-an-old-newbie",
+        "https://www.huffpost.com/entry/reporter-watches-dior-sho_n_436111",
+        "https://www.elle.com/uk/life-and-culture/a37220266/tavi-gevinson-gossip-girl-interview/",
+        "https://www.newyorker.com/magazine/2010/09/20/tavi-says",
+        "https://www.vanityfair.com/style/photos/2014/08/tavi-gevinson-style-evolution"
+      ],
+      "where": "Not known. The Stephen Jones bow's whereabouts are unreported.",
+      "media": [
+        {
+          "kind": "social/press photo",
+          "url": "https://www.huffpost.com/entry/reporter-watches-dior-sho_n_436111",
+          "credit": "Paula Reed / Grazia tweet photo, the runway seen through the bow (reproduced by HuffPost)",
+          "rights": "copyrighted (credit+link/embed only)",
+          "link_status": "bot-blocked (406); page surfaced in search, open in a browser"
+        },
+        {
+          "kind": "press photo",
+          "url": "https://www.vanityfair.com/style/photos/2014/08/tavi-gevinson-style-evolution",
+          "credit": "see Vanity Fair gallery",
+          "rights": "copyrighted (credit+link/embed only)",
+          "link_status": "ok"
+        },
+        {
+          "kind": "press photo",
+          "url": "https://www.independent.co.uk/life-style/fashion/news/fluff-flies-as-fashion-writers-pick-a-cat-fight-with-bloggers-1884539.html",
+          "credit": "EPA (per Independent)",
+          "rights": "copyrighted (credit+link/embed only)",
+          "link_status": "ok"
+        }
+      ],
+      "embeds": [],
+      "rookie_tie_in": [],
+      "strength": 5,
+      "flags": [
+        "Vanity Fair calls these the 'fall/winter 2010 haute couture shows'. January couture is usually labelled Spring/Summer, so I left the season out.",
+        "Her blog reply is quoted via The Independent. The original blog was 'The New Girl in Town', and I did not find the post URL."
+      ],
+      "who": "Tavi Gevinson",
+      "icon": "Tavi Gevinson",
+      "category": "writer",
+      "region": "North America",
+      "country": "USA",
+      "asian": false,
+      "source_status": {
+        "https://www.independent.co.uk/life-style/fashion/news/fluff-flies-as-fashion-writers-pick-a-cat-fight-with-bloggers-1884539.html": "ok",
+        "https://www.thedailybeast.com/paris-couture-kicks-off": "ok",
+        "https://www.teenvogue.com/story/tavi-obstructs-views-dior-does-equestrianism-and-couture-has-an-old-newbie": "ok",
+        "https://www.huffpost.com/entry/reporter-watches-dior-sho_n_436111": "bot-blocked (406); page surfaced in search, open in a browser",
+        "https://www.elle.com/uk/life-and-culture/a37220266/tavi-gevinson-gossip-girl-interview/": "ok",
+        "https://www.newyorker.com/magazine/2010/09/20/tavi-says": "ok",
+        "https://www.vanityfair.com/style/photos/2014/08/tavi-gevinson-style-evolution": "ok"
+      }
+    },
+    {
+      "id": "tavi-nyfw-sept-2011-prada-lipstick-skirt",
+      "date": "Sep 2011, days after Rookie launched (1 Sep 2011)",
+      "place": "New York Fashion Week",
+      "outfit": "Her Prada 'lipstick' skirt, 'a famous piece from the spring 2010 collection, which she hunted down on eBay', worn with bobby socks and black-and-white kilties (Vanity Fair).",
+      "label": "Prada, spring 2010 collection (as stated by Vanity Fair), bought second-hand on eBay.",
+      "why": "This is the Rookie-launch look. A teenager who had just started a feminist magazine for girls wore a runway grail she had tracked down second-hand, styled like a 1950s schoolgirl. It shows the resale-hunter instinct cool dairy is built on, and the girlish-but-knowing mood Rookie made its house style.",
+      "sources": [
+        "https://www.vanityfair.com/style/photos/2014/08/tavi-gevinson-style-evolution",
+        "https://www.rookiemag.com/2011/09/editors-letter/"
+      ],
+      "where": null,
+      "media": [
+        {
+          "kind": "press photo",
+          "url": "https://www.vanityfair.com/style/photos/2014/08/tavi-gevinson-style-evolution",
+          "credit": "see Vanity Fair gallery",
+          "rights": "copyrighted (credit+link/embed only)",
+          "link_status": "ok"
+        }
+      ],
+      "embeds": [
+        {
+          "platform": "YouTube",
+          "url": "https://www.youtube.com/watch?v=E22icGCvGXk",
+          "official": true,
+          "channel": "TED",
+          "note": "'Still Figuring It Out' (TEDxTeen 2012; uploaded 2015). It is the spoken version of the Rookie ethos, not this outfit.",
+          "link_status": "ok"
+        }
+      ],
+      "rookie_tie_in": [
+        {
+          "title": "Editor's Letter, September 2011: Beginnings",
+          "url": "https://www.rookiemag.com/2011/09/editors-letter/",
+          "why": "'Rookie is not your guide to Being a Teen. It is not a pamphlet on How to Be a Young Woman\u2026 Rookie is a place to make the best of the beautiful pain and cringe-worthy awkwardness of being an adolescent girl.'"
+        },
+        {
+          "title": "TEDxTeen 2012, 'Still Figuring It Out' (transcript via NPR)",
+          "url": "https://text.npr.org/211727773",
+          "why": "'You can't be a feminist who's also interested in fashion. You can't care about clothes if it's not for the sake of what other people, usually men, will think of you'. These are the contradictions she says Rookie set out to reconcile, because 'feminism was not a rulebook but a discussion'."
+        },
+        {
+          "title": "Editor's Letter, August 2014: Enchantment",
+          "url": "https://www.rookiemag.com/2014/08/editors-letter-34/",
+          "why": "On how 'the so-called feminine arts: beauty, glamour, style' are treated as 'dark magicks', an unfair advantage. It is her clearest feminist theory of clothes."
+        }
+      ],
+      "strength": 5,
+      "who": "Tavi Gevinson",
+      "icon": "Tavi Gevinson",
+      "category": "writer",
+      "region": "North America",
+      "country": "USA",
+      "asian": false,
+      "source_status": {
+        "https://www.vanityfair.com/style/photos/2014/08/tavi-gevinson-style-evolution": "ok",
+        "https://www.rookiemag.com/2011/09/editors-letter/": "ok"
+      }
+    },
+    {
+      "id": "tavi-met-gala-2016-coach",
+      "date": "2 May 2016",
+      "place": "Met Gala, 'Manus x Machina: Fashion in an Age of Technology', New York",
+      "outfit": "A short printed dress with a collar, a high neckline and pearl buttons, covered in mixed prints, worn with heeled sandals, a black clutch and red lipstick (Business Insider; Teen Vogue).",
+      "label": "Custom Coach 1941 by creative director Stuart Vevers (Teen Vogue; BoF).",
+      "why": "Six years after Hatgate, the girl who was blamed for blocking editors' view walked the Met steps as a designer's guest. She still chose a wearable, collegiate, print-clash mini over a gown, a rejection of red-carpet formality that Teen Vogue's headline praised as something 'you could actually wear'. In 2018 she wore a pink Zac Posen mini dress to the Tony Awards (ELLE UK).",
+      "sources": [
+        "https://www.teenvogue.com/story/chloe-grace-moretz-tavi-gevinson-met-gala-2016",
+        "https://www.businessinsider.com/what-influencers-wore-at-met-gala-red-carpet-2021-9",
+        "https://www.businessoffashion.com/organisations/coach/projects/all-eyes-on-the-met-gala-2016-red-carpet/",
+        "https://www.elle.com/uk/fashion/celebrity-style/a37357188/tavi-gevinson-its-a-mood/"
+      ],
+      "where": null,
+      "media": [
+        {
+          "kind": "press photo",
+          "url": "https://www.businessinsider.com/what-influencers-wore-at-met-gala-red-carpet-2021-9",
+          "credit": "Charles Sykes/Invision/AP",
+          "rights": "copyrighted (credit+link/embed only)",
+          "link_status": "ok"
+        },
+        {
+          "kind": "press photo",
+          "url": "https://www.teenvogue.com/story/chloe-grace-moretz-tavi-gevinson-met-gala-2016",
+          "credit": "Getty Images (per Teen Vogue)",
+          "rights": "copyrighted (credit+link/embed only)",
+          "link_status": "ok"
+        }
+      ],
+      "embeds": [
+        {
+          "platform": "Instagram",
+          "url": "check @tavitulle and @coach posts from 2 to 3 May 2016",
+          "official": true,
+          "note": "Not verified: IG not fetchable from the box",
+          "link_status": "n/a"
+        }
+      ],
+      "rookie_tie_in": [
+        {
+          "title": "Editor's Letter, August 2015: Give and Take",
+          "url": "https://www.rookiemag.com/2015/08/editors-letter-44/",
+          "why": "On cutting her hair (the Mia Farrow cut she first had at 13) and how she has 'struggled to find a version of femininity that is not synonymous with the kind of self-consciousness that can slowly desaturate a person, perhaps because it's been defined by men'. It sits between the Rookie years and the red-carpet years."
+        }
+      ],
+      "strength": 3,
+      "who": "Tavi Gevinson",
+      "icon": "Tavi Gevinson",
+      "category": "writer",
+      "region": "North America",
+      "country": "USA",
+      "asian": false,
+      "source_status": {
+        "https://www.teenvogue.com/story/chloe-grace-moretz-tavi-gevinson-met-gala-2016": "ok",
+        "https://www.businessinsider.com/what-influencers-wore-at-met-gala-red-carpet-2021-9": "ok",
+        "https://www.businessoffashion.com/organisations/coach/projects/all-eyes-on-the-met-gala-2016-red-carpet/": "ok",
+        "https://www.elle.com/uk/fashion/celebrity-style/a37357188/tavi-gevinson-its-a-mood/": "ok"
+      }
+    }
+  ],
+  "existing_icon_moments": [
+    {
+      "id": "patti-smith-nobel-2016",
+      "who": "Patti Smith",
+      "existing": "patti-smith",
+      "category": "existing icon (musician/writer)",
+      "region": "Europe",
+      "country": "Sweden (event)",
+      "asian": false,
+      "date": "10 Dec 2016",
+      "place": "Nobel Prize Award Ceremony, Stockholm Concert Hall",
+      "outfit": "A navy blazer over a white collared shirt, with long silver hair loose (The New Yorker).",
+      "label": "Not stated.",
+      "why": "She sang Dylan's 'A Hard Rain's A-Gonna Fall' in his place, forgot the second verse, apologised, and began again. That unpolished moment of nerves in front of the King of Sweden is now part of the song. Her menswear uniform from the Horses cover, 41 years on, in white-tie territory.",
+      "sources": [
+        "https://www.newyorker.com/culture/cultural-comment/a-transcendent-patti-smith-accepts-bob-dylans-nobel-prize",
+        "https://www.newyorker.com/culture/cultural-comment/patti-smith-on-singing-at-bob-dylans-nobel-prize-ceremony"
+      ],
+      "where": null,
+      "media": [
+        {
+          "kind": "CC image (9 Dec 2016, Stockholm)",
+          "url": "https://commons.wikimedia.org/wiki/File:Patti_Smith_Stockholm_01.jpg",
+          "credit": "CC BY-SA 4.0",
+          "rights": "public-domain/CC",
+          "note": "Taken the day before the ceremony. Check the outfit.",
+          "link_status": "ok"
+        },
+        {
+          "kind": "press photo",
+          "url": "https://www.newyorker.com/culture/cultural-comment/a-transcendent-patti-smith-accepts-bob-dylans-nobel-prize",
+          "credit": "Jonas Ekstromer / TT News Agency via AP",
+          "rights": "copyrighted (credit+link/embed only)",
+          "link_status": "ok"
+        }
+      ],
+      "embeds": [
+        {
+          "platform": "YouTube",
+          "url": "https://www.youtube.com/watch?v=941PHEJHCwU",
+          "official": true,
+          "channel": "Nobel Prize",
+          "link_status": "ok"
+        }
+      ],
+      "strength": 5,
+      "source_status": {
+        "https://www.newyorker.com/culture/cultural-comment/a-transcendent-patti-smith-accepts-bob-dylans-nobel-prize": "ok",
+        "https://www.newyorker.com/culture/cultural-comment/patti-smith-on-singing-at-bob-dylans-nobel-prize-ceremony": "ok"
+      }
+    },
+    {
+      "id": "fiona-apple-criminal-1997",
+      "who": "Fiona Apple",
+      "existing": "fiona-apple",
+      "category": "existing icon",
+      "region": "North America",
+      "country": "USA",
+      "asian": false,
+      "date": "1997",
+      "place": "'Criminal' music video, dir. Mark Romanek",
+      "outfit": "Slip and underwear with knee socks in the kitchen scene. Elsewhere, a glittery blue off-the-shoulder top and a brown macram\u00e9/crochet skirt (Vogue, Vice).",
+      "label": "Not stated.",
+      "why": "Apple and Romanek deliberately staged the leering 'heroin chic' gaze of 1990s Calvin Klein ads around a 19-year-old singing about guilt. It shows how the decade's look sexualised girls, held up from the inside.",
+      "sources": [
+        "https://www.vogue.com/article/fiona-apple-style-best-music-videos-new-album-fetch-the-bolt-cutters",
+        "https://www.vice.com/en/article/what-i-learned-about-style-from-fiona-apples-criminal/",
+        "https://en.wikipedia.org/wiki/Criminal_(Fiona_Apple_song)"
+      ],
+      "where": null,
+      "media": [],
+      "embeds": [
+        {
+          "platform": "YouTube",
+          "url": "https://www.youtube.com/watch?v=FFOzayDpWoI",
+          "official": true,
+          "channel": "fionaapple",
+          "link_status": "ok"
+        }
+      ],
+      "strength": 4,
+      "source_status": {
+        "https://www.vogue.com/article/fiona-apple-style-best-music-videos-new-album-fetch-the-bolt-cutters": "ok",
+        "https://www.vice.com/en/article/what-i-learned-about-style-from-fiona-apples-criminal/": "ok",
+        "https://en.wikipedia.org/wiki/Criminal_(Fiona_Apple_song)": "ok"
+      }
+    },
+    {
+      "id": "olivia-rodrigo-glastonbury-2022",
+      "who": "Olivia Rodrigo",
+      "existing": "olivia-rodrigo",
+      "category": "existing icon",
+      "region": "Europe",
+      "country": "UK (event)",
+      "asian": false,
+      "date": "25 Jun 2022",
+      "place": "Glastonbury, Other Stage",
+      "outfit": "A custom Chopova Lowena look (Vogue).",
+      "label": "Chopova Lowena (custom), as stated by Vogue. It ties in with the archive's Chopova Lowena brand page.",
+      "why": "The day after the US Supreme Court overturned Roe v. Wade, she brought out Lily Allen to sing 'Fuck You', dedicated to the five justices who voted for it, and said 'so many women are going to die'. A teen pop star at her first Glastonbury used it for a feminist protest, wearing a young London label that is already on the archive's brand list.",
+      "sources": [
+        "https://www.vogue.com/article/olivia-rodrigo-glastonbury-supreme-court-message",
+        "https://www.theguardian.com/music/2022/jun/25/so-many-women-are-going-to-die-olivia-rodrigo-lambasts-roe-vs-wade-decision-at-glastonbury",
+        "https://www.rollingstone.com/music/music-news/olivia-rodrigo-fuck-you-lily-allen-five-supreme-court-justices-glastonbury-1374312/"
+      ],
+      "where": null,
+      "media": [
+        {
+          "kind": "press photo",
+          "url": "https://www.vogue.com/article/olivia-rodrigo-glastonbury-supreme-court-message",
+          "credit": "see Vogue (Getty)",
+          "rights": "copyrighted (credit+link/embed only)",
+          "link_status": "ok"
+        }
+      ],
+      "embeds": [
+        {
+          "platform": "Instagram",
+          "url": "check @oliviarodrigo and @chopovalowena posts from 25 to 26 Jun 2022",
+          "official": true,
+          "note": "Not verified",
+          "link_status": "n/a"
+        }
+      ],
+      "strength": 5,
+      "source_status": {
+        "https://www.vogue.com/article/olivia-rodrigo-glastonbury-supreme-court-message": "ok",
+        "https://www.theguardian.com/music/2022/jun/25/so-many-women-are-going-to-die-olivia-rodrigo-lambasts-roe-vs-wade-decision-at-glastonbury": "ok",
+        "https://www.rollingstone.com/music/music-news/olivia-rodrigo-fuck-you-lily-allen-five-supreme-court-justices-glastonbury-1374312/": "ok"
+      }
+    },
+    {
+      "id": "karen-o-oscars-2014",
+      "who": "Karen O",
+      "existing": "karen-o",
+      "category": "existing icon",
+      "region": "North America",
+      "country": "USA (event)",
+      "asian": true,
+      "date": "2 Mar 2014",
+      "place": "86th Academy Awards, Los Angeles: performing 'The Moon Song' from Her",
+      "outfit": "Performance: a Christian Joy dress, Anna Sheffield necklace and Christian Louboutin shoes. Red carpet: a dress by Camilla Staerk and Brandy St. John, a Neil Lane brooch, a Forevermark by Stephen Webster bracelet, a Rauwolf clutch and Sophie Webster shoes (press release via Revenant Media).",
+      "label": "Christian Joy (her longtime YYY costume designer).",
+      "why": "The punk queen of the Yeah Yeah Yeahs, a Korean-American, sang a whisper-quiet love song at the Oscars still dressed by Christian Joy, the costume designer behind her wildest stage looks. It counts as an Asian-woman moment for the roster too.",
+      "sources": [
+        "https://revenantmedia.com/2014/03/06/karen-o-performs-oscars-in-christian-joy-designer-credits-for-carpetperformance%e2%80%8f/",
+        "https://www.rollingstone.com/tv-movies/tv-movie-lists/16-best-worst-and-iciest-2014-oscars-fashion-moments-21373/"
+      ],
+      "where": null,
+      "media": [
+        {
+          "kind": "PD image? (check)",
+          "url": "https://commons.wikimedia.org/wiki/File:Karen_O_-_The_Moon_Song.jpg",
+          "credit": "Commons tags PD, dated 2014-02-11",
+          "rights": "verify; probably a single cover, not the outfit",
+          "link_status": "ok"
+        }
+      ],
+      "embeds": [],
+      "strength": 3,
+      "source_status": {
+        "https://revenantmedia.com/2014/03/06/karen-o-performs-oscars-in-christian-joy-designer-credits-for-carpetperformance%e2%80%8f/": "ok",
+        "https://www.rollingstone.com/tv-movies/tv-movie-lists/16-best-worst-and-iciest-2014-oscars-fashion-moments-21373/": "ok"
+      }
+    },
+    {
+      "id": "kim-gordon-saint-laurent-2013",
+      "who": "Kim Gordon",
+      "existing": "kim-gordon",
+      "category": "existing icon",
+      "region": "North America",
+      "country": "USA",
+      "asian": false,
+      "date": "2013",
+      "place": "Saint Laurent Music Project, shot by Hedi Slimane",
+      "outfit": "A Saint Laurent tuxedo jacket and mini skirt from her personal wardrobe (British Vogue).",
+      "label": "Saint Laurent (her own pieces), Hedi Slimane era.",
+      "why": "The godmother of 1990s indie cool was cast by Slimane as rock royalty alongside Courtney Love and Marilyn Manson, and she wore her own clothes. Le Smoking with a mini is the grown-up X-Girl.",
+      "sources": [
+        "https://www.vogue.co.uk/gallery/courtney-love-kim-gordon-marilyn-manson-for-saint-laurent-music-project",
+        "https://www.dazeddigital.com/fashion/article/15951/1/saint-laurent-music-project"
+      ],
+      "where": null,
+      "media": [
+        {
+          "kind": "campaign",
+          "url": "https://www.vogue.co.uk/gallery/courtney-love-kim-gordon-marilyn-manson-for-saint-laurent-music-project",
+          "credit": "Hedi Slimane for Saint Laurent",
+          "rights": "copyrighted (credit+link/embed only)",
+          "link_status": "ok"
+        }
+      ],
+      "embeds": [],
+      "strength": 3,
+      "source_status": {
+        "https://www.vogue.co.uk/gallery/courtney-love-kim-gordon-marilyn-manson-for-saint-laurent-music-project": "ok",
+        "https://www.dazeddigital.com/fashion/article/15951/1/saint-laurent-music-project": "ok"
+      }
+    },
+    {
+      "id": "debbie-harry-met-gala-2013",
+      "who": "Debbie Harry",
+      "existing": "blondie",
+      "category": "existing icon",
+      "region": "North America",
+      "country": "USA",
+      "asian": false,
+      "date": "6 May 2013",
+      "place": "Met Gala, 'PUNK: Chaos to Couture', New York",
+      "outfit": "An all-black Tommy Hilfiger look (CBS SF). A blog adds a pleated chiffon-and-leather dress with mesh sleeves under a studded satin tuxedo jacket, but that detail is unconfirmed.",
+      "label": "Tommy Hilfiger (CBS).",
+      "why": "The night the museum canonised punk, one of its originals showed up while half the room was 'channelling their inner Debbie Harry' (CBS). The original next to the costume party.",
+      "sources": [
+        "https://www.cbsnews.com/sanfrancisco/news/style-files-who-wore-punk-best-at-the-met-gala/"
+      ],
+      "where": null,
+      "media": [],
+      "embeds": [],
+      "strength": 2,
+      "source_status": {
+        "https://www.cbsnews.com/sanfrancisco/news/style-files-who-wore-punk-best-at-the-met-gala/": "ok"
+      }
+    }
+  ]
+}

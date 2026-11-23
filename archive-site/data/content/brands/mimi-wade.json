@@ -1,0 +1,97 @@
+{
+  "name": "Mimi Wade",
+  "sort": 160,
+  "founded": "Eponymous London label after her 2015 Central Saint Martins BA (Fashion Print). Fashion East debut, London Fashion Week, Fall 2016.",
+  "founders": "Mimi Wade (British-American, grew up in rural Gloucestershire).",
+  "women_founded": true,
+  "tier": "Halo",
+  "card_image": null,
+  "card_sub": "Old Hollywood, critiqued · CSM 2015",
+  "story": [
+    "Added 26 Oct 2026 digest. Her CSM graduate collection, Debutante Drunk (2015), was hand-painted leather dresses with matching opera gloves carrying horror-movie graphics, plus torn, hand-dyed lace-trimmed slips. Tutors told her anyone could buy those slips from Carine Gilson or Agent Provocateur. She went back and ripped the lace, mixed the colours and cut the hems until they looked like her. The first time she saw them in print was on Lana Del Rey in Marfa Journal and Pamela Anderson in Playboy, shot by Ellen von Unwerth.",
+    "Her muse is her grandmother, actress Pamela Curran, “Granny Pammy”: a Life cover debutante at 17 in 1947, divorced a year later, a teenage single mother who became an actress against her family’s wishes and appeared in The Blob and I Dream of Jeannie. Wade calls her “quite punk in her attitude, even though she doesn’t dress like a generic punk.” Her mother, Rebecca Wade, studied at Saint Martins and was an Eighties stylist.",
+    "The work is both love letter and critique. After the Weinstein revelations she said her granny’s stories from Hollywood in the 1950s to early 1970s felt more relevant than ever. One season’s muse was Daphne du Maurier, with prints about her being boxed into “gothic romance” because of her gender."
+  ],
+  "style_codes": [
+    "Hand-painted leather dresses and opera gloves",
+    "B-movie and vintage film-poster prints, retired slogans re-used",
+    "Torn, hand-dyed bias-cut slips with ripped lace",
+    "Debutante glamour played as a joke on itself"
+  ],
+  "signature_pieces": [
+    {
+      "name": "Debutante Drunk, CSM BA 2015",
+      "note": "Hand-painted horror-graphic leather dresses and gloves; distressed slips."
+    },
+    {
+      "name": "Fashion East debut, Fall 2016",
+      "note": "London Fashion Week, Feb 2016."
+    },
+    {
+      "name": "Du Maurier prints",
+      "note": "Season built around Daphne du Maurier (per PAPER)."
+    }
+  ],
+  "quotes": [
+    {
+      "text": "Although I'm continually inspired and fascinated by Old Hollywood, that's not to say that it isn't problematic. My work is both an appreciation and a critique.",
+      "said_to": "PAPER",
+      "year": null,
+      "url": "https://www.papermag.com/mimi-wade-interview-3"
+    },
+    {
+      "text": "Creating things has always been a way for me to express and make sense of how I feel as a woman in the world, while also celebrating and championing the women I admire.",
+      "said_to": "PAPER",
+      "year": null,
+      "url": "https://www.papermag.com/mimi-wade-interview-3"
+    },
+    {
+      "text": "She doesn’t really give a shit – she is quite punk in her attitude, even though she doesn’t dress like a generic punk.",
+      "said_to": "Dazed, on her grandmother",
+      "year": null,
+      "url": "https://www.dazeddigital.com/fashion/article/33446/1/the-old-hollywood-girl-power-of-designer-mimi-wade"
+    }
+  ],
+  "media": [
+    {
+      "type": "pair",
+      "search": "Mimi Wade Debutante Drunk hand-painted leather dress",
+      "source_url": "https://www.vogue.com/article/mimi-wade-fashion-east-london-fashion-week-fall-2016-debut-interview",
+      "caption": "No freely licensed image. Use Vogue / Fashion East runway for reference."
+    }
+  ],
+  "lookbook_links": [
+    {
+      "title": "Vogue — Fashion East Fall 2016 runway",
+      "url": "https://www.vogue.com/fashion-shows/fall-2016-ready-to-wear/fashion-east",
+      "note": "Her Fashion East debut season."
+    },
+    {
+      "title": "mimiwade.com",
+      "url": "https://www.mimiwade.com/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Vogue — Fashion East debut interview",
+      "url": "https://www.vogue.com/article/mimi-wade-fashion-east-london-fashion-week-fall-2016-debut-interview"
+    },
+    {
+      "title": "Tatler — how she found her personal style",
+      "url": "https://www.tatler.com/article/mimi-wade-style"
+    },
+    {
+      "title": "PAPER — celebrates and critiques Old Hollywood",
+      "url": "https://www.papermag.com/mimi-wade-interview-3"
+    },
+    {
+      "title": "Dazed — Old Hollywood girl power",
+      "url": "https://www.dazeddigital.com/fashion/article/33446/1/the-old-hollywood-girl-power-of-designer-mimi-wade"
+    },
+    {
+      "title": "J&M Davidson — Meet the Maker",
+      "url": "https://en.jandmdavidson.com/blogs/journal/meet-the-maker-mimi-wade"
+    }
+  ],
+  "slug": "mimi-wade"
+}

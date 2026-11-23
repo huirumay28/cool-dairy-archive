@@ -1,0 +1,126 @@
+{
+  "name": "X-Girl",
+  "sort": 100,
+  "founded": "1993 as a project; launched summer 1994. Original run to about 1998; later licensed in Japan.",
+  "founders": "Kim Gordon (Sonic Youth) + Daisy von Furth. Mike D / X-Large circle asked them to do a girls’ line.",
+  "women_founded": true,
+  "tier": "Traffic",
+  "card_image": "images/brands/x-girl/look-172241218465992.jpg",
+  "card_sub": "Kim Gordon + Daisy von Furth, 1993",
+  "story": [
+    "Gordon and von Furth were already shopping deadstock together — Army-Navy in Danbury, football tees on 14th Street, the perfect 70s Levi’s 517 cord. X-Large’s Eric Bonerz asked them to design a fitted girls’ answer to baggy skate menswear. Mike Mills drew the face logo from his friend Michelle Rockwood.",
+    "Two days after Kurt Cobain died, Sofia Coppola and Spike Jonze staged a guerrilla show on the street in SoHo, timed to steal traffic from Marc Jacobs; Chloë Sevigny walked; J Mascis sat in the audience. It was the anti-runway: a painted sheet, no VIP list. Gordon and von Furth left after the 90s run; Japanese corporate ownership continues. Vintage 1994–98 US pieces are the ones that matter."
+  ],
+  "style_codes": [
+    "Slim tees, mini skirts, baby tees, military and sportswear cuts, graphic prints",
+    "Attitude: downtown, anti-glamour, real girls’ clothing, skate-adjacent without being mall skate"
+  ],
+  "signature_pieces": [
+    {
+      "name": "Mike Mills face-logo tee, 1994",
+      "note": "The graphic."
+    },
+    {
+      "name": "SoHo guerrilla show, 1994",
+      "note": "Coppola / Jonze / Sevigny."
+    }
+  ],
+  "quotes": [
+    {
+      "text": "Doing a girl’s line for X-Large was Eric’s idea, and he asked Daisy and I if we’d do it. He knew we were interested in fashion. We were always going to thrift stores and looking for like the perfect ’70s 517 Levi’s cords or talking about the way T-shirts fit.",
+      "said_to": "Kim Gordon, Paper oral history",
+      "year": "2012",
+      "url": "https://web.archive.org/web/20130519122939/www.papermag.com/arts_and_style/2012/08/an-oral-history-of-x-girl.php"
+    },
+    {
+      "text": "I don’t think we thought we were doing anything important or different. I think we just thought we were making really bad clothes… It’s always a challenge to make things that you can wear every day that are cool. That was the number one driving force or idea with X-Girl.",
+      "said_to": "Kim Gordon, Paper",
+      "year": "2012",
+      "url": "https://web.archive.org/web/20130519122939/www.papermag.com/arts_and_style/2012/08/an-oral-history-of-x-girl.php"
+    },
+    {
+      "text": "It was always trying to find what was the least cool thing, and making it cool.",
+      "said_to": "Daisy von Furth, Paper",
+      "year": "2012",
+      "url": "https://web.archive.org/web/20130519122939/www.papermag.com/arts_and_style/2012/08/an-oral-history-of-x-girl.php"
+    }
+  ],
+  "media": [
+    {
+      "type": "image",
+      "src": "images/brands/x-girl/face-logo.png",
+      "caption": "Mike Mills face logo — the 1994 graphic, still the house mark on the official shop.",
+      "credit": "X-Girl / Mike Mills",
+      "source_url": "https://www.x-girl.com/pages/about"
+    },
+    {
+      "type": "image",
+      "src": "images/brands/x-girl/look-172241218465992.jpg",
+      "caption": "Official X-Girl still, current shop (licensed Japan-era production — not 1994–98 US vintage).",
+      "credit": "x-girl.com",
+      "source_url": "https://www.x-girl.com/pages/about"
+    },
+    {
+      "type": "image",
+      "src": "images/brands/x-girl/look-1723107654210.jpg",
+      "caption": "Official X-Girl still, current shop.",
+      "credit": "x-girl.com",
+      "source_url": "https://www.x-girl.com/"
+    },
+    {
+      "type": "image",
+      "src": "images/brands/x-girl/look-172241218465991.jpg",
+      "caption": "Official X-Girl still, current shop.",
+      "credit": "x-girl.com",
+      "source_url": "https://www.x-girl.com/"
+    },
+    {
+      "type": "image",
+      "src": "images/brands/x-girl/product-2-spaghetti-strap-cami-dress.jpg",
+      "caption": "Spaghetti-strap cami dress, official product still.",
+      "credit": "x-girl.com",
+      "source_url": "https://www.x-girl.com/"
+    },
+    {
+      "type": "image",
+      "src": "images/brands/x-girl/product-3-work-shorts.jpg",
+      "caption": "Work shorts, official product still.",
+      "credit": "x-girl.com",
+      "source_url": "https://www.x-girl.com/"
+    },
+    {
+      "type": "image",
+      "src": "images/brands/x-girl/product-4-kiss-girl-tank-top.jpg",
+      "caption": "Kiss Girl tank, official product still.",
+      "credit": "x-girl.com",
+      "source_url": "https://www.x-girl.com/"
+    }
+  ],
+  "lookbook_links": [
+    {
+      "title": "Vogue — X-Girl, Kim Gordon, Sevigny",
+      "url": "https://www.vogue.com/article/x-girl-kim-gordon-skater-girl-style-90s-fashion-chloe-sevigny-beastie-boys",
+      "note": "1994 story."
+    },
+    {
+      "title": "Vogue — guerrilla show / IDEA",
+      "url": "https://www.vogue.com/article/x-girl-show-angela-hill-idea-books-chloe-sevigny",
+      "note": "Angela Hill photographs."
+    }
+  ],
+  "sources": [
+    {
+      "title": "X-Girl about",
+      "url": "https://www.x-girl.com/pages/about"
+    },
+    {
+      "title": "Paper oral history (archive)",
+      "url": "https://web.archive.org/web/20130519122939/www.papermag.com/arts_and_style/2012/08/an-oral-history-of-x-girl.php"
+    },
+    {
+      "title": "Vogue — X-Girl",
+      "url": "https://www.vogue.com/article/x-girl-kim-gordon-skater-girl-style-90s-fashion-chloe-sevigny-beastie-boys"
+    }
+  ],
+  "slug": "x-girl"
+}

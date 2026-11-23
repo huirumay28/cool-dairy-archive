@@ -1,0 +1,125 @@
+{
+  "name": "Pam Hogg",
+  "sort": 80,
+  "founded": "First collection Psychedelic Jungle, 1981. Died 26 November 2025.",
+  "founders": "Pamela Elizabeth Hogg (Paisley, 1951). Glasgow School of Art + RCA.",
+  "women_founded": true,
+  "tier": "Cult",
+  "card_image": "images/brands/pam-hogg/va-warrior-queen-1988.jpg",
+  "card_sub": "Catsuits · d. 26 Nov 2025",
+  "story": [
+    "Hogg made her own clothes from age six because hand-me-downs were the budget. In late-70s London the Blitz door policy was the filter: she designed outfits wild enough to get past Steve Strange, then people asked to buy them. Psychedelic Jungle (1981) was New Wave acid, sold from a Hyper Hyper stall.",
+    "She dressed Debbie Harry, Siouxsie, Paula Yates, Ian Astbury, even Princess Diana, and refused to “sell out” to the mainstream. She also fronted bands. Catsuits earned her “Queen of Cling” — other people’s nickname (Bella Freud: “superstars from the planet Venus”). Do not put it in Hogg’s mouth."
+  ],
+  "style_codes": [
+    "Second-skin catsuits, body-hug jersey, patchwork, psychedelic print",
+    "Later activist collections (Pussy Riot / Amnesty 2014; They Burn Witches Don’t They for Westwood)",
+    "Attitude: club-kid couture, music first"
+  ],
+  "signature_pieces": [
+    {
+      "name": "Psychedelic Jungle, 1981",
+      "note": "The first collection."
+    },
+    {
+      "name": "Catsuits worn by Debbie Harry / Siouxsie",
+      "note": "1980s."
+    },
+    {
+      "name": "Warrior Queen, 1988–89",
+      "note": "V&A T.596, 597-1993."
+    }
+  ],
+  "quotes": [
+    {
+      "text": "I was customising all the hand-me-downs from a really early age but I never really focused on it. We didn’t have enough money for me to choose so it was more a survival thing, cutting things up and rearranging creating my own identity.",
+      "said_to": "AnOther",
+      "year": null,
+      "url": "https://www.anothermag.com/fashion-beauty/1899/pam-hogg"
+    },
+    {
+      "text": "That is the big one because it was there right from the start, and still is. When I started at art school I did fine art and was actually drawing on my body. I thought this is like a catsuit, so I made simple catsuits, then developed it.",
+      "said_to": "The Scotsman, on the catsuit",
+      "year": null,
+      "url": "https://www.scotsman.com/arts-and-culture/interview-pam-hogg-1426191"
+    }
+  ],
+  "media": [
+    {
+      "type": "image",
+      "src": "images/brands/pam-hogg/va-warrior-queen-1988.jpg",
+      "caption": "Warrior Queen, 1988. V&A T.596, 597-1993.",
+      "credit": "© Victoria and Albert Museum",
+      "source_url": "https://collections.vam.ac.uk/item/O136286/"
+    },
+    {
+      "type": "image",
+      "src": "images/brands/pam-hogg/va-T5-2014.jpg",
+      "caption": "Pam Hogg, V&A T.5-2014 (2012).",
+      "credit": "© Victoria and Albert Museum",
+      "source_url": "https://collections.vam.ac.uk/item/O1266747/"
+    },
+    {
+      "type": "image",
+      "src": "images/brands/pam-hogg/va-T149-1994.jpg",
+      "caption": "Pam Hogg, V&A T.149-1994, c. 1990.",
+      "credit": "© Victoria and Albert Museum",
+      "source_url": "https://collections.vam.ac.uk/item/O69898/"
+    },
+    {
+      "type": "image",
+      "src": "images/brands/pam-hogg/va-T595-1993.jpg",
+      "caption": "Pam Hogg, V&A T.595-1993, 1992.",
+      "credit": "© Victoria and Albert Museum",
+      "source_url": "https://collections.vam.ac.uk/item/O1175667/"
+    },
+    {
+      "type": "image",
+      "src": "images/brands/pam-hogg/va-T646-1993.jpg",
+      "caption": "Pam Hogg, V&A T.646-1993, 1992.",
+      "credit": "© Victoria and Albert Museum",
+      "source_url": "https://collections.vam.ac.uk/item/O1175668/"
+    },
+    {
+      "type": "image",
+      "src": "images/brands/pam-hogg/va-T594-1993.jpg",
+      "caption": "Pam Hogg, V&A T.594-1993, 1992.",
+      "credit": "© Victoria and Albert Museum",
+      "source_url": "https://collections.vam.ac.uk/item/O69924/"
+    },
+    {
+      "type": "image",
+      "src": "images/brands/pam-hogg/va-T22-2012.jpg",
+      "caption": "Pam Hogg, V&A T22:1 to 4-2012, 1983.",
+      "credit": "© Victoria and Albert Museum",
+      "source_url": "https://collections.vam.ac.uk/item/O1242756/"
+    }
+  ],
+  "lookbook_links": [
+    {
+      "title": "Pam Hogg — biography",
+      "url": "https://www.pamhogg.com/biography",
+      "note": "House page."
+    },
+    {
+      "title": "Vogue — obituary",
+      "url": "https://www.vogue.com/article/pam-hogg-obituary",
+      "note": "26 November 2025."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Pam Hogg biography",
+      "url": "https://www.pamhogg.com/biography"
+    },
+    {
+      "title": "Vogue obituary",
+      "url": "https://www.vogue.com/article/pam-hogg-obituary"
+    },
+    {
+      "title": "AnOther — Pam Hogg",
+      "url": "https://www.anothermag.com/fashion-beauty/1899/pam-hogg"
+    }
+  ],
+  "slug": "pam-hogg"
+}

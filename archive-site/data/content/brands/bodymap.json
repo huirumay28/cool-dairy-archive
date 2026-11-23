@@ -1,0 +1,97 @@
+{
+  "name": "BodyMap",
+  "sort": 90,
+  "founded": "1982, London, from a Camden Market stall. Liquidation reported 1986; B-basic lingered into the early 90s.",
+  "founders": "Stevie Stewart + David Holah (both Middlesex Polytechnic, 1979–82). Women-co-founded: yes. Not women-only — say the partnership clearly.",
+  "women_founded": "Women-co-founded: yes. Partnership with David Holah — say so.",
+  "tier": "Cult",
+  "card_image": "images/brands/bodymap/va-T313-1985.jpg",
+  "card_sub": "Stewart + Holah · 80s London club",
+  "story": [
+    "They met day one at Middlesex. Graduation collection bought by Browns. The name comes from artist Enrico Job, who photographed every part of his body and collaged a flat “body map” — they cut patterns the same way, holes in unexpected places, flesh as part of the garment.",
+    "Collection titles were feral: Barbie Takes a Trip, Querelle Meets Olive Oil, The Cat in the Hat Takes a Rumble with the Techno Fish. They rebranded lycra as high fashion, dressed Michael Clark’s dancers, and were the house look of 80s London clubland. After a New York “New London” show produced with Susanne Bartsch they were stars overnight, then the business imploded."
+  ],
+  "style_codes": [
+    "Stretched jersey, holes, layered knits, wild prints, unisex club shapes",
+    "Attitude: hedonist, comic, anti-power-dressing"
+  ],
+  "signature_pieces": [
+    {
+      "name": "The Cat in the Hat Takes a Rumble with the Techno Fish",
+      "note": "Mid-80s titled collection."
+    },
+    {
+      "name": "Michael Clark No Fire Escape in Hell costumes, 1986",
+      "note": "Dance as the other runway."
+    },
+    {
+      "name": "Harriet, Autumn/Winter 1985",
+      "note": "V&A T.313 to B-1985."
+    }
+  ],
+  "quotes": [],
+  "media": [
+    {
+      "type": "image",
+      "src": "images/brands/bodymap/va-T313-1985.jpg",
+      "caption": "BodyMap, Harriet, Autumn/Winter 1985. V&A T.313 to B-1985.",
+      "credit": "© Victoria and Albert Museum",
+      "source_url": "https://collections.vam.ac.uk/item/O83810/"
+    },
+    {
+      "type": "image",
+      "src": "images/brands/bodymap/va-T599-1996.jpg",
+      "caption": "BodyMap, 1984–85. V&A T.599:1, 2-1996.",
+      "credit": "© Victoria and Albert Museum",
+      "source_url": "https://collections.vam.ac.uk/item/O306752/"
+    },
+    {
+      "type": "image",
+      "src": "images/brands/bodymap/va-T527-1997.jpg",
+      "caption": "BLITZ, 1986. V&A T.527-1997.",
+      "credit": "© Victoria and Albert Museum",
+      "source_url": "https://collections.vam.ac.uk/item/O332470/"
+    },
+    {
+      "type": "image",
+      "src": "images/brands/bodymap/va-E454-2015.jpg",
+      "caption": "BodyMap-related work on paper, V&A E.454-2015.",
+      "credit": "© Victoria and Albert Museum",
+      "source_url": "https://collections.vam.ac.uk/item/O1261611/"
+    },
+    {
+      "type": "image",
+      "src": "images/brands/bodymap/va-E453-2015.jpg",
+      "caption": "BodyMap-related work on paper, V&A E.453-2015.",
+      "credit": "© Victoria and Albert Museum",
+      "source_url": "https://collections.vam.ac.uk/item/O1261610/"
+    }
+  ],
+  "lookbook_links": [
+    {
+      "title": "Dazed — BodyMap documentary",
+      "url": "https://www.dazeddigital.com/fashion/article/61563/1/cult-label-bodymap-outfitting-londons-80s-underground-scene-tramps-documentary",
+      "note": "80s London."
+    },
+    {
+      "title": "David Holah — BodyMap",
+      "url": "https://www.davidholah.com/bodymap",
+      "note": "Co-founder’s page."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikipedia — BodyMap",
+      "url": "https://en.wikipedia.org/wiki/BodyMap"
+    },
+    {
+      "title": "Dazed — BodyMap",
+      "url": "https://www.dazeddigital.com/fashion/article/61563/1/cult-label-bodymap-outfitting-londons-80s-underground-scene-tramps-documentary"
+    },
+    {
+      "title": "David Holah",
+      "url": "https://www.davidholah.com/bodymap"
+    }
+  ],
+  "slug": "bodymap"
+}
