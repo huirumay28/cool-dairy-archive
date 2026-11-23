@@ -1,0 +1,95 @@
+{
+  "name": "Biba",
+  "sort": 10,
+  "founded": "1963 (postal boutique); first shop 1964; closed 1976",
+  "founders": "Barbara Hulanicki with Stephen Fitz-Simon on the business side.",
+  "women_founded": true,
+  "tier": "Halo",
+  "card_image": "images/brands/biba/1960s-spotted-minidress.jpg",
+  "card_sub": "Barbara Hulanicki · 1964–76",
+  "story": [
+    "Fitz told her illustration was dying and pushed her into design. The name is her sister Biruta’s nickname. Breakthrough: a pink gingham sleeveless shift and matching headscarf, inspired by a Bardot press photo, featured by Felicity Green in the Daily Mirror in 1964. They expected about 3,000 orders and got 17,000 (V&A figure; Hulanicki has also said 70,000 and, in W, 90,000 — disputed. Use 17,000 for the fact card).",
+    "The first shop was a former chemist, interiors like a fin-de-siècle dressing-up box — that last phrase is a journalist’s, not hers. Big Biba filled seven Art Deco floors. In 1971 the Angry Brigade bombed the Kensington High Street shop — they thought fashion enslaved women; Hulanicki thought she was building a haven for rebels on a budget."
+  ],
+  "style_codes": [
+    "Slim 60s shifts, then 70s Deco/Edwardiana",
+    "Muted aubergine-plum-black, logo knits, cheap-glamour",
+    "Attitude: decadent but democratic"
+  ],
+  "signature_pieces": [
+    {
+      "name": "Pink gingham dress + headscarf, 1964",
+      "note": "25 shillings. V&A figure: 17,000 orders."
+    },
+    {
+      "name": "Big Biba, 1973–75",
+      "note": "The building is the piece."
+    }
+  ],
+  "quotes": [
+    {
+      "text": "You don’t realize how bad things were in England in that period. You had this incredible generation that had money to spend and nowhere to spend it. We wanted something to wear out dancing, but there was nothing but frumpy old-lady clothes. And fashion was just for ladies who lunched.",
+      "said_to": "W Magazine, Originals issue",
+      "year": "2021",
+      "url": "https://www.wmagazine.com/culture/barbara-hulanicki-biba-interview"
+    },
+    {
+      "text": "Biba attracted troublemakers — people who liked to make trouble.",
+      "said_to": "BBC Culture",
+      "year": "2024",
+      "url": "https://www.bbc.com/culture/article/20240917-barbara-hulanicki-on-breaking-rules-and-revolutionising-fashion"
+    }
+  ],
+  "media": [
+    {
+      "type": "image",
+      "src": "images/brands/biba/1960s-spotted-minidress.jpg",
+      "caption": "1960s brown and white spotted minidress by Biba.",
+      "credit": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:1960s_brown_and_white_spotted_minidress_by_Biba.jpg"
+    },
+    {
+      "type": "image",
+      "src": "images/brands/biba/va-biba-T159-1986.jpg",
+      "caption": "Biba mini-dress, V&A T.159-1986.",
+      "credit": "© Victoria and Albert Museum",
+      "source_url": "https://collections.vam.ac.uk/item/O133328/"
+    },
+    {
+      "type": "image",
+      "src": "images/brands/biba/va-biba-T12-1982.jpg",
+      "caption": "Biba mini-dress, V&A T.12-1982.",
+      "credit": "© Victoria and Albert Museum",
+      "source_url": "https://collections.vam.ac.uk/item/O133324/"
+    },
+    {
+      "type": "image",
+      "src": "images/brands/biba/va-biba-T39-1997.jpg",
+      "caption": "Biba dress, V&A T.39-1997.",
+      "credit": "© Victoria and Albert Museum",
+      "source_url": "https://collections.vam.ac.uk/item/O120656/"
+    }
+  ],
+  "lookbook_links": [
+    {
+      "title": "V&A — Biba",
+      "url": "https://www.vam.ac.uk/articles/biba",
+      "note": "Museum essay and objects."
+    }
+  ],
+  "sources": [
+    {
+      "title": "V&A — Biba",
+      "url": "https://www.vam.ac.uk/articles/biba"
+    },
+    {
+      "title": "BBC Culture — Hulanicki, 2024",
+      "url": "https://www.bbc.com/culture/article/20240917-barbara-hulanicki-on-breaking-rules-and-revolutionising-fashion"
+    },
+    {
+      "title": "W Magazine — Hulanicki",
+      "url": "https://www.wmagazine.com/culture/barbara-hulanicki-biba-interview"
+    }
+  ],
+  "slug": "biba"
+}

@@ -1,0 +1,88 @@
+{
+  "name": "Susan Cianciolo / RUN",
+  "sort": 110,
+  "founded": "RUN, 1995, New York. Eleven numbered collections to 2001, then she walked away.",
+  "founders": "Susan Cianciolo (Rhode Island, Parsons).",
+  "women_founded": true,
+  "tier": "Cult",
+  "card_image": "images/brands/susan-cianciolo/vogue-run-oral-history.jpg",
+  "card_sub": "X-Girl staff · 1995–2001",
+  "story": [
+    "She illustrated for Geoffrey Beene, did Club USA flyers, lasted briefly at Badgley Mischka, then took a part-time production job at Kim Gordon’s X-Girl while launching RUN. The name: she was a teenage runner and wanted to run from everything that exists. Shows were sewing circles and gallery installations — first one at Andrea Rosen in 1995, not a runway. Chloë Sevigny walked.",
+    "For RUN 11 she rented a Chelsea storefront, street-cast musicians and ex-models, printed fake Run money with Chris Johanson, and ran a one-day guerrilla shop in New York and one at the Purple Institute in Paris. In 2001 the New York Times wrote Designer Packs It In; she chose art over the fashion calendar. Eckhaus Latta later put her on their runway as living lineage."
+  ],
+  "style_codes": [
+    "Handmade, coarse stitch, vintage-fabric collages, button-on appliqués",
+    "DIY kits (from RUN 6)",
+    "Attitude: anti-system, tender not slick"
+  ],
+  "signature_pieces": [
+    {
+      "name": "RUN 1, Andrea Rosen Gallery, 1995",
+      "note": "Not a runway."
+    },
+    {
+      "name": "DIY kits, RUN 6",
+      "note": "The kit as the garment."
+    },
+    {
+      "name": "RUN 11 guerrilla store, Chelsea + Paris Purple Institute, c. 2000–01",
+      "note": "One-day shops."
+    }
+  ],
+  "quotes": [
+    {
+      "text": "I was in my early 20s and I felt so fearless and invincible. I wanted to run from everything that exists, [to be] subversive, to be against the system.",
+      "said_to": "Vogue oral history of RUN",
+      "year": "2017",
+      "url": "https://www.vogue.com/article/an-oral-history-of-susan-cianciolos-run-collections-and-of-a-long-lost-1990s-new-york"
+    },
+    {
+      "text": "Run equals ‘floating,’ so that you are not a part of whatever else exists and you’re running so far ahead—really running away from anything and everything. You are doing your own work that comes from you.",
+      "said_to": "Vice",
+      "year": null,
+      "url": "https://www.vice.com/en/article/xdv8zq/susan-cianciolo-v15n4"
+    }
+  ],
+  "media": [
+    {
+      "type": "image",
+      "src": "images/brands/susan-cianciolo/vogue-run-oral-history.jpg",
+      "caption": "Press still circulated with Vogue’s 2017 oral history of RUN.",
+      "credit": "Vogue / RUN archive still",
+      "source_url": "https://www.vogue.com/article/an-oral-history-of-susan-cianciolos-run-collections-and-of-a-long-lost-1990s-new-york"
+    }
+  ],
+  "lookbook_links": [
+    {
+      "title": "Vogue — oral history of RUN",
+      "url": "https://www.vogue.com/article/an-oral-history-of-susan-cianciolos-run-collections-and-of-a-long-lost-1990s-new-york",
+      "note": "The picture file. No freely licensed garment still cleared for this disk."
+    },
+    {
+      "title": "NYT — Designer Packs It In, 2001",
+      "url": "https://www.nytimes.com/2001/02/25/style/dropping-out-with-susan-cianciolo-confronting-reality-designer-packs-it-in.html",
+      "note": "The walk-away."
+    },
+    {
+      "title": "W — Eckhaus Latta lineage",
+      "url": "https://www.wmagazine.com/story/susan-cianciolo-eckhaus-latta-90s-artists-designers",
+      "note": "Later runway as living archive."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Vogue oral history of RUN",
+      "url": "https://www.vogue.com/article/an-oral-history-of-susan-cianciolos-run-collections-and-of-a-long-lost-1990s-new-york"
+    },
+    {
+      "title": "NYT, 25 Feb 2001",
+      "url": "https://www.nytimes.com/2001/02/25/style/dropping-out-with-susan-cianciolo-confronting-reality-designer-packs-it-in.html"
+    },
+    {
+      "title": "Vice — Susan Cianciolo",
+      "url": "https://www.vice.com/en/article/xdv8zq/susan-cianciolo-v15n4"
+    }
+  ],
+  "slug": "susan-cianciolo"
+}

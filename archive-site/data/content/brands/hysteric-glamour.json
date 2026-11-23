@@ -1,0 +1,112 @@
+{
+  "name": "Hysteric Glamour",
+  "sort": 120,
+  "founded": "1984, Tokyo, inside Ozone Community. Kitamura was 21.",
+  "founders": "Nobuhiko Kitamura. Not women-founded. Not women-run. Keep because the story is Cult-fit and the icons are Cool Dairy’s.",
+  "women_founded": false,
+  "tier": "Cult",
+  "card_image": "images/brands/hysteric-glamour/top-mv.jpg",
+  "card_sub": "Tokyo 1984 · not women-founded",
+  "story": [
+    "Kitamura was a Shinjuku record kid (Sex Pistols, Blondie, new wave) who saw a Tokyo Mode Gakuen ad and enrolled. He rejected the CDG/Yohji minimalism conquering the West and built a Harajuku line first for teen girls, then unisex: American 60s–70s pop, porn, comics, cars, rock tees. Olive Magazine made the graphics famous. Before Bape or Undercover, this was the rebellious Harajuku tee.",
+    "He named the mood after Patti Smith’s stage energy and Debbie Harry’s glamour; he made a Sonic Youth tee for Kim Gordon; Kurt Cobain wore Hysteric; Gwen name-checked the brand in Harajuku Girls. Do not invent a woman founder."
+  ],
+  "style_codes": [
+    "Graphic tees, frilly tanks, mini dresses, leather, slogans, vintage-Americana-via-Tokyo",
+    "Attitude: hysteric + glamour, unlady-like girl clothes"
+  ],
+  "signature_pieces": [
+    {
+      "name": "Early graphic tees post-Olive feature, mid-1980s",
+      "note": "The rebellious Harajuku tee."
+    },
+    {
+      "name": "Sonic Youth / Kim Gordon-linked tee",
+      "note": "Kitamura designed for her circle; Cobain wore Hysteric."
+    }
+  ],
+  "quotes": [],
+  "media": [
+    {
+      "type": "image",
+      "src": "images/brands/hysteric-glamour/harajuku-sign.jpg",
+      "caption": "Hysteric Glamour sign, Harajuku, Tokyo.",
+      "credit": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Hysteric_Glamour_sign,_Harajuku,_Tokyo,_Japan.jpg"
+    },
+    {
+      "type": "image",
+      "src": "images/brands/hysteric-glamour/top-mv.jpg",
+      "caption": "Official Hysteric Glamour still, hystericglamour.jp — current house imagery, not a dated vintage season.",
+      "credit": "hystericglamour.jp",
+      "source_url": "https://www.hystericglamour.jp/brand/"
+    },
+    {
+      "type": "image",
+      "src": "images/brands/hysteric-glamour/look-398b14.jpg",
+      "caption": "Official Hysteric Glamour still, hystericglamour.jp — current house imagery, not a dated vintage season.",
+      "credit": "hystericglamour.jp",
+      "source_url": "https://www.hystericglamour.jp/brand/"
+    },
+    {
+      "type": "image",
+      "src": "images/brands/hysteric-glamour/look-b7b486-4.jpg",
+      "caption": "Official Hysteric Glamour still, hystericglamour.jp — current house imagery, not a dated vintage season.",
+      "credit": "hystericglamour.jp",
+      "source_url": "https://www.hystericglamour.jp/brand/"
+    },
+    {
+      "type": "image",
+      "src": "images/brands/hysteric-glamour/look-b7b486-3.jpg",
+      "caption": "Official Hysteric Glamour still, hystericglamour.jp — current house imagery, not a dated vintage season.",
+      "credit": "hystericglamour.jp",
+      "source_url": "https://www.hystericglamour.jp/brand/"
+    },
+    {
+      "type": "image",
+      "src": "images/brands/hysteric-glamour/baby-g.jpg",
+      "caption": "Official Hysteric Glamour still, hystericglamour.jp — current house imagery, not a dated vintage season.",
+      "credit": "hystericglamour.jp",
+      "source_url": "https://www.hystericglamour.jp/brand/"
+    },
+    {
+      "type": "image",
+      "src": "images/brands/hysteric-glamour/vol22.jpg",
+      "caption": "Official Hysteric Glamour still, hystericglamour.jp — current house imagery, not a dated vintage season.",
+      "credit": "hystericglamour.jp",
+      "source_url": "https://www.hystericglamour.jp/brand/"
+    }
+  ],
+  "lookbook_links": [
+    {
+      "title": "Hysteric Glamour — brand",
+      "url": "https://www.hystericglamour.jp/brand/",
+      "note": "Official."
+    },
+    {
+      "title": "Grailed — master class",
+      "url": "https://www.grailed.com/drycleanonly/hysteric-glamour-master-class",
+      "note": "Graphic history."
+    },
+    {
+      "title": "nss — Supreme collab context",
+      "url": "https://www.nssmag.com/en/fashion/25611/hysteric-glamour-supreme-collabo",
+      "note": "Later noise."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Official brand page",
+      "url": "https://www.hystericglamour.jp/brand/"
+    },
+    {
+      "title": "Wikipedia — Hysteric Glamour",
+      "url": "https://en.wikipedia.org/wiki/Hysteric_Glamour"
+    },
+    {
+      "title": "Grailed master class",
+      "url": "https://www.grailed.com/drycleanonly/hysteric-glamour-master-class"
+    }
+  ],
+  "slug": "hysteric-glamour"
+}

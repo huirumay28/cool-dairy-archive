@@ -1,0 +1,135 @@
+{
+  "name": "Comme des Garçons",
+  "sort": 20,
+  "founded": "Label 1969, Tokyo; company 1973; Paris debut 1981",
+  "founders": "Rei Kawakubo. CEO Adrian Joffe is her husband; she remains the designer.",
+  "women_founded": true,
+  "tier": "Halo",
+  "card_image": "images/brands/comme-des-garcons/comme-des-garcons.jpg",
+  "card_sub": "Rei Kawakubo · Paris 1981",
+  "story": [
+    "Her mother left her father when he would not let her work. Kawakubo left home after college, styled shoots, then designed clothes because Japanese shops did not have what she needed. The name is from Françoise Hardy’s song Tous les garçons et les filles — clothes like the boys, for women who do not dress to seduce.",
+    "Paris 1981–82 was a scandal: black, holes, unfinished seams. WWD called the 1982 Destroy collection the Hiroshima bag lady look — a critic insult, not her slogan. She has said she felt an affinity with the punk spirit: punk is against flattery, and that is what she likes about it. The 2017 Met show Art of the In-Between put her in the same museum conversation as Westwood."
+  ],
+  "style_codes": [
+    "Black, asymmetry, holes, volumes that ignore the waist",
+    "Later sculptural white and bows",
+    "Attitude: anti-fashion, start from zero — the last is a common paraphrase; the sourced line is punk against flattery"
+  ],
+  "signature_pieces": [
+    {
+      "name": "Paris debut, 1981",
+      "note": "The scandal that named the house in the West."
+    },
+    {
+      "name": "Destroy, 1982",
+      "note": "Holes, black, unfinished seams."
+    },
+    {
+      "name": "Met Art of the In-Between, 2017",
+      "note": "The institutional piece."
+    }
+  ],
+  "quotes": [
+    {
+      "text": "I’ve always felt an affinity with the punk spirit. I like that word. Every collection is that. Punk is against flattery, and that’s what I like about it.",
+      "said_to": "System magazine, issue 2 (Adrian Joffe translating)",
+      "year": null,
+      "url": "https://system-magazine.com/issues/issue-2/rei-kawakubo"
+    }
+  ],
+  "media": [
+    {
+      "type": "image",
+      "src": "images/brands/comme-des-garcons/comme-des-garcons.jpg",
+      "caption": "Sculptural white bow dress, Met Art of the In-Between install.",
+      "credit": "Wikimedia Commons / The Met",
+      "source_url": "https://www.metmuseum.org/exhibitions/listings/2017/rei-kawakubo"
+    },
+    {
+      "type": "image",
+      "src": "images/brands/comme-des-garcons/1983-84-jumper-dress.jpg",
+      "caption": "Jumper dress by Rei Kawakubo for Comme des Garçons, 1983–84.",
+      "credit": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jumper_dress_by_Rei_Kawakubo_for_Comme_des_Garcons,_1983-84.jpg"
+    },
+    {
+      "type": "image",
+      "src": "images/brands/comme-des-garcons/1981-catalogue-67.jpg",
+      "caption": "COMME des GARÇONS catalogue no.67, 5 March 1981.",
+      "credit": "Wikimedia Commons",
+      "source_url": null
+    },
+    {
+      "type": "image",
+      "src": "images/brands/comme-des-garcons/2005-aw-printed-wedding-dress.jpg",
+      "caption": "Printed wedding dress, Rei Kawakubo for Comme des Garçons, Autumn–Winter 2005.",
+      "credit": "Wikimedia Commons",
+      "source_url": null
+    },
+    {
+      "type": "image",
+      "src": "images/brands/comme-des-garcons/fw2016-look-14.jpg",
+      "caption": "Rei Kawakubo for CDG, Fall/Winter 2016, look 14.",
+      "credit": "Wikimedia Commons",
+      "source_url": null
+    },
+    {
+      "type": "image",
+      "src": "images/brands/comme-des-garcons/fw2017-look-5.jpg",
+      "caption": "Rei Kawakubo for CDG, Fall/Winter 2017, look 5.",
+      "credit": "Wikimedia Commons",
+      "source_url": null
+    },
+    {
+      "type": "image",
+      "src": "images/brands/comme-des-garcons/red-white-blue-dress.jpg",
+      "caption": "Comme des Garçons dress in red, white and blue.",
+      "credit": "Wikimedia Commons",
+      "source_url": null
+    },
+    {
+      "type": "image",
+      "src": "images/brands/comme-des-garcons/2004-ss-tailcoat.jpg",
+      "caption": "Tailcoat and waistcoat, cotton/polyester/wool, Spring–Summer 2004.",
+      "credit": "Wikimedia Commons",
+      "source_url": null
+    },
+    {
+      "type": "image",
+      "src": "images/brands/comme-des-garcons/2008-hairstyles-shirt.jpg",
+      "caption": "Shirt by Rei Kawakubo for Comme des Garçons, hairstyles print, 2008.",
+      "credit": "Wikimedia Commons",
+      "source_url": null
+    },
+    {
+      "type": "youtube",
+      "src": "60yGE64Xzs4",
+      "caption": "Rei Kawakubo / Comme des Garçons: Art of the In-Between — gallery views. Official Metropolitan Museum of Art upload.",
+      "credit": "The Met",
+      "source_url": "https://www.youtube.com/watch?v=60yGE64Xzs4"
+    }
+  ],
+  "lookbook_links": [
+    {
+      "title": "The Met — Art of the In-Between",
+      "url": "https://www.metmuseum.org/exhibitions/listings/2017/rei-kawakubo",
+      "note": "Exhibition."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikipedia — Comme des Garçons",
+      "url": "https://en.wikipedia.org/wiki/Comme_des_Gar%C3%A7ons"
+    },
+    {
+      "title": "System — Rei Kawakubo",
+      "url": "https://system-magazine.com/issues/issue-2/rei-kawakubo"
+    },
+    {
+      "title": "The Met — Art of the In-Between",
+      "url": "https://www.metmuseum.org/exhibitions/listings/2017/rei-kawakubo"
+    }
+  ],
+  "slug": "comme-des-garcons"
+}

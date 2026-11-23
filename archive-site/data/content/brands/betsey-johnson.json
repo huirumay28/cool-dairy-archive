@@ -1,0 +1,83 @@
+{
+  "name": "Betsey Johnson",
+  "sort": 60,
+  "founded": "Paraphernalia in-house designer 1965; Betsey Bunky Nini 1969; Betsey Johnson Inc. 1978 with Chantal Bacon.",
+  "founders": "Betsey Johnson. Steve Madden later took the name after 2010 debt; vintage that matters is hers.",
+  "women_founded": true,
+  "tier": "Traffic / Core",
+  "card_image": "images/brands/betsey-johnson/betsey-johnson.jpg",
+  "card_sub": "Youthquake that never grew up",
+  "story": [
+    "Johnson won the Mademoiselle guest-editor contest and walked into Paul Young’s Paraphernalia, the shop that tried to import Swinging London to Manhattan. Edie Sedgwick was her house model. In 1969 Johnson, Bunky Washburn and Nini Latorre opened Betsey Bunky Nini on East 53rd.",
+    "The 1978 own-label years, then the 80s “Punk” labels, are the Cool Dairy years: stretch, acid color, heart logos, a cartwheel at the end of every show."
+  ],
+  "style_codes": [
+    "Second-skin knits, corseted minis, rose prints, stretch lace, heart hardware",
+    "Attitude: Youthquake that never grew up, punk-adjacent but sweeter than Westwood"
+  ],
+  "signature_pieces": [
+    {
+      "name": "Paraphernalia / Edie Sedgwick dresses, mid-1960s",
+      "note": "Including Ciao! Manhattan."
+    },
+    {
+      "name": "Betsey Bunky Nini, 1969",
+      "note": "High-heeled sneaker."
+    },
+    {
+      "name": "1980s “Punk” labeled pieces",
+      "note": "Vintage Fashion Guild."
+    }
+  ],
+  "quotes": [],
+  "media": [
+    {
+      "type": "image",
+      "src": "images/brands/betsey-johnson/betsey-johnson.jpg",
+      "caption": "Spring 2012 runway — lace corset mini, heart-bulb set. Photo Diana Beato.",
+      "credit": "Wikimedia Commons",
+      "source_url": null
+    },
+    {
+      "type": "image",
+      "src": "images/brands/betsey-johnson/spring-2012-6151633820.jpg",
+      "caption": "Betsey Johnson Spring 2012 runway.",
+      "credit": "Wikimedia Commons",
+      "source_url": null
+    },
+    {
+      "type": "image",
+      "src": "images/brands/betsey-johnson/2007-red-dress-collection.jpg",
+      "caption": "Betsey Johnson, Red Dress Collection 2007 — the designer in her own language.",
+      "credit": "Wikimedia Commons",
+      "source_url": null
+    }
+  ],
+  "lookbook_links": [
+    {
+      "title": "Betsey’s bio",
+      "url": "https://betseyjohnson.com/pages/betseys-bio",
+      "note": "House page."
+    },
+    {
+      "title": "Vogue — CFDA",
+      "url": "https://www.vogue.com/article/betsey-johnson-cfda-awards",
+      "note": "Career note."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Vogue — CFDA",
+      "url": "https://www.vogue.com/article/betsey-johnson-cfda-awards"
+    },
+    {
+      "title": "Betsey’s bio",
+      "url": "https://betseyjohnson.com/pages/betseys-bio"
+    },
+    {
+      "title": "Vintage Fashion Guild — label",
+      "url": "https://vintagefashionguild.org/resources/item/label/johnson-betsey/"
+    }
+  ],
+  "slug": "betsey-johnson"
+}

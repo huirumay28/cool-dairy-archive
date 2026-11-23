@@ -1,0 +1,103 @@
+{
+  "name": "Fiona Apple",
+  "sort": 30,
+  "born": "1977",
+  "years_active": "1996–",
+  "who_line": "She told a room full of video outfits not to copy the outfits.",
+  "card_image": "images/icons/fiona-apple/2012-live.jpg",
+  "card_sub": "1997 VMA crochet — not Prada",
+  "who": [
+    "Fiona Apple arrived as a teenager with Tidal (1996) and a voice that did not ask permission. The 1997 MTV Video Music Awards speech is the clothes quote: she told everybody watching not to model a life on what the industry thought was cool.",
+    "Texture over logo: filet crochet, silk, cotton jersey, a waist chain. Nineties undone — messy hair, smudged eye, no house. The crochet dress is not a designer moment. It is what a 19-year-old wore to say the world is bullshit."
+  ],
+  "work": [
+    "Sleep to Dream won Best New Artist in a Video. Press at the time called the speech ungrateful. The speech is on video, on MTV’s own channel. She cited Maya Angelou: we as human beings at our best can only create opportunities.",
+    "Later records (When the Pawn…, Extraordinary Machine, The Idler Wheel…, Fetch the Bolt Cutters) kept the same refusal to be a waif in a lily field. Photographer Joe McNally remembered her asking to chuck that scene and be a warrior woman in a suit of armour — his recollection, not her byline."
+  ],
+  "quotes": [
+    {
+      "text": "So what I want to say is everybody out there that’s watching, everybody that’s watching this world. This world is bullshit! And you shouldn’t model your life—wait a second—you shouldn’t model your life about what you think that we think is cool, and what we’re wearing and what we’re saying and everything. Go with yourself. Go with yourself.",
+      "said_to": "MTV Video Music Awards, Best New Artist in a Video, Radio City Music Hall. Presented by Elton John. Unscripted.",
+      "year": "1997",
+      "url": "https://www.youtube.com/watch?v=42gNkySFycA"
+    },
+    {
+      "text": "Fiona had always been shot as a waif — tendrils of hair blowing, dressed in lingerie, out in some sort of lily field. She told me she wanted to chuck that scene and be a warrior woman in a suit of armour.",
+      "said_to": "Joe McNally quoting her, The Moment It Clicks; circulated by i-D. Not her byline.",
+      "year": null,
+      "url": "https://i-d.co/article/fiona-apple-best-outfits-fashion-style/"
+    }
+  ],
+  "why_the_look": "She would not model a life on what the industry thought was cool. The crochet dress is not a designer moment. It is what a 19-year-old wore to say the world is bullshit.",
+  "beliefs": "The VMA speech cites Maya Angelou. PETA work in the late 90s is photographed; do not inflate it into a politics section.",
+  "moments": [
+    {
+      "title": "MTV VMAs — filet crochet",
+      "year": "4 September 1997",
+      "garments": "White filet crochet dress, floral motif, scalloped uneven hem, over what reads as a white bra + slip skirt (Roe Magazine).",
+      "designer_season": "none / unsourced. Not Prada. Do not say Prada.",
+      "where_it_lives": "Broadcast tape. Official MTV YouTube upload of the speech.",
+      "why_iconic": "The speech is the clothes quote. She told a room full of video outfits not to copy the outfits.",
+      "sources": [
+        "https://i-d.co/article/fiona-apple-best-outfits-fashion-style/",
+        "https://www.roemagazine.com/article/everyone-is-dressing-the-same-fiona-apple-never-did",
+        "https://www.youtube.com/watch?v=42gNkySFycA"
+      ],
+      "media": [
+        {
+          "type": "youtube",
+          "src": "42gNkySFycA",
+          "caption": "Fiona Apple’s 1997 VMA acceptance speech — official MTV upload",
+          "credit": "MTV",
+          "source_url": "https://www.youtube.com/watch?v=42gNkySFycA"
+        },
+        {
+          "type": "pair",
+          "search": "Fiona Apple 1997 VMAs crochet dress",
+          "source_url": "https://i-d.co/article/fiona-apple-best-outfits-fashion-style/",
+          "caption": "Worn-on-body stills are Getty / i-D / Nylon. No designer. Not Prada."
+        }
+      ]
+    },
+    {
+      "title": "2012 live — jersey maxi",
+      "year": "2012",
+      "garments": "Dark ribbed cami + long navy/indigo jersey maxi, purple wash, working-stage mess.",
+      "designer_season": "none / unsourced",
+      "where_it_lives": "Local live still.",
+      "why_iconic": "The recovery wardrobe after the crochet myth: texture, no house, the work still showing.",
+      "sources": [
+        "https://i-d.co/article/fiona-apple-best-outfits-fashion-style/",
+        "https://www.nylon.com/fashion/fiona-apple-best-fashion-moments-of-the-90s-00s"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "src": "images/icons/fiona-apple/2012-live.jpg",
+          "caption": "Fiona Apple, 2012 live. Dark cami, jersey maxi. Not the 1997 VMA crochet.",
+          "credit": "Research pack",
+          "source_url": null
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "MTV — 1997 VMA speech (official)",
+      "url": "https://www.youtube.com/watch?v=42gNkySFycA"
+    },
+    {
+      "title": "Jezebel — Twenty Years Later, the World Is Still Bullshit",
+      "url": "https://www.jezebel.com/twenty-years-later-the-world-is-still-bullshit-1798630005"
+    },
+    {
+      "title": "i-D — Fiona Apple best outfits",
+      "url": "https://i-d.co/article/fiona-apple-best-outfits-fashion-style/"
+    },
+    {
+      "title": "Roe Magazine — Everyone is dressing the same",
+      "url": "https://www.roemagazine.com/article/everyone-is-dressing-the-same-fiona-apple-never-did"
+    }
+  ],
+  "slug": "fiona-apple"
+}
