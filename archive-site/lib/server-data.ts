@@ -1,7 +1,7 @@
 import 'server-only';
 import fs from 'fs';
 import path from 'path';
-import type { IconData } from './data';
+import { deepClean, type IconData } from './data';
 
 // Get existing icons - read from filesystem (server-side only)
 export function getExistingIcons(): IconData[] {
@@ -17,7 +17,7 @@ export function getExistingIcons(): IconData[] {
   for (const file of files) {
     const content = fs.readFileSync(path.join(iconsDir, file), 'utf-8');
     const data = JSON.parse(content);
-    icons.push(data);
+    icons.push(deepClean(data));
   }
   
   return icons.sort((a, b) => (a.sort || 9999) - (b.sort || 9999));
@@ -33,5 +33,5 @@ export function getIconBySlug(slug: string): IconData | null {
   }
   
   const content = fs.readFileSync(filePath, 'utf-8');
-  return JSON.parse(content);
+  return deepClean(JSON.parse(content));
 }

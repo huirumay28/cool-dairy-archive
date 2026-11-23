@@ -147,25 +147,25 @@ export default async function IconPage({ params }: { params: Promise<{ slug: str
                   )}
                   
                   {moment.media && moment.media.length > 0 && (
-                    <div className="mt-4 space-y-4">
+                    <div className="mt-6 grid grid-cols-1 sm:grid-cols-2 gap-6 items-start">
                       {moment.media.map((media, j) => {
                         if (media.type === 'pair') {
+                          if (!media.source_url) return null;
+                          let host = media.source_url;
+                          try { host = new URL(media.source_url).hostname.replace('www.', ''); } catch {}
                           return (
-                            <div key={j} className="border border-gray-300 p-3">
-                              <p className="font-mono text-xs mb-1">Photo Reference</p>
-                              <p className="text-xs text-gray-600">{cleanText(media.caption || '')}</p>
-                              {media.source_url && (
-                                <a href={media.source_url} target="_blank" rel="noopener noreferrer" className="text-xs border-b border-gray-400 hover:border-black">
-                                  Source
-                                </a>
-                              )}
-                            </div>
+                            <p key={j} className="font-mono text-xs text-gray-600 sm:col-span-2">
+                              Photo (rights-held):{' '}
+                              <a href={media.source_url} target="_blank" rel="noopener noreferrer" className="border-b border-gray-400 hover:border-black">
+                                view at {host} ↗
+                              </a>
+                            </p>
                           );
                         }
                         
                         if (media.type === 'youtube' && media.src) {
                           return (
-                            <div key={j} className="aspect-video">
+                            <div key={j} className="aspect-video sm:col-span-2">
                               <iframe
                                 width="100%"
                                 height="100%"
@@ -180,13 +180,26 @@ export default async function IconPage({ params }: { params: Promise<{ slug: str
                         }
                         
                         if (media.type === 'image' && media.src) {
+                          const src = media.src.startsWith('http') ? media.src : '/' + media.src.replace(/^\/+/, '');
                           return (
-                            <div key={j}>
-                              <img src={media.src} alt={media.caption || ''} className="w-full" />
-                              {media.caption && (
-                                <p className="font-mono text-xs text-gray-600 mt-2">{cleanText(media.caption)}</p>
-                              )}
-                            </div>
+                            <figure key={j}>
+                              {/* eslint-disable-next-line @next/next/no-img-element */}
+                              <img src={src} alt={media.caption || icon.name} loading="lazy" className="w-full max-h-[720px] object-contain bg-[#efebe3]" />
+                              <figcaption className="font-mono text-xs text-gray-600 mt-2 space-y-1">
+                                {media.caption && <p>{media.caption}</p>}
+                                {media.credit && (
+                                  <p>
+                                    {media.credit}
+                                    {media.source_url && (
+                                      <>
+                                        {' · '}
+                                        <a href={media.source_url} target="_blank" rel="noopener noreferrer" className="border-b border-gray-400 hover:border-black">source</a>
+                                      </>
+                                    )}
+                                  </p>
+                                )}
+                              </figcaption>
+                            </figure>
                           );
                         }
                         

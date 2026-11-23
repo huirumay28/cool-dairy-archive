@@ -1,4 +1,5 @@
 import momentsData from '../data/moments.json';
+import commonsCredits from '../data/commons-credits.json';
 
 export interface Moment {
   id: string;
@@ -92,7 +93,7 @@ export function getAllMoments(): Moment[] {
   const newMoments = data.new_moments || [];
   const existingMoments = data.existing_icon_moments || [];
   
-  return [...newMoments, ...existingMoments];
+  return deepClean([...newMoments, ...existingMoments]) as Moment[];
 }
 
 // Get moments by category
@@ -147,24 +148,71 @@ export function getYouTubeId(url: string): string | null {
 
 // Icon functions are now in server-data.ts
 
-// Clean text: remove Chinese/Korean, translate common terms
+// Clean text: remove Chinese/Japanese/Korean runs (the site is English-only)
+// and tidy the punctuation they leave behind, so no sentence ends up broken.
+const CJK = '\u3000-\u303f\u3040-\u30ff\u3400-\u4dbf\u4e00-\u9fff\uac00-\ud7af\u1100-\u11ff\u3130-\u318f\uff00-\uffef';
+const RUN = `[${CJK}][${CJK}0-9\\s]*`;
+
 export function cleanText(text: string): string {
+  if (!text || typeof text !== 'string') return text;
+  if (!new RegExp(`[${CJK}]`).test(text)) return stripNotes(text);
+  let t = text;
+  // "Title / 中文" or "中文 / Title": drop the run together with its slash
+  t = t.replace(new RegExp(`\\s*/\\s*${RUN}`, 'g'), ' ');
+  t = t.replace(new RegExp(`${RUN}\\s*/\\s*`, 'g'), '');
+  // a run glued to Latin letters (e.g. a Korean channel name + "TV")
+  t = t.replace(new RegExp(`${RUN}[A-Za-z]*`, 'g'), ' ');
+  // tidy leftovers: empty brackets, dangling separators inside brackets
+  t = t.replace(/\(\s*\)/g, '');
+  t = t.replace(/\(\s*[,/;:]\s*/g, '(');
+  t = t.replace(/\s*[,/;:]\s*\)/g, ')');
+  t = t.replace(/\(\s+/g, '(').replace(/\s+\)/g, ')');
+  t = t.replace(/\s+([,.;:])/g, '$1');
+  t = t.replace(/\s+\b(in|of|from)\s*:/g, ':');
+  t = t.replace(/\s+/g, ' ').trim();
+  const whole = t.match(/^\((.*)\)$/);
+  if (whole) t = whole[1];
+  return stripNotes(t);
+}
+
+// Remove internal editorial notes ("do not invent…", "FLAG: …") from public text.
+export function stripNotes(text: string): string {
   if (!text) return text;
-  
-  // Remove Chinese titles in parentheses/brackets
-  text = text.replace(/\s*[（(][\u4e00-\u9fff]+[）)]/g, '');
-  text = text.replace(/[\u4e00-\u9fff]+\s*/g, '');
-  
-  // Remove Korean
-  text = text.replace(/[\uac00-\ud7af\u1100-\u11ff\u3130-\u318f\ua960-\ua97f\ud7b0-\ud7ff]+/g, '');
-  
-  // Remove Japanese kana if alone
-  text = text.replace(/[\u3040-\u309f\u30a0-\u30ff]+/g, '');
-  
-  // Clean up extra whitespace
-  text = text.replace(/\s+/g, ' ').trim();
-  
-  return text;
+  let t = text;
+  t = t.replace(/\s*FLAG:[^.]*(\([^)]*\))?[^.]*\.(\s*(It may not fit the brand|Present with care)\.)?/g, '');
+  t = t.replace(/\s*[;—–]\s*do not (invent|use)\b[^.)]*/gi, '');
+  t = t.replace(/(^|(?<=[.!?)]\s))(Do not (invent|use)|Don't (invent|use))\b[^.]*\.\s*/g, '');
+  t = t.replace(/\s*\([Aa]dded [^)]*\)/g, '');
+  t = t.replace(/,?\s*\b[Aa]dded \d{1,2} \w+ \d{4} (digest|pulse)\.?/g, '');
+  t = t.replace(/\(\s*(era file)\s*\)/g, '').replace(/\(\s*\)/g, '');
+  t = t.replace(/\s+/g, ' ').trim();
+  return t;
+}
+
+const URL_KEYS = new Set(['url', 'src', 'source_url', 'sources', 'card_image', 'id', 'slug', 'search']);
+
+export function deepClean<T>(value: T, key = ''): T {
+  if (URL_KEYS.has(key)) return value;
+  if (typeof value === 'string') return cleanText(value) as unknown as T;
+  if (Array.isArray(value)) return value.map((v) => deepClean(v, key)) as unknown as T;
+  if (value && typeof value === 'object') {
+    const out: Record<string, unknown> = {};
+    for (const [k, v] of Object.entries(value as Record<string, unknown>)) {
+      out[k] = k === 'flags' ? v : deepClean(v, k);
+    }
+    return out as T;
+  }
+  return value;
+}
+
+// Direct image URL for a Wikimedia Commons file page (PD/CC images only)
+export function commonsImage(pageUrl: string): { thumb: string; artist: string; license: string; license_url?: string } | null {
+  const m = pageUrl.match(/commons\.wikimedia\.org\/wiki\/(File:[^?#]+)/);
+  if (!m) return null;
+  let key = m[1];
+  try { key = decodeURIComponent(key); } catch {}
+  const hit = (commonsCredits as Record<string, any>)[key];
+  return hit && hit.thumb ? hit : null;
 }
 
 // Get user-facing sensitivity warning
@@ -222,4 +270,10 @@ export function getUrlDisplayName(url: string): string {
   } catch {
     return url;
   }
+}
+
+// First four-digit year in a free-text date ("Campaign revealed 6 Jan 2015" -> "2015")
+export function getYear(date: string): string {
+  const m = (date || '').match(/\b(1[5-9]|20)\d{2}\b/);
+  return m ? m[0] : '';
 }

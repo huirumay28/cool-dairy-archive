@@ -1,6 +1,6 @@
 import { notFound } from 'next/navigation';
 import Link from 'next/link';
-import { getMomentById, getAllMoments, cleanText, getSensitivityWarning, isValidUrl, getUrlDisplayName } from '@/lib/data';
+import { getMomentById, getAllMoments, cleanText, getSensitivityWarning, isValidUrl, getUrlDisplayName, commonsImage } from '@/lib/data';
 import YouTubeEmbed from '@/components/YouTubeEmbed';
 import InstagramEmbed from '@/components/InstagramEmbed';
 import ThreadsEmbed from '@/components/ThreadsEmbed';
@@ -124,7 +124,23 @@ export default async function MomentPage({ params }: { params: Promise<{ id: str
                       </span>
                     </div>
                     
-                    {isPDCC ? (
+                    {isPDCC && !item.kind.includes('?') && !sensitivityWarning && commonsImage(item.url) ? (
+                      <figure>
+                        <a href={item.url} target="_blank" rel="noopener noreferrer" className="block bg-[#efebe3]">
+                          {/* eslint-disable-next-line @next/next/no-img-element */}
+                          <img
+                            src={commonsImage(item.url)!.thumb}
+                            alt={`${moment.who}: ${item.kind}`}
+                            loading="lazy"
+                            className="w-full max-h-[640px] object-contain"
+                          />
+                        </a>
+                        <figcaption className="font-mono text-xs text-gray-600 mt-3 space-y-1">
+                          <p>Photo: {commonsImage(item.url)!.artist}. {commonsImage(item.url)!.license_url ? (<a href={commonsImage(item.url)!.license_url} target="_blank" rel="noopener noreferrer" className="border-b border-gray-400 hover:border-black">{commonsImage(item.url)!.license}</a>) : commonsImage(item.url)!.license}. Via <a href={item.url} target="_blank" rel="noopener noreferrer" className="border-b border-gray-400 hover:border-black">Wikimedia Commons</a>.</p>
+                          {item.note && <p className="italic">{item.note}</p>}
+                        </figcaption>
+                      </figure>
+                    ) : isPDCC ? (
                       <div>
                         <p className="text-sm mb-2">
                           Public domain / Creative Commons image

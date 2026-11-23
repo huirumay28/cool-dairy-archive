@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import { getAllMoments, getAllCategories, getAllRegions } from '@/lib/data';
+import { getAllMoments, getAllCategories, getAllRegions, getYear } from '@/lib/data';
 
 export default function Home() {
   const moments = getAllMoments();
@@ -28,18 +28,18 @@ export default function Home() {
       </div>
       
       {/* Stats */}
-      <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-20">
-        <div className="border border-black p-6">
-          <div className="text-4xl font-bold mb-1">{moments.length}</div>
-          <div className="font-mono text-xs uppercase tracking-wider text-gray-600">Iconic moments</div>
+      <div className="grid grid-cols-3 gap-3 sm:gap-6 mb-20">
+        <div className="border border-black p-3 sm:p-6">
+          <div className="font-[family-name:var(--font-display)] text-2xl sm:text-4xl font-bold mb-1">{moments.length}</div>
+          <div className="font-mono text-[10px] sm:text-xs uppercase tracking-wider text-gray-600">Moments</div>
         </div>
-        <div className="border border-black p-6">
-          <div className="text-4xl font-bold mb-1">{categories.length}</div>
-          <div className="font-mono text-xs uppercase tracking-wider text-gray-600">Categories</div>
+        <div className="border border-black p-3 sm:p-6">
+          <div className="font-[family-name:var(--font-display)] text-2xl sm:text-4xl font-bold mb-1">{categories.length}</div>
+          <div className="font-mono text-[10px] sm:text-xs uppercase tracking-wider text-gray-600">Categories</div>
         </div>
-        <div className="border border-black p-6">
-          <div className="text-4xl font-bold mb-1">{regions.length}</div>
-          <div className="font-mono text-xs uppercase tracking-wider text-gray-600">Regions</div>
+        <div className="border border-black p-3 sm:p-6">
+          <div className="font-[family-name:var(--font-display)] text-2xl sm:text-4xl font-bold mb-1">{regions.length}</div>
+          <div className="font-mono text-[10px] sm:text-xs uppercase tracking-wider text-gray-600">Regions</div>
         </div>
       </div>
       
@@ -52,7 +52,7 @@ export default function Home() {
           </div>
           <Link 
             href="/moments" 
-            className="font-mono text-sm border-b-2 border-black hover:bg-black hover:text-white transition-colors px-1"
+            className="font-mono text-sm whitespace-nowrap shrink-0 border-b-2 border-black hover:bg-black hover:text-white transition-colors px-1"
           >
             View all →
           </Link>
@@ -71,7 +71,7 @@ export default function Home() {
                     {moment.category}
                   </span>
                   <span className="font-mono text-xs text-gray-400">
-                    {moment.date.split(' ')[0]}
+                    {getYear(moment.date)}
                   </span>
                 </div>
                 <h3 className="text-lg font-bold mb-2 group-hover:underline">

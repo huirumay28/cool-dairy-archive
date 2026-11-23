@@ -2,7 +2,7 @@
 
 import { useState, useMemo } from 'react';
 import Link from 'next/link';
-import { getAllMoments, getAllCategories, getAllRegions } from '@/lib/data';
+import { getAllMoments, getAllCategories, getAllRegions, getYear } from '@/lib/data';
 
 export default function MomentsPage() {
   const allMoments = useMemo(() => getAllMoments(), []);
@@ -152,7 +152,7 @@ export default function MomentsPage() {
               </p>
               
               <div className="flex items-center justify-between font-mono text-xs text-gray-500">
-                <span>{moment.date.split(' ')[0] || moment.date}</span>
+                <span>{getYear(moment.date)}</span>
                 <span>{moment.region}</span>
               </div>
             </div>
