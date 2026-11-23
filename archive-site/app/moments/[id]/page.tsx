@@ -1,6 +1,6 @@
 import { notFound } from 'next/navigation';
 import Link from 'next/link';
-import { getMomentById, getAllMoments } from '@/lib/data';
+import { getMomentById, getAllMoments, cleanText, getSensitivityWarning, isValidUrl, getUrlDisplayName } from '@/lib/data';
 import YouTubeEmbed from '@/components/YouTubeEmbed';
 import InstagramEmbed from '@/components/InstagramEmbed';
 import ThreadsEmbed from '@/components/ThreadsEmbed';
@@ -13,76 +13,57 @@ export async function generateStaticParams() {
   }));
 }
 
-export default function MomentPage({ params }: { params: { id: string } }) {
-  const moment = getMomentById(params.id);
+export default async function MomentPage({ params }: { params: Promise<{ id: string }> }) {
+  const { id } = await params;
+  const moment = getMomentById(id);
   
   if (!moment) {
     notFound();
   }
   
+  const sensitivityWarning = getSensitivityWarning(moment);
+  
+  // Clean text for display
+  const cleanedOutfit = cleanText(moment.outfit);
+  const cleanedWhy = cleanText(moment.why);
+  const cleanedPlace = cleanText(moment.place);
+  
   return (
-    <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
+    <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
       {/* Breadcrumb */}
-      <nav className="mb-8 text-sm">
-        <Link href="/moments" className="text-gray-500 hover:text-gray-700">
-          ← Back to all moments
+      <nav className="mb-8 text-sm font-mono">
+        <Link href="/moments" className="text-gray-600 hover:text-black border-b border-gray-400 hover:border-black transition-colors">
+          ← All moments
         </Link>
       </nav>
       
       {/* Header */}
-      <header className="mb-12">
-        <div className="flex items-center gap-3 mb-4">
-          <span className="text-xs uppercase tracking-wide text-gray-500 font-medium px-3 py-1 bg-gray-100 rounded-full">
+      <header className="mb-12 border-b border-black pb-8">
+        <div className="flex items-center gap-3 mb-4 font-mono text-xs uppercase tracking-wider">
+          <span className="px-2 py-1 bg-black text-white">
             {moment.category}
           </span>
           {moment.asian && (
-            <span className="text-xs px-3 py-1 bg-purple-100 text-purple-700 rounded-full font-medium">
+            <span className="px-2 py-1 border border-black">
               Asian
             </span>
           )}
-          {moment.strength === 5 && (
-            <span className="text-xs px-3 py-1 bg-yellow-100 text-yellow-700 rounded-full font-medium">
-              ★★★★★ Featured
-            </span>
-          )}
         </div>
         
-        <h1 className="text-4xl font-bold tracking-tight mb-4">
+        <h1 className="text-4xl md:text-5xl font-bold mb-6 leading-tight">
           {moment.who}
         </h1>
         
-        <div className="flex flex-wrap items-center gap-4 text-sm text-gray-600">
-          <div className="flex items-center">
-            <svg className="w-4 h-4 mr-1.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
-            </svg>
-            {moment.date}
-          </div>
-          <div className="flex items-center">
-            <svg className="w-4 h-4 mr-1.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
-              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
-            </svg>
-            {moment.place}
-          </div>
+        <div className="font-mono text-sm space-y-1 text-gray-700">
+          <div>{moment.date}</div>
+          <div>{cleanedPlace}</div>
         </div>
         
-        {/* Flags Warning */}
-        {moment.flags && moment.flags.length > 0 && (
-          <div className="mt-6 p-4 bg-yellow-50 border border-yellow-200 rounded-lg">
-            <div className="flex items-start">
-              <svg className="w-5 h-5 text-yellow-600 mt-0.5 mr-2 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
-                <path fillRule="evenodd" d="M8.257 3.099c.765-1.36 2.722-1.36 3.486 0l5.58 9.92c.75 1.334-.213 2.98-1.742 2.98H4.42c-1.53 0-2.493-1.646-1.743-2.98l5.58-9.92zM11 13a1 1 0 11-2 0 1 1 0 012 0zm-1-8a1 1 0 00-1 1v3a1 1 0 002 0V6a1 1 0 00-1-1z" clipRule="evenodd" />
-              </svg>
-              <div>
-                <p className="text-sm font-medium text-yellow-800 mb-1">Content Note</p>
-                <ul className="text-sm text-yellow-700 space-y-1">
-                  {moment.flags.map((flag, i) => (
-                    <li key={i}>• {flag}</li>
-                  ))}
-                </ul>
-              </div>
-            </div>
+        {/* Sensitivity Warning */}
+        {sensitivityWarning && (
+          <div className="mt-6 p-4 border-2 border-black bg-white">
+            <p className="font-mono text-xs uppercase tracking-wider mb-2">Content Note</p>
+            <p className="text-sm leading-relaxed">{sensitivityWarning}</p>
           </div>
         )}
       </header>
@@ -91,96 +72,114 @@ export default function MomentPage({ params }: { params: { id: string } }) {
       <div className="space-y-12">
         {/* What She Wore */}
         <section>
-          <h2 className="text-2xl font-semibold mb-4">What She Wore</h2>
-          <p className="text-base text-gray-700 leading-relaxed whitespace-pre-wrap">
-            {moment.outfit}
-          </p>
+          <h2 className="text-2xl font-bold mb-4 border-b border-black pb-2">What She Wore</h2>
+          <div className="prose prose-sm max-w-none">
+            <p className="leading-relaxed whitespace-pre-wrap">{cleanedOutfit}</p>
+          </div>
         </section>
         
         {/* Designer / Label */}
         <section>
-          <h2 className="text-2xl font-semibold mb-4">Designer / Label</h2>
-          <p className="text-base text-gray-700 leading-relaxed">
-            {moment.label}
-          </p>
+          <h2 className="text-2xl font-bold mb-4 border-b border-black pb-2">Designer / Label</h2>
+          <div className="prose prose-sm max-w-none">
+            <p className="leading-relaxed">{cleanText(moment.label)}</p>
+          </div>
         </section>
         
         {/* Why This Moment */}
         <section>
-          <h2 className="text-2xl font-semibold mb-4">Why This Moment Matters</h2>
-          <p className="text-base text-gray-700 leading-relaxed whitespace-pre-wrap">
-            {moment.why}
-          </p>
+          <h2 className="text-2xl font-bold mb-4 border-b border-black pb-2">Why This Moment Matters</h2>
+          <div className="prose prose-sm max-w-none">
+            <p className="leading-relaxed whitespace-pre-wrap">{cleanedWhy}</p>
+          </div>
         </section>
         
         {/* Where It Lives Now */}
         {moment.where && (
           <section>
-            <h2 className="text-2xl font-semibold mb-4">Where the Garment Lives Now</h2>
-            <p className="text-base text-gray-700 leading-relaxed">
-              {moment.where}
-            </p>
+            <h2 className="text-2xl font-bold mb-4 border-b border-black pb-2">Where the Garment Lives Now</h2>
+            <div className="prose prose-sm max-w-none">
+              <p className="leading-relaxed">{cleanText(moment.where)}</p>
+            </div>
           </section>
         )}
         
         {/* Media */}
         {moment.media && moment.media.length > 0 && (
           <section>
-            <h2 className="text-2xl font-semibold mb-6">Images & Media</h2>
+            <h2 className="text-2xl font-bold mb-6 border-b border-black pb-2">Images</h2>
             <div className="space-y-6">
-              {moment.media.map((item, i) => (
-                <div key={i} className="border border-gray-200 rounded-lg p-6">
-                  <div className="mb-3">
-                    <span className="inline-block text-xs uppercase tracking-wide font-medium text-gray-500 px-2 py-1 bg-gray-100 rounded">
-                      {item.kind}
-                    </span>
-                  </div>
-                  
-                  {item.kind.toLowerCase().includes('pd') || item.kind.toLowerCase().includes('cc') ? (
-                    <div>
-                      <p className="text-sm text-gray-600 mb-2">Public domain / Creative Commons image available</p>
-                      <a 
-                        href={item.url} 
-                        target="_blank" 
-                        rel="noopener noreferrer"
-                        className="text-blue-600 hover:underline text-sm break-words"
-                      >
-                        {item.url}
-                      </a>
+              {moment.media.map((item, i) => {
+                const isPDCC = item.kind.toLowerCase().includes('pd') || 
+                               item.kind.toLowerCase().includes('cc') ||
+                               item.rights.toLowerCase().includes('public-domain') ||
+                               item.rights.toLowerCase().includes('cc0') ||
+                               item.rights.toLowerCase().includes('cc by');
+                
+                return (
+                  <div key={i} className="border border-gray-300 p-4">
+                    <div className="mb-3">
+                      <span className="font-mono text-xs uppercase px-2 py-1 bg-gray-100">
+                        {item.kind}
+                      </span>
                     </div>
-                  ) : (
-                    <div>
-                      <p className="text-sm text-gray-600 mb-2">
-                        Copyrighted image — view at source (credited)
-                      </p>
-                      <a 
-                        href={item.url} 
-                        target="_blank" 
-                        rel="noopener noreferrer"
-                        className="text-blue-600 hover:underline text-sm break-words"
-                      >
-                        {item.url}
-                      </a>
-                    </div>
-                  )}
-                  
-                  <div className="mt-3 text-xs text-gray-500">
-                    <p><strong>Credit:</strong> {item.credit}</p>
-                    <p><strong>Rights:</strong> {item.rights}</p>
-                    {item.note && <p className="mt-1 italic">{item.note}</p>}
+                    
+                    {isPDCC ? (
+                      <div>
+                        <p className="text-sm mb-2">
+                          Public domain / Creative Commons image
+                        </p>
+                        <p className="mb-3">
+                          <a 
+                            href={item.url} 
+                            target="_blank" 
+                            rel="noopener noreferrer"
+                            className="border-b-2 border-black hover:bg-black hover:text-white transition-colors font-medium"
+                          >
+                            {getUrlDisplayName(item.url)}
+                          </a>
+                        </p>
+                        <div className="font-mono text-xs text-gray-600 space-y-1">
+                          <p><span className="font-bold">Credit:</span> {item.credit}</p>
+                          <p><span className="font-bold">License:</span> {item.rights}</p>
+                          {item.note && <p className="italic">{cleanText(item.note)}</p>}
+                        </div>
+                      </div>
+                    ) : (
+                      <div>
+                        <p className="text-sm mb-2">
+                          Copyrighted image — view at source
+                        </p>
+                        <p className="mb-3">
+                          <a 
+                            href={item.url} 
+                            target="_blank" 
+                            rel="noopener noreferrer"
+                            className="border-b-2 border-black hover:bg-black hover:text-white transition-colors font-medium"
+                          >
+                            {getUrlDisplayName(item.url)}
+                          </a>
+                        </p>
+                        <div className="font-mono text-xs text-gray-600 space-y-1">
+                          <p><span className="font-bold">Credit:</span> {item.credit}</p>
+                          <p><span className="font-bold">Rights:</span> {item.rights}</p>
+                          {item.note && <p className="italic">{cleanText(item.note)}</p>}
+                        </div>
+                      </div>
+                    )}
                   </div>
-                </div>
-              ))}
+                );
+              })}
             </div>
           </section>
         )}
         
         {/* Embeds */}
-        {moment.embeds && moment.embeds.length > 0 && (
+        {moment.embeds && moment.embeds.filter(e => isValidUrl(e.url)).length > 0 && (
           <section>
-            <h2 className="text-2xl font-semibold mb-6">Video & Social Media</h2>
+            <h2 className="text-2xl font-bold mb-6 border-b border-black pb-2">Video & Social Media</h2>
             <div className="space-y-6">
-              {moment.embeds.map((embed, i) => (
+              {moment.embeds.filter(e => isValidUrl(e.url)).map((embed, i) => (
                 <div key={i}>
                   {embed.platform === 'YouTube' && (
                     <YouTubeEmbed url={embed.url} channel={embed.channel} />
@@ -191,9 +190,25 @@ export default function MomentPage({ params }: { params: { id: string } }) {
                   {embed.platform === 'Threads' && (
                     <ThreadsEmbed url={embed.url} note={embed.note} />
                   )}
-                  {embed.note && embed.platform !== 'Instagram' && embed.platform !== 'Threads' && (
-                    <p className="text-xs text-gray-500 mt-2 italic">{embed.note}</p>
-                  )}
+                </div>
+              ))}
+            </div>
+          </section>
+        )}
+        
+        {/* Rookie Tie-ins */}
+        {moment.rookie_tie_in && moment.rookie_tie_in.length > 0 && (
+          <section>
+            <h2 className="text-2xl font-bold mb-4 border-b border-black pb-2">Rookie Context</h2>
+            <div className="space-y-4">
+              {moment.rookie_tie_in.map((item, i) => (
+                <div key={i} className="border-l-4 border-black pl-4">
+                  <p className="font-bold mb-1">
+                    <a href={item.url} target="_blank" rel="noopener noreferrer" className="border-b border-black hover:bg-black hover:text-white transition-colors">
+                      {item.title}
+                    </a>
+                  </p>
+                  <p className="text-sm text-gray-700">{item.why}</p>
                 </div>
               ))}
             </div>
@@ -202,17 +217,18 @@ export default function MomentPage({ params }: { params: { id: string } }) {
         
         {/* Sources */}
         <section>
-          <h2 className="text-2xl font-semibold mb-4">Sources</h2>
-          <ol className="space-y-2">
+          <h2 className="text-2xl font-bold mb-4 border-b border-black pb-2">Sources</h2>
+          <ol className="space-y-2 font-mono text-sm">
             {moment.sources.map((source, i) => (
-              <li key={i} className="text-sm">
+              <li key={i}>
+                {i + 1}.{' '}
                 <a 
                   href={source} 
                   target="_blank" 
                   rel="noopener noreferrer"
-                  className="text-blue-600 hover:underline break-words"
+                  className="border-b border-gray-400 hover:border-black hover:bg-black hover:text-white transition-colors"
                 >
-                  {i + 1}. {source}
+                  {getUrlDisplayName(source)}
                 </a>
               </li>
             ))}
@@ -221,12 +237,12 @@ export default function MomentPage({ params }: { params: { id: string } }) {
       </div>
       
       {/* Navigation */}
-      <div className="mt-16 pt-8 border-t border-gray-200">
+      <div className="mt-16 pt-8 border-t border-black">
         <Link 
           href="/moments"
-          className="inline-flex items-center text-sm font-medium text-gray-700 hover:text-gray-900"
+          className="inline-block font-mono text-sm border-b border-black hover:bg-black hover:text-white transition-colors px-1"
         >
-          ← Back to all moments
+          ← All moments
         </Link>
       </div>
     </div>

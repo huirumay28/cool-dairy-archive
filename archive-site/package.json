@@ -15,17 +15,19 @@
     "react": "19.3.0",
     "react-dom": "19.3.0",
     "react-loading-skeleton": "^3.5.0",
-    "react-youtube": "^10.1.0"
+    "react-youtube": "^10.1.0",
+    "server-only": "^0.0.1"
   },
   "devDependencies": {
     "@playwright/test": "^1.65.1",
+    "@tailwindcss/postcss": "^4.3.5",
     "@tailwindcss/turbopack": "4.3.3",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "eslint": "^9",
     "eslint-config-next": "16.4.6",
-    "tailwindcss": "4.3.3",
+    "tailwindcss": "^4.0.0",
     "typescript": "^5"
   }
 }

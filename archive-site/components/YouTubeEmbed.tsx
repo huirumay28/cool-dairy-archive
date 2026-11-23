@@ -13,26 +13,34 @@ export default function YouTubeEmbed({ url, channel, className = '' }: YouTubeEm
   
   if (!videoId) {
     return (
-      <div className={`bg-gray-50 border border-gray-200 rounded-lg p-6 ${className}`}>
-        <p className="text-sm text-gray-600">
-          YouTube video: <a href={url} target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">{url}</a>
-        </p>
-        {channel && <p className="text-xs text-gray-500 mt-1">Channel: {channel}</p>}
+      <div className={`border border-gray-300 p-6 ${className}`}>
+        <p className="font-mono text-xs mb-2">YouTube video</p>
+        <a href={url} target="_blank" rel="noopener noreferrer" className="text-sm border-b border-black hover:bg-black hover:text-white transition-colors">
+          {url}
+        </a>
+        {channel && <p className="font-mono text-xs text-gray-600 mt-1">Channel: {channel}</p>}
       </div>
     );
   }
   
   return (
-    <div className={`aspect-video rounded-lg overflow-hidden ${className}`}>
-      <iframe
-        width="100%"
-        height="100%"
-        src={`https://www.youtube-nocookie.com/embed/${videoId}`}
-        title="YouTube video"
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-        allowFullScreen
-        className="border-0"
-      />
+    <div className={`border border-black ${className}`}>
+      <div className="aspect-video">
+        <iframe
+          width="100%"
+          height="100%"
+          src={`https://www.youtube-nocookie.com/embed/${videoId}`}
+          title="YouTube video"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowFullScreen
+          className="border-0"
+        />
+      </div>
+      {channel && (
+        <div className="p-2 border-t border-gray-300">
+          <p className="font-mono text-xs text-gray-600">Channel: {channel}</p>
+        </div>
+      )}
     </div>
   );
 }

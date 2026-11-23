@@ -1,14 +1,16 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import "tailwindcss";
 
 @layer base {
   body {
-    @apply text-gray-900;
+    font-family: 'IBM Plex Mono', 'Courier New', monospace;
+    background-color: #faf8f4;
+    color: #1a1a1a;
   }
   
   h1, h2, h3, h4, h5, h6 {
-    @apply font-semibold;
+    font-family: 'Baskerv­ille', 'Libre Baskerville', 'Times New Roman', serif;
+    font-weight: 600;
+    letter-spacing: -0.02em;
   }
 }
 
