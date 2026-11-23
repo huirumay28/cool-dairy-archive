@@ -1,0 +1,291 @@
+{
+ "icon": "Tavi Gevinson",
+ "category": "writer",
+ "region": "North America",
+ "generated": "2026-11-23",
+ "moments": [
+  {
+   "id": "tavi-style-rookie-backyard-portraits",
+   "date": "2008 to 2010 (Style Rookie, started at 11); Rodarte for Target video Dec 2009",
+   "place": "Her back garden in Oak Park, Illinois (tripod self-portraits)",
+   "outfit": "The New Yorker describes one Christmas Eve outfit post: a lacy American Apparel jumpsuit, a black Rodarte top silk-screened with a skeleton, and joke-shop glasses with hologram eyeballs floating in neon liquid, worn with a deadpan face. More generally: 'frumpy, Grey Gardens-inspired clothes', too-big jackets, towering platforms, clusters of brooches, clear-frame 'Tootsie' glasses, a turban, clashing prints, and ice-blue hair that faded to silver.",
+   "label": "American Apparel; Rodarte (as stated by The New Yorker). Starred in Rodarte's Target video (NYT).",
+   "why": "An 11-year-old in the Chicago suburbs taught the fashion industry to read a girl's bedroom-and-backyard style as criticism. The look mixed innocence with creepiness on purpose, Edward Gorey with granny brooches, and she took from Rei Kawakubo and the Mulleavys 'the idea that clothing can be art'. It is the DIY self-portrait as a fashion publication, the bridge from zines to blogs.",
+   "sources": [
+    "https://www.newyorker.com/magazine/2010/09/20/tavi-says",
+    "https://www.nytimes.com/2012/07/29/fashion/tavi-gevinson-the-oracle-of-girl-world.html",
+    "https://www.thecut.com/2008/07/tween_blogger_makes_it_big_wit.html"
+   ],
+   "where": null,
+   "media": [
+    {
+     "kind": "note",
+     "url": "https://www.newyorker.com/magazine/2010/09/20/tavi-says",
+     "credit": "Self-portraits by Tavi Gevinson (Style Rookie)",
+     "rights": "copyrighted (credit+link/embed only)",
+     "note": "The original blog photos are hers. Ask Tavi or link to the archived blog. I did not find the exact Christmas Eve post URL.",
+     "link_status": "ok"
+    },
+    {
+     "kind": "CC image (not this moment)",
+     "url": "https://commons.wikimedia.org/wiki/File:Tavi_Gevinson_by_Erica_Parrott.jpg",
+     "credit": "Erica Parrott, CC BY-SA 3.0 (2012)",
+     "rights": "public-domain/CC (CC BY-SA 3.0)",
+     "link_status": "ok"
+    },
+    {
+     "kind": "CC image (not this moment)",
+     "url": "https://commons.wikimedia.org/wiki/File:Gevinson_at_the_New_York_premiere_of_Cadavar.jpg",
+     "credit": "CC BY-SA 2.0 (Feb 2012, Cadaver premiere, NY)",
+     "rights": "public-domain/CC (CC BY-SA 2.0)",
+     "link_status": "ok"
+    }
+   ],
+   "embeds": [
+    {
+     "platform": "YouTube",
+     "url": "https://www.youtube.com/watch?v=2aYsF-HXxmE",
+     "official": true,
+     "channel": "TargetGO",
+     "note": "'Tavi and Rodarte for Target', uploaded 10 Dec 2009",
+     "link_status": "ok"
+    }
+   ],
+   "rookie_tie_in": [
+    {
+     "title": "Editor's Letter, January 2017: Possibility",
+     "url": "https://www.rookiemag.com/2017/01/editors-letter-63/",
+     "why": "She revisits her childhood bedroom of vintage '60s dresses ('Many of those dresses, I now realize, were actually really oversized, a couple even maternity—I only ever wore the fact of a dress'). It is her own retrospective on the Style Rookie wardrobe."
+    }
+   ],
+   "strength": 5,
+   "who": "Tavi Gevinson",
+   "icon": "Tavi Gevinson",
+   "category": "writer",
+   "region": "North America",
+   "country": "USA",
+   "asian": false,
+   "source_status": {
+    "https://www.newyorker.com/magazine/2010/09/20/tavi-says": "ok",
+    "https://www.nytimes.com/2012/07/29/fashion/tavi-gevinson-the-oracle-of-girl-world.html": "bot-blocked (403); page surfaced in search, open in a browser",
+    "https://www.thecut.com/2008/07/tween_blogger_makes_it_big_wit.html": "ok"
+   }
+  },
+  {
+   "id": "tavi-nyfw-sept-2009-baggu-hat",
+   "date": "Sep 2009",
+   "place": "Her first New York Fashion Week",
+   "outfit": "A black Christian Siriano cocktail skirt with a metallic purple Miu Miu shirt, a thrifted belt and vintage pearls. On her head was a Baggu reusable shopping tote fastened with a guitar strap (Vanity Fair).",
+   "label": "Christian Siriano (skirt), Miu Miu (shirt), Baggu (tote as hat), per Vanity Fair.",
+   "why": "At 13, at her first NYFW, she turned a reusable grocery bag into a hat and wore it next to runway pieces. The high-low mix is pure cool dairy: designer and thrift at the same level, with humour as the point. It is the moment the industry saw she was not dressing to please it.",
+   "sources": [
+    "https://www.vanityfair.com/style/photos/2014/08/tavi-gevinson-style-evolution"
+   ],
+   "where": null,
+   "media": [
+    {
+     "kind": "press photo",
+     "url": "https://www.vanityfair.com/style/photos/2014/08/tavi-gevinson-style-evolution",
+     "credit": "see Vanity Fair gallery (agency credit on slide)",
+     "rights": "copyrighted (credit+link/embed only)",
+     "link_status": "ok"
+    }
+   ],
+   "embeds": [],
+   "rookie_tie_in": [],
+   "strength": 4,
+   "who": "Tavi Gevinson",
+   "icon": "Tavi Gevinson",
+   "category": "writer",
+   "region": "North America",
+   "country": "USA",
+   "asian": false,
+   "source_status": {
+    "https://www.vanityfair.com/style/photos/2014/08/tavi-gevinson-style-evolution": "ok"
+   }
+  },
+  {
+   "id": "tavi-dior-couture-hat-2010",
+   "date": "25 Jan 2010 (Teen Vogue report that day; Daily Beast: the Monday that opened Paris couture). The season name varies by source, so it is not stated.",
+   "place": "Christian Dior haute couture show, Paris, front row",
+   "outfit": "An oversized pastel-pink cartoon bow headpiece by Stephen Jones; an organza Comme des Garçons coat; wallpaper-floral tights; icy-blue hair faded to grey (Vanity Fair, Daily Beast, Teen Vogue, ELLE UK). In Paris, Karl Lagerfeld told her: 'Normally, children—young people—don't have this hair color. It's great to have it.'",
+   "label": "Stephen Jones (bow hat); Comme des Garçons (coat), as stated by the sources.",
+   "why": "'Hatgate': Grazia's style director Paula Reed tweeted a photo of the couture show seen through the bow ('Not best pleased to be watching couture through 13 year old Tavi's hat'). The tweet became the flashpoint of the 2010 editors-versus-bloggers backlash. Tavi's reply on her blog was the iconic part: 'I'm SHORT… adult heads do not have holes in them… I am really curious as to when news websites will write about something interesting, i.e. not what someone wore to a fashion show.' A girl blocked the old guard's view, literally and figuratively.",
+   "sources": [
+    "https://www.independent.co.uk/life-style/fashion/news/fluff-flies-as-fashion-writers-pick-a-cat-fight-with-bloggers-1884539.html",
+    "https://www.thedailybeast.com/paris-couture-kicks-off",
+    "https://www.teenvogue.com/story/tavi-obstructs-views-dior-does-equestrianism-and-couture-has-an-old-newbie",
+    "https://www.huffpost.com/entry/reporter-watches-dior-sho_n_436111",
+    "https://www.elle.com/uk/life-and-culture/a37220266/tavi-gevinson-gossip-girl-interview/",
+    "https://www.newyorker.com/magazine/2010/09/20/tavi-says",
+    "https://www.vanityfair.com/style/photos/2014/08/tavi-gevinson-style-evolution"
+   ],
+   "where": "Not known. The Stephen Jones bow's whereabouts are unreported.",
+   "media": [
+    {
+     "kind": "social/press photo",
+     "url": "https://www.huffpost.com/entry/reporter-watches-dior-sho_n_436111",
+     "credit": "Paula Reed / Grazia tweet photo, the runway seen through the bow (reproduced by HuffPost)",
+     "rights": "copyrighted (credit+link/embed only)",
+     "link_status": "bot-blocked (406); page surfaced in search, open in a browser"
+    },
+    {
+     "kind": "press photo",
+     "url": "https://www.vanityfair.com/style/photos/2014/08/tavi-gevinson-style-evolution",
+     "credit": "see Vanity Fair gallery",
+     "rights": "copyrighted (credit+link/embed only)",
+     "link_status": "ok"
+    },
+    {
+     "kind": "press photo",
+     "url": "https://www.independent.co.uk/life-style/fashion/news/fluff-flies-as-fashion-writers-pick-a-cat-fight-with-bloggers-1884539.html",
+     "credit": "EPA (per Independent)",
+     "rights": "copyrighted (credit+link/embed only)",
+     "link_status": "ok"
+    }
+   ],
+   "embeds": [],
+   "rookie_tie_in": [],
+   "strength": 5,
+   "flags": [
+    "Vanity Fair calls these the 'fall/winter 2010 haute couture shows'. January couture is usually labelled Spring/Summer, so I left the season out.",
+    "Her blog reply is quoted via The Independent. The original blog was 'The New Girl in Town', and I did not find the post URL."
+   ],
+   "who": "Tavi Gevinson",
+   "icon": "Tavi Gevinson",
+   "category": "writer",
+   "region": "North America",
+   "country": "USA",
+   "asian": false,
+   "source_status": {
+    "https://www.independent.co.uk/life-style/fashion/news/fluff-flies-as-fashion-writers-pick-a-cat-fight-with-bloggers-1884539.html": "ok",
+    "https://www.thedailybeast.com/paris-couture-kicks-off": "ok",
+    "https://www.teenvogue.com/story/tavi-obstructs-views-dior-does-equestrianism-and-couture-has-an-old-newbie": "ok",
+    "https://www.huffpost.com/entry/reporter-watches-dior-sho_n_436111": "bot-blocked (406); page surfaced in search, open in a browser",
+    "https://www.elle.com/uk/life-and-culture/a37220266/tavi-gevinson-gossip-girl-interview/": "ok",
+    "https://www.newyorker.com/magazine/2010/09/20/tavi-says": "ok",
+    "https://www.vanityfair.com/style/photos/2014/08/tavi-gevinson-style-evolution": "ok"
+   }
+  },
+  {
+   "id": "tavi-nyfw-sept-2011-prada-lipstick-skirt",
+   "date": "Sep 2011, days after Rookie launched (1 Sep 2011)",
+   "place": "New York Fashion Week",
+   "outfit": "Her Prada 'lipstick' skirt, 'a famous piece from the spring 2010 collection, which she hunted down on eBay', worn with bobby socks and black-and-white kilties (Vanity Fair).",
+   "label": "Prada, spring 2010 collection (as stated by Vanity Fair), bought second-hand on eBay.",
+   "why": "This is the Rookie-launch look. A teenager who had just started a feminist magazine for girls wore a runway grail she had tracked down second-hand, styled like a 1950s schoolgirl. It shows the resale-hunter instinct cool dairy is built on, and the girlish-but-knowing mood Rookie made its house style.",
+   "sources": [
+    "https://www.vanityfair.com/style/photos/2014/08/tavi-gevinson-style-evolution",
+    "https://www.rookiemag.com/2011/09/editors-letter/"
+   ],
+   "where": null,
+   "media": [
+    {
+     "kind": "press photo",
+     "url": "https://www.vanityfair.com/style/photos/2014/08/tavi-gevinson-style-evolution",
+     "credit": "see Vanity Fair gallery",
+     "rights": "copyrighted (credit+link/embed only)",
+     "link_status": "ok"
+    }
+   ],
+   "embeds": [
+    {
+     "platform": "YouTube",
+     "url": "https://www.youtube.com/watch?v=E22icGCvGXk",
+     "official": true,
+     "channel": "TED",
+     "note": "'Still Figuring It Out' (TEDxTeen 2012; uploaded 2015). It is the spoken version of the Rookie ethos, not this outfit.",
+     "link_status": "ok"
+    }
+   ],
+   "rookie_tie_in": [
+    {
+     "title": "Editor's Letter, September 2011: Beginnings",
+     "url": "https://www.rookiemag.com/2011/09/editors-letter/",
+     "why": "'Rookie is not your guide to Being a Teen. It is not a pamphlet on How to Be a Young Woman… Rookie is a place to make the best of the beautiful pain and cringe-worthy awkwardness of being an adolescent girl.'"
+    },
+    {
+     "title": "TEDxTeen 2012, 'Still Figuring It Out' (transcript via NPR)",
+     "url": "https://text.npr.org/211727773",
+     "why": "'You can't be a feminist who's also interested in fashion. You can't care about clothes if it's not for the sake of what other people, usually men, will think of you'. These are the contradictions she says Rookie set out to reconcile, because 'feminism was not a rulebook but a discussion'."
+    },
+    {
+     "title": "Editor's Letter, August 2014: Enchantment",
+     "url": "https://www.rookiemag.com/2014/08/editors-letter-34/",
+     "why": "On how 'the so-called feminine arts: beauty, glamour, style' are treated as 'dark magicks', an unfair advantage. It is her clearest feminist theory of clothes."
+    }
+   ],
+   "strength": 5,
+   "who": "Tavi Gevinson",
+   "icon": "Tavi Gevinson",
+   "category": "writer",
+   "region": "North America",
+   "country": "USA",
+   "asian": false,
+   "source_status": {
+    "https://www.vanityfair.com/style/photos/2014/08/tavi-gevinson-style-evolution": "ok",
+    "https://www.rookiemag.com/2011/09/editors-letter/": "ok"
+   }
+  },
+  {
+   "id": "tavi-met-gala-2016-coach",
+   "date": "2 May 2016",
+   "place": "Met Gala, 'Manus x Machina: Fashion in an Age of Technology', New York",
+   "outfit": "A short printed dress with a collar, a high neckline and pearl buttons, covered in mixed prints, worn with heeled sandals, a black clutch and red lipstick (Business Insider; Teen Vogue).",
+   "label": "Custom Coach 1941 by creative director Stuart Vevers (Teen Vogue; BoF).",
+   "why": "Six years after Hatgate, the girl who was blamed for blocking editors' view walked the Met steps as a designer's guest. She still chose a wearable, collegiate, print-clash mini over a gown, a rejection of red-carpet formality that Teen Vogue's headline praised as something 'you could actually wear'. In 2018 she wore a pink Zac Posen mini dress to the Tony Awards (ELLE UK).",
+   "sources": [
+    "https://www.teenvogue.com/story/chloe-grace-moretz-tavi-gevinson-met-gala-2016",
+    "https://www.businessinsider.com/what-influencers-wore-at-met-gala-red-carpet-2021-9",
+    "https://www.businessoffashion.com/organisations/coach/projects/all-eyes-on-the-met-gala-2016-red-carpet/",
+    "https://www.elle.com/uk/fashion/celebrity-style/a37357188/tavi-gevinson-its-a-mood/"
+   ],
+   "where": null,
+   "media": [
+    {
+     "kind": "press photo",
+     "url": "https://www.businessinsider.com/what-influencers-wore-at-met-gala-red-carpet-2021-9",
+     "credit": "Charles Sykes/Invision/AP",
+     "rights": "copyrighted (credit+link/embed only)",
+     "link_status": "ok"
+    },
+    {
+     "kind": "press photo",
+     "url": "https://www.teenvogue.com/story/chloe-grace-moretz-tavi-gevinson-met-gala-2016",
+     "credit": "Getty Images (per Teen Vogue)",
+     "rights": "copyrighted (credit+link/embed only)",
+     "link_status": "ok"
+    }
+   ],
+   "embeds": [
+    {
+     "platform": "Instagram",
+     "url": "check @tavitulle and @coach posts from 2 to 3 May 2016",
+     "official": true,
+     "note": "Not verified: IG not fetchable from the box",
+     "link_status": "n/a"
+    }
+   ],
+   "rookie_tie_in": [
+    {
+     "title": "Editor's Letter, August 2015: Give and Take",
+     "url": "https://www.rookiemag.com/2015/08/editors-letter-44/",
+     "why": "On cutting her hair (the Mia Farrow cut she first had at 13) and how she has 'struggled to find a version of femininity that is not synonymous with the kind of self-consciousness that can slowly desaturate a person, perhaps because it's been defined by men'. It sits between the Rookie years and the red-carpet years."
+    }
+   ],
+   "strength": 3,
+   "who": "Tavi Gevinson",
+   "icon": "Tavi Gevinson",
+   "category": "writer",
+   "region": "North America",
+   "country": "USA",
+   "asian": false,
+   "source_status": {
+    "https://www.teenvogue.com/story/chloe-grace-moretz-tavi-gevinson-met-gala-2016": "ok",
+    "https://www.businessinsider.com/what-influencers-wore-at-met-gala-red-carpet-2021-9": "ok",
+    "https://www.businessoffashion.com/organisations/coach/projects/all-eyes-on-the-met-gala-2016-red-carpet/": "ok",
+    "https://www.elle.com/uk/fashion/celebrity-style/a37357188/tavi-gevinson-its-a-mood/": "ok"
+   }
+  }
+ ]
+}
